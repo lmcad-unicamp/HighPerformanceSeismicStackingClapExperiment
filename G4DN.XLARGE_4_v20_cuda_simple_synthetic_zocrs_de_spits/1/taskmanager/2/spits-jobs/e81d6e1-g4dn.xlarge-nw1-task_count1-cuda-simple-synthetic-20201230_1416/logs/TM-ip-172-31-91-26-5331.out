@@ -1,0 +1,908 @@
+ INFO: [readGatherFromFile:119] Number of CDPs = 445
+ INFO: [readGatherFromFile:120] Number of traces in the gather = 9200
+ INFO: [readGatherFromFile:121] Number of samples per trace = 2502
+ INFO: [initialize:24] Initializing traveltime
+ INFO: [buildZeroOffsetCommonReflectionSurface:66] Upper bound for A is 0.000866025
+ INFO: [buildZeroOffsetCommonReflectionSurface:67] Upper bound for B is 1.97531e-06
+ INFO: [initialize:28] Factory initialized
+ INFO: [create_worker:27] Device count is 0
+ INFO: [parseComputeAlgorithm:28] Generations = 32
+ INFO: [parseComputeAlgorithm:32] Individuals per population = 32
+ INFO: [run:16] m0 = 1100
+ INFO: [activate:15] Activating GPU#0
+ INFO: [activate:15] Activating GPU#0
+ INFO: [activate:15] Activating GPU#0
+ INFO: [selectTracesToBeUsedForMidpoint:113] Selecting traces for m0 = 1100
+ INFO: [copyOnlySelectedTracesToDevice:118] Selected 25 traces
+ INFO: [copyOnlySelectedTracesToDevice:152] Copy time is 0.000245369
+ INFO: [selectTracesToBeUsedForMidpoint:181] Execution time for copying traces is 0.000312913s
+ INFO: [saveStatisticalResults:102] Total execution time for selecting traces is 0.000381409s
+ INFO: [saveStatisticalResults:104] Total execution time for kernels is 0.0296111s
+ INFO: [run:16] m0 = 1180
+ INFO: [activate:15] Activating GPU#0
+ INFO: [selectTracesToBeUsedForMidpoint:113] Selecting traces for m0 = 1180
+ INFO: [copyOnlySelectedTracesToDevice:118] Selected 49 traces
+ INFO: [copyOnlySelectedTracesToDevice:152] Copy time is 0.000492982
+ INFO: [selectTracesToBeUsedForMidpoint:181] Execution time for copying traces is 0.000595466s
+ INFO: [saveStatisticalResults:102] Total execution time for selecting traces is 0.00065582s
+ INFO: [saveStatisticalResults:104] Total execution time for kernels is 0.0548389s
+ INFO: [run:16] m0 = 1260
+ INFO: [activate:15] Activating GPU#0
+ INFO: [selectTracesToBeUsedForMidpoint:113] Selecting traces for m0 = 1260
+ INFO: [copyOnlySelectedTracesToDevice:118] Selected 79 traces
+ INFO: [copyOnlySelectedTracesToDevice:152] Copy time is 0.000800181
+ INFO: [selectTracesToBeUsedForMidpoint:181] Execution time for copying traces is 0.000920793s
+ INFO: [saveStatisticalResults:102] Total execution time for selecting traces is 0.00100657s
+ INFO: [saveStatisticalResults:104] Total execution time for kernels is 0.0702342s
+ INFO: [run:16] m0 = 1340
+ INFO: [activate:15] Activating GPU#0
+ INFO: [selectTracesToBeUsedForMidpoint:113] Selecting traces for m0 = 1340
+ INFO: [copyOnlySelectedTracesToDevice:118] Selected 109 traces
+ INFO: [copyOnlySelectedTracesToDevice:152] Copy time is 0.00111804
+ INFO: [selectTracesToBeUsedForMidpoint:181] Execution time for copying traces is 0.00124643s
+ INFO: [saveStatisticalResults:102] Total execution time for selecting traces is 0.00133087s
+ INFO: [saveStatisticalResults:104] Total execution time for kernels is 0.114818s
+ INFO: [run:16] m0 = 1420
+ INFO: [activate:15] Activating GPU#0
+ INFO: [selectTracesToBeUsedForMidpoint:113] Selecting traces for m0 = 1420
+ INFO: [copyOnlySelectedTracesToDevice:118] Selected 139 traces
+ INFO: [copyOnlySelectedTracesToDevice:152] Copy time is 0.00125091
+ INFO: [selectTracesToBeUsedForMidpoint:181] Execution time for copying traces is 0.00136871s
+ INFO: [saveStatisticalResults:102] Total execution time for selecting traces is 0.00145568s
+ INFO: [saveStatisticalResults:104] Total execution time for kernels is 0.141845s
+ INFO: [run:16] m0 = 1500
+ INFO: [activate:15] Activating GPU#0
+ INFO: [selectTracesToBeUsedForMidpoint:113] Selecting traces for m0 = 1500
+ INFO: [copyOnlySelectedTracesToDevice:118] Selected 169 traces
+ INFO: [copyOnlySelectedTracesToDevice:152] Copy time is 0.00150402
+ INFO: [selectTracesToBeUsedForMidpoint:181] Execution time for copying traces is 0.00190082s
+ INFO: [saveStatisticalResults:102] Total execution time for selecting traces is 0.0019753s
+ INFO: [saveStatisticalResults:104] Total execution time for kernels is 0.166066s
+ INFO: [run:16] m0 = 1580
+ INFO: [activate:15] Activating GPU#0
+ INFO: [selectTracesToBeUsedForMidpoint:113] Selecting traces for m0 = 1580
+ INFO: [copyOnlySelectedTracesToDevice:118] Selected 199 traces
+ INFO: [copyOnlySelectedTracesToDevice:152] Copy time is 0.00171721
+ INFO: [selectTracesToBeUsedForMidpoint:181] Execution time for copying traces is 0.00213557s
+ INFO: [saveStatisticalResults:102] Total execution time for selecting traces is 0.00221862s
+ INFO: [saveStatisticalResults:104] Total execution time for kernels is 0.198535s
+ INFO: [run:16] m0 = 1660
+ INFO: [activate:15] Activating GPU#0
+ INFO: [selectTracesToBeUsedForMidpoint:113] Selecting traces for m0 = 1660
+ INFO: [copyOnlySelectedTracesToDevice:118] Selected 229 traces
+ INFO: [copyOnlySelectedTracesToDevice:152] Copy time is 0.00211733
+ INFO: [selectTracesToBeUsedForMidpoint:181] Execution time for copying traces is 0.00254728s
+ INFO: [saveStatisticalResults:102] Total execution time for selecting traces is 0.00262953s
+ INFO: [saveStatisticalResults:104] Total execution time for kernels is 0.230187s
+ INFO: [run:16] m0 = 1740
+ INFO: [activate:15] Activating GPU#0
+ INFO: [selectTracesToBeUsedForMidpoint:113] Selecting traces for m0 = 1740
+ INFO: [copyOnlySelectedTracesToDevice:118] Selected 259 traces
+ INFO: [copyOnlySelectedTracesToDevice:152] Copy time is 0.00231373
+ INFO: [selectTracesToBeUsedForMidpoint:181] Execution time for copying traces is 0.00276321s
+ INFO: [saveStatisticalResults:102] Total execution time for selecting traces is 0.0028473s
+ INFO: [saveStatisticalResults:104] Total execution time for kernels is 0.252857s
+ INFO: [run:16] m0 = 1820
+ INFO: [activate:15] Activating GPU#0
+ INFO: [selectTracesToBeUsedForMidpoint:113] Selecting traces for m0 = 1820
+ INFO: [copyOnlySelectedTracesToDevice:118] Selected 289 traces
+ INFO: [copyOnlySelectedTracesToDevice:152] Copy time is 0.00259578
+ INFO: [selectTracesToBeUsedForMidpoint:181] Execution time for copying traces is 0.00304976s
+ INFO: [saveStatisticalResults:102] Total execution time for selecting traces is 0.00313389s
+ INFO: [saveStatisticalResults:104] Total execution time for kernels is 0.276908s
+ INFO: [run:16] m0 = 1900
+ INFO: [activate:15] Activating GPU#0
+ INFO: [selectTracesToBeUsedForMidpoint:113] Selecting traces for m0 = 1900
+ INFO: [copyOnlySelectedTracesToDevice:118] Selected 315 traces
+ INFO: [copyOnlySelectedTracesToDevice:152] Copy time is 0.00257449
+ INFO: [selectTracesToBeUsedForMidpoint:181] Execution time for copying traces is 0.0029906s
+ INFO: [saveStatisticalResults:102] Total execution time for selecting traces is 0.00306492s
+ INFO: [saveStatisticalResults:104] Total execution time for kernels is 0.270836s
+ INFO: [run:16] m0 = 1980
+ INFO: [activate:15] Activating GPU#0
+ INFO: [selectTracesToBeUsedForMidpoint:113] Selecting traces for m0 = 1980
+ INFO: [copyOnlySelectedTracesToDevice:118] Selected 333 traces
+ INFO: [copyOnlySelectedTracesToDevice:152] Copy time is 0.00275252
+ INFO: [selectTracesToBeUsedForMidpoint:181] Execution time for copying traces is 0.00319347s
+ INFO: [saveStatisticalResults:102] Total execution time for selecting traces is 0.00327067s
+ INFO: [saveStatisticalResults:104] Total execution time for kernels is 0.293291s
+ INFO: [run:16] m0 = 2060
+ INFO: [activate:15] Activating GPU#0
+ INFO: [selectTracesToBeUsedForMidpoint:113] Selecting traces for m0 = 2060
+ INFO: [copyOnlySelectedTracesToDevice:118] Selected 343 traces
+ INFO: [copyOnlySelectedTracesToDevice:152] Copy time is 0.00286401
+ INFO: [selectTracesToBeUsedForMidpoint:181] Execution time for copying traces is 0.00330195s
+ INFO: [saveStatisticalResults:102] Total execution time for selecting traces is 0.00337675s
+ INFO: [saveStatisticalResults:104] Total execution time for kernels is 0.306205s
+ INFO: [run:16] m0 = 2140
+ INFO: [activate:15] Activating GPU#0
+ INFO: [selectTracesToBeUsedForMidpoint:113] Selecting traces for m0 = 2140
+ INFO: [copyOnlySelectedTracesToDevice:118] Selected 345 traces
+ INFO: [copyOnlySelectedTracesToDevice:152] Copy time is 0.00280965
+ INFO: [selectTracesToBeUsedForMidpoint:181] Execution time for copying traces is 0.00326962s
+ INFO: [saveStatisticalResults:102] Total execution time for selecting traces is 0.00334127s
+ INFO: [saveStatisticalResults:104] Total execution time for kernels is 0.304727s
+ INFO: [run:16] m0 = 2220
+ INFO: [activate:15] Activating GPU#0
+ INFO: [selectTracesToBeUsedForMidpoint:113] Selecting traces for m0 = 2220
+ INFO: [copyOnlySelectedTracesToDevice:118] Selected 345 traces
+ INFO: [copyOnlySelectedTracesToDevice:152] Copy time is 0.00277403
+ INFO: [selectTracesToBeUsedForMidpoint:181] Execution time for copying traces is 0.00322995s
+ INFO: [saveStatisticalResults:102] Total execution time for selecting traces is 0.00332499s
+ INFO: [saveStatisticalResults:104] Total execution time for kernels is 0.306327s
+ INFO: [run:16] m0 = 2300
+ INFO: [activate:15] Activating GPU#0
+ INFO: [selectTracesToBeUsedForMidpoint:113] Selecting traces for m0 = 2300
+ INFO: [copyOnlySelectedTracesToDevice:118] Selected 345 traces
+ INFO: [copyOnlySelectedTracesToDevice:152] Copy time is 0.00275937
+ INFO: [selectTracesToBeUsedForMidpoint:181] Execution time for copying traces is 0.00320326s
+ INFO: [saveStatisticalResults:102] Total execution time for selecting traces is 0.0032743s
+ INFO: [saveStatisticalResults:104] Total execution time for kernels is 0.303378s
+ INFO: [run:16] m0 = 2380
+ INFO: [activate:15] Activating GPU#0
+ INFO: [selectTracesToBeUsedForMidpoint:113] Selecting traces for m0 = 2380
+ INFO: [copyOnlySelectedTracesToDevice:118] Selected 345 traces
+ INFO: [copyOnlySelectedTracesToDevice:152] Copy time is 0.00277251
+ INFO: [selectTracesToBeUsedForMidpoint:181] Execution time for copying traces is 0.00318123s
+ INFO: [saveStatisticalResults:102] Total execution time for selecting traces is 0.00325395s
+ INFO: [saveStatisticalResults:104] Total execution time for kernels is 0.308232s
+ INFO: [run:16] m0 = 2460
+ INFO: [activate:15] Activating GPU#0
+ INFO: [selectTracesToBeUsedForMidpoint:113] Selecting traces for m0 = 2460
+ INFO: [copyOnlySelectedTracesToDevice:118] Selected 345 traces
+ INFO: [copyOnlySelectedTracesToDevice:152] Copy time is 0.00276274
+ INFO: [selectTracesToBeUsedForMidpoint:181] Execution time for copying traces is 0.00320496s
+ INFO: [saveStatisticalResults:102] Total execution time for selecting traces is 0.0032939s
+ INFO: [saveStatisticalResults:104] Total execution time for kernels is 0.30401s
+ INFO: [run:16] m0 = 2540
+ INFO: [activate:15] Activating GPU#0
+ INFO: [selectTracesToBeUsedForMidpoint:113] Selecting traces for m0 = 2540
+ INFO: [copyOnlySelectedTracesToDevice:118] Selected 345 traces
+ INFO: [copyOnlySelectedTracesToDevice:152] Copy time is 0.0027688
+ INFO: [selectTracesToBeUsedForMidpoint:181] Execution time for copying traces is 0.00319619s
+ INFO: [saveStatisticalResults:102] Total execution time for selecting traces is 0.00328276s
+ INFO: [saveStatisticalResults:104] Total execution time for kernels is 0.305154s
+ INFO: [run:16] m0 = 2620
+ INFO: [activate:15] Activating GPU#0
+ INFO: [selectTracesToBeUsedForMidpoint:113] Selecting traces for m0 = 2620
+ INFO: [copyOnlySelectedTracesToDevice:118] Selected 345 traces
+ INFO: [copyOnlySelectedTracesToDevice:152] Copy time is 0.0027967
+ INFO: [selectTracesToBeUsedForMidpoint:181] Execution time for copying traces is 0.0032236s
+ INFO: [saveStatisticalResults:102] Total execution time for selecting traces is 0.00330911s
+ INFO: [saveStatisticalResults:104] Total execution time for kernels is 0.304621s
+ INFO: [run:16] m0 = 2700
+ INFO: [activate:15] Activating GPU#0
+ INFO: [selectTracesToBeUsedForMidpoint:113] Selecting traces for m0 = 2700
+ INFO: [copyOnlySelectedTracesToDevice:118] Selected 345 traces
+ INFO: [copyOnlySelectedTracesToDevice:152] Copy time is 0.00280393
+ INFO: [selectTracesToBeUsedForMidpoint:181] Execution time for copying traces is 0.0032214s
+ INFO: [saveStatisticalResults:102] Total execution time for selecting traces is 0.00329351s
+ INFO: [saveStatisticalResults:104] Total execution time for kernels is 0.302315s
+ INFO: [run:16] m0 = 2780
+ INFO: [activate:15] Activating GPU#0
+ INFO: [selectTracesToBeUsedForMidpoint:113] Selecting traces for m0 = 2780
+ INFO: [copyOnlySelectedTracesToDevice:118] Selected 345 traces
+ INFO: [copyOnlySelectedTracesToDevice:152] Copy time is 0.00280491
+ INFO: [selectTracesToBeUsedForMidpoint:181] Execution time for copying traces is 0.00326364s
+ INFO: [saveStatisticalResults:102] Total execution time for selecting traces is 0.00335869s
+ INFO: [saveStatisticalResults:104] Total execution time for kernels is 0.3082s
+ INFO: [run:16] m0 = 2860
+ INFO: [activate:15] Activating GPU#0
+ INFO: [selectTracesToBeUsedForMidpoint:113] Selecting traces for m0 = 2860
+ INFO: [copyOnlySelectedTracesToDevice:118] Selected 345 traces
+ INFO: [copyOnlySelectedTracesToDevice:152] Copy time is 0.00275121
+ INFO: [selectTracesToBeUsedForMidpoint:181] Execution time for copying traces is 0.00320641s
+ INFO: [saveStatisticalResults:102] Total execution time for selecting traces is 0.00330973s
+ INFO: [saveStatisticalResults:104] Total execution time for kernels is 0.307965s
+ INFO: [run:16] m0 = 2940
+ INFO: [activate:15] Activating GPU#0
+ INFO: [selectTracesToBeUsedForMidpoint:113] Selecting traces for m0 = 2940
+ INFO: [copyOnlySelectedTracesToDevice:118] Selected 345 traces
+ INFO: [copyOnlySelectedTracesToDevice:152] Copy time is 0.00279005
+ INFO: [selectTracesToBeUsedForMidpoint:181] Execution time for copying traces is 0.00324236s
+ INFO: [saveStatisticalResults:102] Total execution time for selecting traces is 0.00333183s
+ INFO: [saveStatisticalResults:104] Total execution time for kernels is 0.305132s
+ INFO: [run:16] m0 = 3020
+ INFO: [activate:15] Activating GPU#0
+ INFO: [selectTracesToBeUsedForMidpoint:113] Selecting traces for m0 = 3020
+ INFO: [copyOnlySelectedTracesToDevice:118] Selected 345 traces
+ INFO: [copyOnlySelectedTracesToDevice:152] Copy time is 0.00282064
+ INFO: [selectTracesToBeUsedForMidpoint:181] Execution time for copying traces is 0.0032925s
+ INFO: [saveStatisticalResults:102] Total execution time for selecting traces is 0.00337005s
+ INFO: [saveStatisticalResults:104] Total execution time for kernels is 0.282181s
+ INFO: [run:16] m0 = 3100
+ INFO: [activate:15] Activating GPU#0
+ INFO: [selectTracesToBeUsedForMidpoint:113] Selecting traces for m0 = 3100
+ INFO: [copyOnlySelectedTracesToDevice:118] Selected 345 traces
+ INFO: [copyOnlySelectedTracesToDevice:152] Copy time is 0.00278244
+ INFO: [selectTracesToBeUsedForMidpoint:181] Execution time for copying traces is 0.00323534s
+ INFO: [saveStatisticalResults:102] Total execution time for selecting traces is 0.00332752s
+ INFO: [saveStatisticalResults:104] Total execution time for kernels is 0.322183s
+ INFO: [run:16] m0 = 3180
+ INFO: [activate:15] Activating GPU#0
+ INFO: [selectTracesToBeUsedForMidpoint:113] Selecting traces for m0 = 3180
+ INFO: [copyOnlySelectedTracesToDevice:118] Selected 345 traces
+ INFO: [copyOnlySelectedTracesToDevice:152] Copy time is 0.00285121
+ INFO: [selectTracesToBeUsedForMidpoint:181] Execution time for copying traces is 0.00331463s
+ INFO: [saveStatisticalResults:102] Total execution time for selecting traces is 0.00340619s
+ INFO: [saveStatisticalResults:104] Total execution time for kernels is 0.310381s
+ INFO: [run:16] m0 = 3260
+ INFO: [activate:15] Activating GPU#0
+ INFO: [selectTracesToBeUsedForMidpoint:113] Selecting traces for m0 = 3260
+ INFO: [copyOnlySelectedTracesToDevice:118] Selected 345 traces
+ INFO: [copyOnlySelectedTracesToDevice:152] Copy time is 0.00280767
+ INFO: [selectTracesToBeUsedForMidpoint:181] Execution time for copying traces is 0.0032695s
+ INFO: [saveStatisticalResults:102] Total execution time for selecting traces is 0.00337324s
+ INFO: [saveStatisticalResults:104] Total execution time for kernels is 0.307044s
+ INFO: [run:16] m0 = 3340
+ INFO: [activate:15] Activating GPU#0
+ INFO: [selectTracesToBeUsedForMidpoint:113] Selecting traces for m0 = 3340
+ INFO: [copyOnlySelectedTracesToDevice:118] Selected 345 traces
+ INFO: [copyOnlySelectedTracesToDevice:152] Copy time is 0.0027735
+ INFO: [selectTracesToBeUsedForMidpoint:181] Execution time for copying traces is 0.00325091s
+ INFO: [saveStatisticalResults:102] Total execution time for selecting traces is 0.00333113s
+ INFO: [saveStatisticalResults:104] Total execution time for kernels is 0.306817s
+ INFO: [run:16] m0 = 3420
+ INFO: [activate:15] Activating GPU#0
+ INFO: [selectTracesToBeUsedForMidpoint:113] Selecting traces for m0 = 3420
+ INFO: [copyOnlySelectedTracesToDevice:118] Selected 345 traces
+ INFO: [copyOnlySelectedTracesToDevice:152] Copy time is 0.00280569
+ INFO: [selectTracesToBeUsedForMidpoint:181] Execution time for copying traces is 0.00326196s
+ INFO: [saveStatisticalResults:102] Total execution time for selecting traces is 0.00334741s
+ INFO: [saveStatisticalResults:104] Total execution time for kernels is 0.304062s
+ INFO: [run:16] m0 = 3500
+ INFO: [activate:15] Activating GPU#0
+ INFO: [selectTracesToBeUsedForMidpoint:113] Selecting traces for m0 = 3500
+ INFO: [copyOnlySelectedTracesToDevice:118] Selected 345 traces
+ INFO: [copyOnlySelectedTracesToDevice:152] Copy time is 0.00278772
+ INFO: [selectTracesToBeUsedForMidpoint:181] Execution time for copying traces is 0.00322716s
+ INFO: [saveStatisticalResults:102] Total execution time for selecting traces is 0.00331221s
+ INFO: [saveStatisticalResults:104] Total execution time for kernels is 0.30508s
+ INFO: [run:16] m0 = 3580
+ INFO: [activate:15] Activating GPU#0
+ INFO: [selectTracesToBeUsedForMidpoint:113] Selecting traces for m0 = 3580
+ INFO: [copyOnlySelectedTracesToDevice:118] Selected 345 traces
+ INFO: [copyOnlySelectedTracesToDevice:152] Copy time is 0.00282881
+ INFO: [selectTracesToBeUsedForMidpoint:181] Execution time for copying traces is 0.00329707s
+ INFO: [saveStatisticalResults:102] Total execution time for selecting traces is 0.003373s
+ INFO: [saveStatisticalResults:104] Total execution time for kernels is 0.304649s
+ INFO: [run:16] m0 = 3660
+ INFO: [activate:15] Activating GPU#0
+ INFO: [selectTracesToBeUsedForMidpoint:113] Selecting traces for m0 = 3660
+ INFO: [copyOnlySelectedTracesToDevice:118] Selected 345 traces
+ INFO: [copyOnlySelectedTracesToDevice:152] Copy time is 0.00275677
+ INFO: [selectTracesToBeUsedForMidpoint:181] Execution time for copying traces is 0.00318844s
+ INFO: [saveStatisticalResults:102] Total execution time for selecting traces is 0.0032594s
+ INFO: [saveStatisticalResults:104] Total execution time for kernels is 0.309957s
+ INFO: [run:16] m0 = 3740
+ INFO: [activate:15] Activating GPU#0
+ INFO: [selectTracesToBeUsedForMidpoint:113] Selecting traces for m0 = 3740
+ INFO: [copyOnlySelectedTracesToDevice:118] Selected 345 traces
+ INFO: [copyOnlySelectedTracesToDevice:152] Copy time is 0.00276076
+ INFO: [selectTracesToBeUsedForMidpoint:181] Execution time for copying traces is 0.00318346s
+ INFO: [saveStatisticalResults:102] Total execution time for selecting traces is 0.00325452s
+ INFO: [saveStatisticalResults:104] Total execution time for kernels is 0.308858s
+ INFO: [run:16] m0 = 3820
+ INFO: [activate:15] Activating GPU#0
+ INFO: [selectTracesToBeUsedForMidpoint:113] Selecting traces for m0 = 3820
+ INFO: [copyOnlySelectedTracesToDevice:118] Selected 345 traces
+ INFO: [copyOnlySelectedTracesToDevice:152] Copy time is 0.0028246
+ INFO: [selectTracesToBeUsedForMidpoint:181] Execution time for copying traces is 0.0032765s
+ INFO: [saveStatisticalResults:102] Total execution time for selecting traces is 0.00336604s
+ INFO: [saveStatisticalResults:104] Total execution time for kernels is 0.315848s
+ INFO: [run:16] m0 = 3900
+ INFO: [activate:15] Activating GPU#0
+ INFO: [selectTracesToBeUsedForMidpoint:113] Selecting traces for m0 = 3900
+ INFO: [copyOnlySelectedTracesToDevice:118] Selected 345 traces
+ INFO: [copyOnlySelectedTracesToDevice:152] Copy time is 0.00280401
+ INFO: [selectTracesToBeUsedForMidpoint:181] Execution time for copying traces is 0.00323619s
+ INFO: [saveStatisticalResults:102] Total execution time for selecting traces is 0.00330727s
+ INFO: [saveStatisticalResults:104] Total execution time for kernels is 0.311516s
+ INFO: [run:16] m0 = 3980
+ INFO: [activate:15] Activating GPU#0
+ INFO: [selectTracesToBeUsedForMidpoint:113] Selecting traces for m0 = 3980
+ INFO: [copyOnlySelectedTracesToDevice:118] Selected 345 traces
+ INFO: [copyOnlySelectedTracesToDevice:152] Copy time is 0.00282608
+ INFO: [selectTracesToBeUsedForMidpoint:181] Execution time for copying traces is 0.00327983s
+ INFO: [saveStatisticalResults:102] Total execution time for selecting traces is 0.00336786s
+ INFO: [saveStatisticalResults:104] Total execution time for kernels is 0.31251s
+ INFO: [run:16] m0 = 4060
+ INFO: [activate:15] Activating GPU#0
+ INFO: [selectTracesToBeUsedForMidpoint:113] Selecting traces for m0 = 4060
+ INFO: [copyOnlySelectedTracesToDevice:118] Selected 345 traces
+ INFO: [copyOnlySelectedTracesToDevice:152] Copy time is 0.00274845
+ INFO: [selectTracesToBeUsedForMidpoint:181] Execution time for copying traces is 0.00319777s
+ INFO: [saveStatisticalResults:102] Total execution time for selecting traces is 0.00327471s
+ INFO: [saveStatisticalResults:104] Total execution time for kernels is 0.308104s
+ INFO: [run:16] m0 = 4140
+ INFO: [activate:15] Activating GPU#0
+ INFO: [selectTracesToBeUsedForMidpoint:113] Selecting traces for m0 = 4140
+ INFO: [copyOnlySelectedTracesToDevice:118] Selected 345 traces
+ INFO: [copyOnlySelectedTracesToDevice:152] Copy time is 0.00277541
+ INFO: [selectTracesToBeUsedForMidpoint:181] Execution time for copying traces is 0.00320151s
+ INFO: [saveStatisticalResults:102] Total execution time for selecting traces is 0.00327708s
+ INFO: [saveStatisticalResults:104] Total execution time for kernels is 0.305615s
+ INFO: [run:16] m0 = 4220
+ INFO: [activate:15] Activating GPU#0
+ INFO: [selectTracesToBeUsedForMidpoint:113] Selecting traces for m0 = 4220
+ INFO: [copyOnlySelectedTracesToDevice:118] Selected 345 traces
+ INFO: [copyOnlySelectedTracesToDevice:152] Copy time is 0.00279218
+ INFO: [selectTracesToBeUsedForMidpoint:181] Execution time for copying traces is 0.00321829s
+ INFO: [saveStatisticalResults:102] Total execution time for selecting traces is 0.00329454s
+ INFO: [saveStatisticalResults:104] Total execution time for kernels is 0.307215s
+ INFO: [run:16] m0 = 4300
+ INFO: [activate:15] Activating GPU#0
+ INFO: [selectTracesToBeUsedForMidpoint:113] Selecting traces for m0 = 4300
+ INFO: [copyOnlySelectedTracesToDevice:118] Selected 345 traces
+ INFO: [copyOnlySelectedTracesToDevice:152] Copy time is 0.00279877
+ INFO: [selectTracesToBeUsedForMidpoint:181] Execution time for copying traces is 0.00320985s
+ INFO: [saveStatisticalResults:102] Total execution time for selecting traces is 0.00328052s
+ INFO: [saveStatisticalResults:104] Total execution time for kernels is 0.311959s
+ INFO: [run:16] m0 = 4380
+ INFO: [activate:15] Activating GPU#0
+ INFO: [selectTracesToBeUsedForMidpoint:113] Selecting traces for m0 = 4380
+ INFO: [copyOnlySelectedTracesToDevice:118] Selected 345 traces
+ INFO: [copyOnlySelectedTracesToDevice:152] Copy time is 0.00284058
+ INFO: [selectTracesToBeUsedForMidpoint:181] Execution time for copying traces is 0.00325899s
+ INFO: [saveStatisticalResults:102] Total execution time for selecting traces is 0.00333606s
+ INFO: [saveStatisticalResults:104] Total execution time for kernels is 0.307744s
+ INFO: [run:16] m0 = 4460
+ INFO: [activate:15] Activating GPU#0
+ INFO: [selectTracesToBeUsedForMidpoint:113] Selecting traces for m0 = 4460
+ INFO: [copyOnlySelectedTracesToDevice:118] Selected 345 traces
+ INFO: [copyOnlySelectedTracesToDevice:152] Copy time is 0.00281461
+ INFO: [selectTracesToBeUsedForMidpoint:181] Execution time for copying traces is 0.00324418s
+ INFO: [saveStatisticalResults:102] Total execution time for selecting traces is 0.00332679s
+ INFO: [saveStatisticalResults:104] Total execution time for kernels is 0.311436s
+ INFO: [run:16] m0 = 4540
+ INFO: [activate:15] Activating GPU#0
+ INFO: [selectTracesToBeUsedForMidpoint:113] Selecting traces for m0 = 4540
+ INFO: [copyOnlySelectedTracesToDevice:118] Selected 345 traces
+ INFO: [copyOnlySelectedTracesToDevice:152] Copy time is 0.00279564
+ INFO: [selectTracesToBeUsedForMidpoint:181] Execution time for copying traces is 0.00326123s
+ INFO: [saveStatisticalResults:102] Total execution time for selecting traces is 0.00333265s
+ INFO: [saveStatisticalResults:104] Total execution time for kernels is 0.309679s
+ INFO: [run:16] m0 = 4620
+ INFO: [activate:15] Activating GPU#0
+ INFO: [selectTracesToBeUsedForMidpoint:113] Selecting traces for m0 = 4620
+ INFO: [copyOnlySelectedTracesToDevice:118] Selected 345 traces
+ INFO: [copyOnlySelectedTracesToDevice:152] Copy time is 0.00274712
+ INFO: [selectTracesToBeUsedForMidpoint:181] Execution time for copying traces is 0.00319239s
+ INFO: [saveStatisticalResults:102] Total execution time for selecting traces is 0.00327635s
+ INFO: [saveStatisticalResults:104] Total execution time for kernels is 0.301318s
+ INFO: [run:16] m0 = 4700
+ INFO: [activate:15] Activating GPU#0
+ INFO: [selectTracesToBeUsedForMidpoint:113] Selecting traces for m0 = 4700
+ INFO: [copyOnlySelectedTracesToDevice:118] Selected 345 traces
+ INFO: [copyOnlySelectedTracesToDevice:152] Copy time is 0.00278551
+ INFO: [selectTracesToBeUsedForMidpoint:181] Execution time for copying traces is 0.00320685s
+ INFO: [saveStatisticalResults:102] Total execution time for selecting traces is 0.00328099s
+ INFO: [saveStatisticalResults:104] Total execution time for kernels is 0.327985s
+ INFO: [run:16] m0 = 4780
+ INFO: [activate:15] Activating GPU#0
+ INFO: [selectTracesToBeUsedForMidpoint:113] Selecting traces for m0 = 4780
+ INFO: [copyOnlySelectedTracesToDevice:118] Selected 345 traces
+ INFO: [copyOnlySelectedTracesToDevice:152] Copy time is 0.00279559
+ INFO: [selectTracesToBeUsedForMidpoint:181] Execution time for copying traces is 0.00322059s
+ INFO: [saveStatisticalResults:102] Total execution time for selecting traces is 0.00329938s
+ INFO: [saveStatisticalResults:104] Total execution time for kernels is 0.307696s
+ INFO: [run:16] m0 = 4860
+ INFO: [activate:15] Activating GPU#0
+ INFO: [selectTracesToBeUsedForMidpoint:113] Selecting traces for m0 = 4860
+ INFO: [copyOnlySelectedTracesToDevice:118] Selected 345 traces
+ INFO: [copyOnlySelectedTracesToDevice:152] Copy time is 0.00278521
+ INFO: [selectTracesToBeUsedForMidpoint:181] Execution time for copying traces is 0.00321172s
+ INFO: [saveStatisticalResults:102] Total execution time for selecting traces is 0.00328838s
+ INFO: [saveStatisticalResults:104] Total execution time for kernels is 0.306946s
+ INFO: [run:16] m0 = 4940
+ INFO: [activate:15] Activating GPU#0
+ INFO: [selectTracesToBeUsedForMidpoint:113] Selecting traces for m0 = 4940
+ INFO: [copyOnlySelectedTracesToDevice:118] Selected 345 traces
+ INFO: [copyOnlySelectedTracesToDevice:152] Copy time is 0.00279253
+ INFO: [selectTracesToBeUsedForMidpoint:181] Execution time for copying traces is 0.00322115s
+ INFO: [saveStatisticalResults:102] Total execution time for selecting traces is 0.00329702s
+ INFO: [saveStatisticalResults:104] Total execution time for kernels is 0.309813s
+ INFO: [run:16] m0 = 5020
+ INFO: [activate:15] Activating GPU#0
+ INFO: [selectTracesToBeUsedForMidpoint:113] Selecting traces for m0 = 5020
+ INFO: [copyOnlySelectedTracesToDevice:118] Selected 345 traces
+ INFO: [copyOnlySelectedTracesToDevice:152] Copy time is 0.0027608
+ INFO: [selectTracesToBeUsedForMidpoint:181] Execution time for copying traces is 0.00317543s
+ INFO: [saveStatisticalResults:102] Total execution time for selecting traces is 0.00324793s
+ INFO: [saveStatisticalResults:104] Total execution time for kernels is 0.309047s
+ INFO: [run:16] m0 = 5100
+ INFO: [activate:15] Activating GPU#0
+ INFO: [selectTracesToBeUsedForMidpoint:113] Selecting traces for m0 = 5100
+ INFO: [copyOnlySelectedTracesToDevice:118] Selected 345 traces
+ INFO: [copyOnlySelectedTracesToDevice:152] Copy time is 0.0027538
+ INFO: [selectTracesToBeUsedForMidpoint:181] Execution time for copying traces is 0.00316613s
+ INFO: [saveStatisticalResults:102] Total execution time for selecting traces is 0.00324431s
+ INFO: [saveStatisticalResults:104] Total execution time for kernels is 0.306036s
+ INFO: [run:16] m0 = 5180
+ INFO: [activate:15] Activating GPU#0
+ INFO: [selectTracesToBeUsedForMidpoint:113] Selecting traces for m0 = 5180
+ INFO: [copyOnlySelectedTracesToDevice:118] Selected 345 traces
+ INFO: [copyOnlySelectedTracesToDevice:152] Copy time is 0.00282937
+ INFO: [selectTracesToBeUsedForMidpoint:181] Execution time for copying traces is 0.00325109s
+ INFO: [saveStatisticalResults:102] Total execution time for selecting traces is 0.0033239s
+ INFO: [saveStatisticalResults:104] Total execution time for kernels is 0.306933s
+ INFO: [run:16] m0 = 5260
+ INFO: [activate:15] Activating GPU#0
+ INFO: [selectTracesToBeUsedForMidpoint:113] Selecting traces for m0 = 5260
+ INFO: [copyOnlySelectedTracesToDevice:118] Selected 345 traces
+ INFO: [copyOnlySelectedTracesToDevice:152] Copy time is 0.00283089
+ INFO: [selectTracesToBeUsedForMidpoint:181] Execution time for copying traces is 0.00325326s
+ INFO: [saveStatisticalResults:102] Total execution time for selecting traces is 0.00332397s
+ INFO: [saveStatisticalResults:104] Total execution time for kernels is 0.310804s
+ INFO: [run:16] m0 = 5340
+ INFO: [activate:15] Activating GPU#0
+ INFO: [selectTracesToBeUsedForMidpoint:113] Selecting traces for m0 = 5340
+ INFO: [copyOnlySelectedTracesToDevice:118] Selected 345 traces
+ INFO: [copyOnlySelectedTracesToDevice:152] Copy time is 0.00278966
+ INFO: [selectTracesToBeUsedForMidpoint:181] Execution time for copying traces is 0.00323136s
+ INFO: [saveStatisticalResults:102] Total execution time for selecting traces is 0.00333587s
+ INFO: [saveStatisticalResults:104] Total execution time for kernels is 0.30713s
+ INFO: [run:16] m0 = 5420
+ INFO: [activate:15] Activating GPU#0
+ INFO: [selectTracesToBeUsedForMidpoint:113] Selecting traces for m0 = 5420
+ INFO: [copyOnlySelectedTracesToDevice:118] Selected 345 traces
+ INFO: [copyOnlySelectedTracesToDevice:152] Copy time is 0.00280227
+ INFO: [selectTracesToBeUsedForMidpoint:181] Execution time for copying traces is 0.00323388s
+ INFO: [saveStatisticalResults:102] Total execution time for selecting traces is 0.00330448s
+ INFO: [saveStatisticalResults:104] Total execution time for kernels is 0.301724s
+ INFO: [run:16] m0 = 5500
+ INFO: [activate:15] Activating GPU#0
+ INFO: [selectTracesToBeUsedForMidpoint:113] Selecting traces for m0 = 5500
+ INFO: [copyOnlySelectedTracesToDevice:118] Selected 345 traces
+ INFO: [copyOnlySelectedTracesToDevice:152] Copy time is 0.00282837
+ INFO: [selectTracesToBeUsedForMidpoint:181] Execution time for copying traces is 0.00328069s
+ INFO: [saveStatisticalResults:102] Total execution time for selecting traces is 0.00336957s
+ INFO: [saveStatisticalResults:104] Total execution time for kernels is 0.301521s
+ INFO: [run:16] m0 = 5580
+ INFO: [activate:15] Activating GPU#0
+ INFO: [selectTracesToBeUsedForMidpoint:113] Selecting traces for m0 = 5580
+ INFO: [copyOnlySelectedTracesToDevice:118] Selected 345 traces
+ INFO: [copyOnlySelectedTracesToDevice:152] Copy time is 0.00282661
+ INFO: [selectTracesToBeUsedForMidpoint:181] Execution time for copying traces is 0.00328407s
+ INFO: [saveStatisticalResults:102] Total execution time for selecting traces is 0.00336874s
+ INFO: [saveStatisticalResults:104] Total execution time for kernels is 0.302301s
+ INFO: [run:16] m0 = 5660
+ INFO: [activate:15] Activating GPU#0
+ INFO: [selectTracesToBeUsedForMidpoint:113] Selecting traces for m0 = 5660
+ INFO: [copyOnlySelectedTracesToDevice:118] Selected 345 traces
+ INFO: [copyOnlySelectedTracesToDevice:152] Copy time is 0.00275867
+ INFO: [selectTracesToBeUsedForMidpoint:181] Execution time for copying traces is 0.00320071s
+ INFO: [saveStatisticalResults:102] Total execution time for selecting traces is 0.00327251s
+ INFO: [saveStatisticalResults:104] Total execution time for kernels is 0.306806s
+ INFO: [run:16] m0 = 5740
+ INFO: [activate:15] Activating GPU#0
+ INFO: [selectTracesToBeUsedForMidpoint:113] Selecting traces for m0 = 5740
+ INFO: [copyOnlySelectedTracesToDevice:118] Selected 345 traces
+ INFO: [copyOnlySelectedTracesToDevice:152] Copy time is 0.00276643
+ INFO: [selectTracesToBeUsedForMidpoint:181] Execution time for copying traces is 0.00319469s
+ INFO: [saveStatisticalResults:102] Total execution time for selecting traces is 0.00326664s
+ INFO: [saveStatisticalResults:104] Total execution time for kernels is 0.306674s
+ INFO: [run:16] m0 = 5820
+ INFO: [activate:15] Activating GPU#0
+ INFO: [selectTracesToBeUsedForMidpoint:113] Selecting traces for m0 = 5820
+ INFO: [copyOnlySelectedTracesToDevice:118] Selected 345 traces
+ INFO: [copyOnlySelectedTracesToDevice:152] Copy time is 0.00284348
+ INFO: [selectTracesToBeUsedForMidpoint:181] Execution time for copying traces is 0.00331304s
+ INFO: [saveStatisticalResults:102] Total execution time for selecting traces is 0.00340125s
+ INFO: [saveStatisticalResults:104] Total execution time for kernels is 0.305172s
+ INFO: [run:16] m0 = 5900
+ INFO: [activate:15] Activating GPU#0
+ INFO: [selectTracesToBeUsedForMidpoint:113] Selecting traces for m0 = 5900
+ INFO: [copyOnlySelectedTracesToDevice:118] Selected 345 traces
+ INFO: [copyOnlySelectedTracesToDevice:152] Copy time is 0.00280632
+ INFO: [selectTracesToBeUsedForMidpoint:181] Execution time for copying traces is 0.00324898s
+ INFO: [saveStatisticalResults:102] Total execution time for selecting traces is 0.00333169s
+ INFO: [saveStatisticalResults:104] Total execution time for kernels is 0.309352s
+ INFO: [run:16] m0 = 5980
+ INFO: [activate:15] Activating GPU#0
+ INFO: [selectTracesToBeUsedForMidpoint:113] Selecting traces for m0 = 5980
+ INFO: [copyOnlySelectedTracesToDevice:118] Selected 345 traces
+ INFO: [copyOnlySelectedTracesToDevice:152] Copy time is 0.0027784
+ INFO: [selectTracesToBeUsedForMidpoint:181] Execution time for copying traces is 0.00327478s
+ INFO: [saveStatisticalResults:102] Total execution time for selecting traces is 0.00335743s
+ INFO: [saveStatisticalResults:104] Total execution time for kernels is 0.305057s
+ INFO: [run:16] m0 = 6060
+ INFO: [activate:15] Activating GPU#0
+ INFO: [selectTracesToBeUsedForMidpoint:113] Selecting traces for m0 = 6060
+ INFO: [copyOnlySelectedTracesToDevice:118] Selected 345 traces
+ INFO: [copyOnlySelectedTracesToDevice:152] Copy time is 0.00281181
+ INFO: [selectTracesToBeUsedForMidpoint:181] Execution time for copying traces is 0.00322889s
+ INFO: [saveStatisticalResults:102] Total execution time for selecting traces is 0.00329951s
+ INFO: [saveStatisticalResults:104] Total execution time for kernels is 0.309664s
+ INFO: [run:16] m0 = 6140
+ INFO: [activate:15] Activating GPU#0
+ INFO: [selectTracesToBeUsedForMidpoint:113] Selecting traces for m0 = 6140
+ INFO: [copyOnlySelectedTracesToDevice:118] Selected 345 traces
+ INFO: [copyOnlySelectedTracesToDevice:152] Copy time is 0.00293049
+ INFO: [selectTracesToBeUsedForMidpoint:181] Execution time for copying traces is 0.00339653s
+ INFO: [saveStatisticalResults:102] Total execution time for selecting traces is 0.00350151s
+ INFO: [saveStatisticalResults:104] Total execution time for kernels is 0.305247s
+ INFO: [run:16] m0 = 6220
+ INFO: [activate:15] Activating GPU#0
+ INFO: [selectTracesToBeUsedForMidpoint:113] Selecting traces for m0 = 6220
+ INFO: [copyOnlySelectedTracesToDevice:118] Selected 345 traces
+ INFO: [copyOnlySelectedTracesToDevice:152] Copy time is 0.00276119
+ INFO: [selectTracesToBeUsedForMidpoint:181] Execution time for copying traces is 0.00320952s
+ INFO: [saveStatisticalResults:102] Total execution time for selecting traces is 0.0032925s
+ INFO: [saveStatisticalResults:104] Total execution time for kernels is 0.310253s
+ INFO: [run:16] m0 = 6300
+ INFO: [activate:15] Activating GPU#0
+ INFO: [selectTracesToBeUsedForMidpoint:113] Selecting traces for m0 = 6300
+ INFO: [copyOnlySelectedTracesToDevice:118] Selected 345 traces
+ INFO: [copyOnlySelectedTracesToDevice:152] Copy time is 0.00282008
+ INFO: [selectTracesToBeUsedForMidpoint:181] Execution time for copying traces is 0.00326918s
+ INFO: [saveStatisticalResults:102] Total execution time for selecting traces is 0.00336968s
+ INFO: [saveStatisticalResults:104] Total execution time for kernels is 0.305791s
+ INFO: [run:16] m0 = 6380
+ INFO: [activate:15] Activating GPU#0
+ INFO: [selectTracesToBeUsedForMidpoint:113] Selecting traces for m0 = 6380
+ INFO: [copyOnlySelectedTracesToDevice:118] Selected 345 traces
+ INFO: [copyOnlySelectedTracesToDevice:152] Copy time is 0.00283699
+ INFO: [selectTracesToBeUsedForMidpoint:181] Execution time for copying traces is 0.00327877s
+ INFO: [saveStatisticalResults:102] Total execution time for selecting traces is 0.00335872s
+ INFO: [saveStatisticalResults:104] Total execution time for kernels is 0.302371s
+ INFO: [run:16] m0 = 6460
+ INFO: [activate:15] Activating GPU#0
+ INFO: [selectTracesToBeUsedForMidpoint:113] Selecting traces for m0 = 6460
+ INFO: [copyOnlySelectedTracesToDevice:118] Selected 345 traces
+ INFO: [copyOnlySelectedTracesToDevice:152] Copy time is 0.00284733
+ INFO: [selectTracesToBeUsedForMidpoint:181] Execution time for copying traces is 0.00328444s
+ INFO: [saveStatisticalResults:102] Total execution time for selecting traces is 0.00337117s
+ INFO: [saveStatisticalResults:104] Total execution time for kernels is 0.304089s
+ INFO: [run:16] m0 = 6540
+ INFO: [activate:15] Activating GPU#0
+ INFO: [selectTracesToBeUsedForMidpoint:113] Selecting traces for m0 = 6540
+ INFO: [copyOnlySelectedTracesToDevice:118] Selected 345 traces
+ INFO: [copyOnlySelectedTracesToDevice:152] Copy time is 0.00289194
+ INFO: [selectTracesToBeUsedForMidpoint:181] Execution time for copying traces is 0.00333214s
+ INFO: [saveStatisticalResults:102] Total execution time for selecting traces is 0.00340866s
+ INFO: [saveStatisticalResults:104] Total execution time for kernels is 0.294425s
+ INFO: [run:16] m0 = 6620
+ INFO: [activate:15] Activating GPU#0
+ INFO: [selectTracesToBeUsedForMidpoint:113] Selecting traces for m0 = 6620
+ INFO: [copyOnlySelectedTracesToDevice:118] Selected 345 traces
+ INFO: [copyOnlySelectedTracesToDevice:152] Copy time is 0.00283608
+ INFO: [selectTracesToBeUsedForMidpoint:181] Execution time for copying traces is 0.00327225s
+ INFO: [saveStatisticalResults:102] Total execution time for selecting traces is 0.00334806s
+ INFO: [saveStatisticalResults:104] Total execution time for kernels is 0.295724s
+ INFO: [run:16] m0 = 6700
+ INFO: [activate:15] Activating GPU#0
+ INFO: [selectTracesToBeUsedForMidpoint:113] Selecting traces for m0 = 6700
+ INFO: [copyOnlySelectedTracesToDevice:118] Selected 345 traces
+ INFO: [copyOnlySelectedTracesToDevice:152] Copy time is 0.00280292
+ INFO: [selectTracesToBeUsedForMidpoint:181] Execution time for copying traces is 0.00323731s
+ INFO: [saveStatisticalResults:102] Total execution time for selecting traces is 0.00331555s
+ INFO: [saveStatisticalResults:104] Total execution time for kernels is 0.334955s
+ INFO: [run:16] m0 = 6780
+ INFO: [activate:15] Activating GPU#0
+ INFO: [selectTracesToBeUsedForMidpoint:113] Selecting traces for m0 = 6780
+ INFO: [copyOnlySelectedTracesToDevice:118] Selected 345 traces
+ INFO: [copyOnlySelectedTracesToDevice:152] Copy time is 0.00281383
+ INFO: [selectTracesToBeUsedForMidpoint:181] Execution time for copying traces is 0.00323478s
+ INFO: [saveStatisticalResults:102] Total execution time for selecting traces is 0.00330849s
+ INFO: [saveStatisticalResults:104] Total execution time for kernels is 0.306599s
+ INFO: [run:16] m0 = 6860
+ INFO: [activate:15] Activating GPU#0
+ INFO: [selectTracesToBeUsedForMidpoint:113] Selecting traces for m0 = 6860
+ INFO: [copyOnlySelectedTracesToDevice:118] Selected 345 traces
+ INFO: [copyOnlySelectedTracesToDevice:152] Copy time is 0.00276155
+ INFO: [selectTracesToBeUsedForMidpoint:181] Execution time for copying traces is 0.00318731s
+ INFO: [saveStatisticalResults:102] Total execution time for selecting traces is 0.00326451s
+ INFO: [saveStatisticalResults:104] Total execution time for kernels is 0.305024s
+ INFO: [run:16] m0 = 6940
+ INFO: [activate:15] Activating GPU#0
+ INFO: [selectTracesToBeUsedForMidpoint:113] Selecting traces for m0 = 6940
+ INFO: [copyOnlySelectedTracesToDevice:118] Selected 345 traces
+ INFO: [copyOnlySelectedTracesToDevice:152] Copy time is 0.00281037
+ INFO: [selectTracesToBeUsedForMidpoint:181] Execution time for copying traces is 0.0032398s
+ INFO: [saveStatisticalResults:102] Total execution time for selecting traces is 0.00331596s
+ INFO: [saveStatisticalResults:104] Total execution time for kernels is 0.305809s
+ INFO: [run:16] m0 = 7020
+ INFO: [activate:15] Activating GPU#0
+ INFO: [selectTracesToBeUsedForMidpoint:113] Selecting traces for m0 = 7020
+ INFO: [copyOnlySelectedTracesToDevice:118] Selected 345 traces
+ INFO: [copyOnlySelectedTracesToDevice:152] Copy time is 0.00276969
+ INFO: [selectTracesToBeUsedForMidpoint:181] Execution time for copying traces is 0.00319727s
+ INFO: [saveStatisticalResults:102] Total execution time for selecting traces is 0.0032727s
+ INFO: [saveStatisticalResults:104] Total execution time for kernels is 0.308317s
+ INFO: [run:16] m0 = 7100
+ INFO: [activate:15] Activating GPU#0
+ INFO: [selectTracesToBeUsedForMidpoint:113] Selecting traces for m0 = 7100
+ INFO: [copyOnlySelectedTracesToDevice:118] Selected 345 traces
+ INFO: [copyOnlySelectedTracesToDevice:152] Copy time is 0.00277561
+ INFO: [selectTracesToBeUsedForMidpoint:181] Execution time for copying traces is 0.00319153s
+ INFO: [saveStatisticalResults:102] Total execution time for selecting traces is 0.00326675s
+ INFO: [saveStatisticalResults:104] Total execution time for kernels is 0.307289s
+ INFO: [run:16] m0 = 7180
+ INFO: [activate:15] Activating GPU#0
+ INFO: [selectTracesToBeUsedForMidpoint:113] Selecting traces for m0 = 7180
+ INFO: [copyOnlySelectedTracesToDevice:118] Selected 345 traces
+ INFO: [copyOnlySelectedTracesToDevice:152] Copy time is 0.00275715
+ INFO: [selectTracesToBeUsedForMidpoint:181] Execution time for copying traces is 0.00317832s
+ INFO: [saveStatisticalResults:102] Total execution time for selecting traces is 0.00325315s
+ INFO: [saveStatisticalResults:104] Total execution time for kernels is 0.308166s
+ INFO: [run:16] m0 = 7260
+ INFO: [activate:15] Activating GPU#0
+ INFO: [selectTracesToBeUsedForMidpoint:113] Selecting traces for m0 = 7260
+ INFO: [copyOnlySelectedTracesToDevice:118] Selected 345 traces
+ INFO: [copyOnlySelectedTracesToDevice:152] Copy time is 0.00276807
+ INFO: [selectTracesToBeUsedForMidpoint:181] Execution time for copying traces is 0.00318251s
+ INFO: [saveStatisticalResults:102] Total execution time for selecting traces is 0.00327289s
+ INFO: [saveStatisticalResults:104] Total execution time for kernels is 0.304608s
+ INFO: [run:16] m0 = 7340
+ INFO: [activate:15] Activating GPU#0
+ INFO: [selectTracesToBeUsedForMidpoint:113] Selecting traces for m0 = 7340
+ INFO: [copyOnlySelectedTracesToDevice:118] Selected 345 traces
+ INFO: [copyOnlySelectedTracesToDevice:152] Copy time is 0.00280243
+ INFO: [selectTracesToBeUsedForMidpoint:181] Execution time for copying traces is 0.00322924s
+ INFO: [saveStatisticalResults:102] Total execution time for selecting traces is 0.00330189s
+ INFO: [saveStatisticalResults:104] Total execution time for kernels is 0.30437s
+ INFO: [run:16] m0 = 7420
+ INFO: [activate:15] Activating GPU#0
+ INFO: [selectTracesToBeUsedForMidpoint:113] Selecting traces for m0 = 7420
+ INFO: [copyOnlySelectedTracesToDevice:118] Selected 345 traces
+ INFO: [copyOnlySelectedTracesToDevice:152] Copy time is 0.00280033
+ INFO: [selectTracesToBeUsedForMidpoint:181] Execution time for copying traces is 0.00320333s
+ INFO: [saveStatisticalResults:102] Total execution time for selecting traces is 0.00327449s
+ INFO: [saveStatisticalResults:104] Total execution time for kernels is 0.306762s
+ INFO: [run:16] m0 = 7500
+ INFO: [activate:15] Activating GPU#0
+ INFO: [selectTracesToBeUsedForMidpoint:113] Selecting traces for m0 = 7500
+ INFO: [copyOnlySelectedTracesToDevice:118] Selected 345 traces
+ INFO: [copyOnlySelectedTracesToDevice:152] Copy time is 0.00275204
+ INFO: [selectTracesToBeUsedForMidpoint:181] Execution time for copying traces is 0.00317179s
+ INFO: [saveStatisticalResults:102] Total execution time for selecting traces is 0.00324497s
+ INFO: [saveStatisticalResults:104] Total execution time for kernels is 0.306359s
+ INFO: [run:16] m0 = 7580
+ INFO: [activate:15] Activating GPU#0
+ INFO: [selectTracesToBeUsedForMidpoint:113] Selecting traces for m0 = 7580
+ INFO: [copyOnlySelectedTracesToDevice:118] Selected 345 traces
+ INFO: [copyOnlySelectedTracesToDevice:152] Copy time is 0.00279511
+ INFO: [selectTracesToBeUsedForMidpoint:181] Execution time for copying traces is 0.00323665s
+ INFO: [saveStatisticalResults:102] Total execution time for selecting traces is 0.00331134s
+ INFO: [saveStatisticalResults:104] Total execution time for kernels is 0.302058s
+ INFO: [run:16] m0 = 7660
+ INFO: [activate:15] Activating GPU#0
+ INFO: [selectTracesToBeUsedForMidpoint:113] Selecting traces for m0 = 7660
+ INFO: [copyOnlySelectedTracesToDevice:118] Selected 345 traces
+ INFO: [copyOnlySelectedTracesToDevice:152] Copy time is 0.00281283
+ INFO: [selectTracesToBeUsedForMidpoint:181] Execution time for copying traces is 0.00323062s
+ INFO: [saveStatisticalResults:102] Total execution time for selecting traces is 0.00330157s
+ INFO: [saveStatisticalResults:104] Total execution time for kernels is 0.305509s
+ INFO: [run:16] m0 = 7740
+ INFO: [activate:15] Activating GPU#0
+ INFO: [selectTracesToBeUsedForMidpoint:113] Selecting traces for m0 = 7740
+ INFO: [copyOnlySelectedTracesToDevice:118] Selected 345 traces
+ INFO: [copyOnlySelectedTracesToDevice:152] Copy time is 0.00281839
+ INFO: [selectTracesToBeUsedForMidpoint:181] Execution time for copying traces is 0.00322372s
+ INFO: [saveStatisticalResults:102] Total execution time for selecting traces is 0.0032954s
+ INFO: [saveStatisticalResults:104] Total execution time for kernels is 0.308211s
+ INFO: [run:16] m0 = 7820
+ INFO: [activate:15] Activating GPU#0
+ INFO: [selectTracesToBeUsedForMidpoint:113] Selecting traces for m0 = 7820
+ INFO: [copyOnlySelectedTracesToDevice:118] Selected 345 traces
+ INFO: [copyOnlySelectedTracesToDevice:152] Copy time is 0.00280498
+ INFO: [selectTracesToBeUsedForMidpoint:181] Execution time for copying traces is 0.00321428s
+ INFO: [saveStatisticalResults:102] Total execution time for selecting traces is 0.00328732s
+ INFO: [saveStatisticalResults:104] Total execution time for kernels is 0.307696s
+ INFO: [run:16] m0 = 7900
+ INFO: [activate:15] Activating GPU#0
+ INFO: [selectTracesToBeUsedForMidpoint:113] Selecting traces for m0 = 7900
+ INFO: [copyOnlySelectedTracesToDevice:118] Selected 345 traces
+ INFO: [copyOnlySelectedTracesToDevice:152] Copy time is 0.00279657
+ INFO: [selectTracesToBeUsedForMidpoint:181] Execution time for copying traces is 0.00321863s
+ INFO: [saveStatisticalResults:102] Total execution time for selecting traces is 0.00329326s
+ INFO: [saveStatisticalResults:104] Total execution time for kernels is 0.302906s
+ INFO: [run:16] m0 = 7980
+ INFO: [activate:15] Activating GPU#0
+ INFO: [selectTracesToBeUsedForMidpoint:113] Selecting traces for m0 = 7980
+ INFO: [copyOnlySelectedTracesToDevice:118] Selected 345 traces
+ INFO: [copyOnlySelectedTracesToDevice:152] Copy time is 0.00283703
+ INFO: [selectTracesToBeUsedForMidpoint:181] Execution time for copying traces is 0.00326633s
+ INFO: [saveStatisticalResults:102] Total execution time for selecting traces is 0.00333874s
+ INFO: [saveStatisticalResults:104] Total execution time for kernels is 0.308743s
+ INFO: [run:16] m0 = 8060
+ INFO: [activate:15] Activating GPU#0
+ INFO: [selectTracesToBeUsedForMidpoint:113] Selecting traces for m0 = 8060
+ INFO: [copyOnlySelectedTracesToDevice:118] Selected 345 traces
+ INFO: [copyOnlySelectedTracesToDevice:152] Copy time is 0.00283475
+ INFO: [selectTracesToBeUsedForMidpoint:181] Execution time for copying traces is 0.00326728s
+ INFO: [saveStatisticalResults:102] Total execution time for selecting traces is 0.00333882s
+ INFO: [saveStatisticalResults:104] Total execution time for kernels is 0.306703s
+ INFO: [run:16] m0 = 8140
+ INFO: [activate:15] Activating GPU#0
+ INFO: [selectTracesToBeUsedForMidpoint:113] Selecting traces for m0 = 8140
+ INFO: [copyOnlySelectedTracesToDevice:118] Selected 345 traces
+ INFO: [copyOnlySelectedTracesToDevice:152] Copy time is 0.00280938
+ INFO: [selectTracesToBeUsedForMidpoint:181] Execution time for copying traces is 0.00324202s
+ INFO: [saveStatisticalResults:102] Total execution time for selecting traces is 0.00331388s
+ INFO: [saveStatisticalResults:104] Total execution time for kernels is 0.308546s
+ INFO: [run:16] m0 = 8220
+ INFO: [activate:15] Activating GPU#0
+ INFO: [selectTracesToBeUsedForMidpoint:113] Selecting traces for m0 = 8220
+ INFO: [copyOnlySelectedTracesToDevice:118] Selected 345 traces
+ INFO: [copyOnlySelectedTracesToDevice:152] Copy time is 0.00279752
+ INFO: [selectTracesToBeUsedForMidpoint:181] Execution time for copying traces is 0.00329786s
+ INFO: [saveStatisticalResults:102] Total execution time for selecting traces is 0.00339049s
+ INFO: [saveStatisticalResults:104] Total execution time for kernels is 0.306015s
+ INFO: [run:16] m0 = 8300
+ INFO: [activate:15] Activating GPU#0
+ INFO: [selectTracesToBeUsedForMidpoint:113] Selecting traces for m0 = 8300
+ INFO: [copyOnlySelectedTracesToDevice:118] Selected 345 traces
+ INFO: [copyOnlySelectedTracesToDevice:152] Copy time is 0.00282012
+ INFO: [selectTracesToBeUsedForMidpoint:181] Execution time for copying traces is 0.00328282s
+ INFO: [saveStatisticalResults:102] Total execution time for selecting traces is 0.00336558s
+ INFO: [saveStatisticalResults:104] Total execution time for kernels is 0.303574s
+ INFO: [run:16] m0 = 8380
+ INFO: [activate:15] Activating GPU#0
+ INFO: [selectTracesToBeUsedForMidpoint:113] Selecting traces for m0 = 8380
+ INFO: [copyOnlySelectedTracesToDevice:118] Selected 345 traces
+ INFO: [copyOnlySelectedTracesToDevice:152] Copy time is 0.00283655
+ INFO: [selectTracesToBeUsedForMidpoint:181] Execution time for copying traces is 0.00327534s
+ INFO: [saveStatisticalResults:102] Total execution time for selecting traces is 0.00336354s
+ INFO: [saveStatisticalResults:104] Total execution time for kernels is 0.301249s
+ INFO: [run:16] m0 = 8460
+ INFO: [activate:15] Activating GPU#0
+ INFO: [selectTracesToBeUsedForMidpoint:113] Selecting traces for m0 = 8460
+ INFO: [copyOnlySelectedTracesToDevice:118] Selected 345 traces
+ INFO: [copyOnlySelectedTracesToDevice:152] Copy time is 0.00286085
+ INFO: [selectTracesToBeUsedForMidpoint:181] Execution time for copying traces is 0.0032816s
+ INFO: [saveStatisticalResults:102] Total execution time for selecting traces is 0.00335196s
+ INFO: [saveStatisticalResults:104] Total execution time for kernels is 0.292619s
+ INFO: [run:16] m0 = 8540
+ INFO: [activate:15] Activating GPU#0
+ INFO: [selectTracesToBeUsedForMidpoint:113] Selecting traces for m0 = 8540
+ INFO: [copyOnlySelectedTracesToDevice:118] Selected 345 traces
+ INFO: [copyOnlySelectedTracesToDevice:152] Copy time is 0.0028545
+ INFO: [selectTracesToBeUsedForMidpoint:181] Execution time for copying traces is 0.0033035s
+ INFO: [saveStatisticalResults:102] Total execution time for selecting traces is 0.0033803s
+ INFO: [saveStatisticalResults:104] Total execution time for kernels is 0.302529s
+ INFO: [run:16] m0 = 8620
+ INFO: [activate:15] Activating GPU#0
+ INFO: [selectTracesToBeUsedForMidpoint:113] Selecting traces for m0 = 8620
+ INFO: [copyOnlySelectedTracesToDevice:118] Selected 345 traces
+ INFO: [copyOnlySelectedTracesToDevice:152] Copy time is 0.00289756
+ INFO: [selectTracesToBeUsedForMidpoint:181] Execution time for copying traces is 0.00333352s
+ INFO: [saveStatisticalResults:102] Total execution time for selecting traces is 0.00342116s
+ INFO: [saveStatisticalResults:104] Total execution time for kernels is 0.30617s
+ INFO: [run:16] m0 = 8700
+ INFO: [activate:15] Activating GPU#0
+ INFO: [selectTracesToBeUsedForMidpoint:113] Selecting traces for m0 = 8700
+ INFO: [copyOnlySelectedTracesToDevice:118] Selected 345 traces
+ INFO: [copyOnlySelectedTracesToDevice:152] Copy time is 0.00281933
+ INFO: [selectTracesToBeUsedForMidpoint:181] Execution time for copying traces is 0.00328439s
+ INFO: [saveStatisticalResults:102] Total execution time for selecting traces is 0.00337517s
+ INFO: [saveStatisticalResults:104] Total execution time for kernels is 0.305444s
+ INFO: [run:16] m0 = 8780
+ INFO: [activate:15] Activating GPU#0
+ INFO: [selectTracesToBeUsedForMidpoint:113] Selecting traces for m0 = 8780
+ INFO: [copyOnlySelectedTracesToDevice:118] Selected 345 traces
+ INFO: [copyOnlySelectedTracesToDevice:152] Copy time is 0.00281233
+ INFO: [selectTracesToBeUsedForMidpoint:181] Execution time for copying traces is 0.00324582s
+ INFO: [saveStatisticalResults:102] Total execution time for selecting traces is 0.0033303s
+ INFO: [saveStatisticalResults:104] Total execution time for kernels is 0.305344s
+ INFO: [run:16] m0 = 8860
+ INFO: [activate:15] Activating GPU#0
+ INFO: [selectTracesToBeUsedForMidpoint:113] Selecting traces for m0 = 8860
+ INFO: [copyOnlySelectedTracesToDevice:118] Selected 345 traces
+ INFO: [copyOnlySelectedTracesToDevice:152] Copy time is 0.00280892
+ INFO: [selectTracesToBeUsedForMidpoint:181] Execution time for copying traces is 0.00323849s
+ INFO: [saveStatisticalResults:102] Total execution time for selecting traces is 0.00332944s
+ INFO: [saveStatisticalResults:104] Total execution time for kernels is 0.308269s
+ INFO: [run:16] m0 = 8940
+ INFO: [activate:15] Activating GPU#0
+ INFO: [selectTracesToBeUsedForMidpoint:113] Selecting traces for m0 = 8940
+ INFO: [copyOnlySelectedTracesToDevice:118] Selected 344 traces
+ INFO: [copyOnlySelectedTracesToDevice:152] Copy time is 0.00280495
+ INFO: [selectTracesToBeUsedForMidpoint:181] Execution time for copying traces is 0.0032437s
+ INFO: [saveStatisticalResults:102] Total execution time for selecting traces is 0.0033277s
+ INFO: [saveStatisticalResults:104] Total execution time for kernels is 0.307018s
+ INFO: [run:16] m0 = 9020
+ INFO: [activate:15] Activating GPU#0
+ INFO: [selectTracesToBeUsedForMidpoint:113] Selecting traces for m0 = 9020
+ INFO: [copyOnlySelectedTracesToDevice:118] Selected 336 traces
+ INFO: [copyOnlySelectedTracesToDevice:152] Copy time is 0.00272201
+ INFO: [selectTracesToBeUsedForMidpoint:181] Execution time for copying traces is 0.00316794s
+ INFO: [saveStatisticalResults:102] Total execution time for selecting traces is 0.00323829s
+ INFO: [saveStatisticalResults:104] Total execution time for kernels is 0.294628s
+ INFO: [run:16] m0 = 9100
+ INFO: [activate:15] Activating GPU#0
+ INFO: [selectTracesToBeUsedForMidpoint:113] Selecting traces for m0 = 9100
+ INFO: [copyOnlySelectedTracesToDevice:118] Selected 320 traces
+ INFO: [copyOnlySelectedTracesToDevice:152] Copy time is 0.00268459
+ INFO: [selectTracesToBeUsedForMidpoint:181] Execution time for copying traces is 0.00311434s
+ INFO: [saveStatisticalResults:102] Total execution time for selecting traces is 0.00319634s
+ INFO: [saveStatisticalResults:104] Total execution time for kernels is 0.279428s
+ INFO: [run:16] m0 = 9180
+ INFO: [activate:15] Activating GPU#0
+ INFO: [selectTracesToBeUsedForMidpoint:113] Selecting traces for m0 = 9180
+ INFO: [copyOnlySelectedTracesToDevice:118] Selected 296 traces
+ INFO: [copyOnlySelectedTracesToDevice:152] Copy time is 0.002369
+ INFO: [selectTracesToBeUsedForMidpoint:181] Execution time for copying traces is 0.00277927s
+ INFO: [saveStatisticalResults:102] Total execution time for selecting traces is 0.00285236s
+ INFO: [saveStatisticalResults:104] Total execution time for kernels is 0.256138s
+ INFO: [run:16] m0 = 9260
+ INFO: [activate:15] Activating GPU#0
+ INFO: [selectTracesToBeUsedForMidpoint:113] Selecting traces for m0 = 9260
+ INFO: [copyOnlySelectedTracesToDevice:118] Selected 266 traces
+ INFO: [copyOnlySelectedTracesToDevice:152] Copy time is 0.00214453
+ INFO: [selectTracesToBeUsedForMidpoint:181] Execution time for copying traces is 0.00257206s
+ INFO: [saveStatisticalResults:102] Total execution time for selecting traces is 0.00265884s
+ INFO: [saveStatisticalResults:104] Total execution time for kernels is 0.225148s
+ INFO: [run:16] m0 = 9340
+ INFO: [activate:15] Activating GPU#0
+ INFO: [selectTracesToBeUsedForMidpoint:113] Selecting traces for m0 = 9340
+ INFO: [copyOnlySelectedTracesToDevice:118] Selected 236 traces
+ INFO: [copyOnlySelectedTracesToDevice:152] Copy time is 0.00218905
+ INFO: [selectTracesToBeUsedForMidpoint:181] Execution time for copying traces is 0.00265072s
+ INFO: [saveStatisticalResults:102] Total execution time for selecting traces is 0.00273248s
+ INFO: [saveStatisticalResults:104] Total execution time for kernels is 0.213989s
+ INFO: [run:16] m0 = 9420
+ INFO: [activate:15] Activating GPU#0
+ INFO: [selectTracesToBeUsedForMidpoint:113] Selecting traces for m0 = 9420
+ INFO: [copyOnlySelectedTracesToDevice:118] Selected 206 traces
+ INFO: [copyOnlySelectedTracesToDevice:152] Copy time is 0.00183869
+ INFO: [selectTracesToBeUsedForMidpoint:181] Execution time for copying traces is 0.00229488s
+ INFO: [saveStatisticalResults:102] Total execution time for selecting traces is 0.00237953s
+ INFO: [saveStatisticalResults:104] Total execution time for kernels is 0.182766s
+ INFO: [run:16] m0 = 9500
+ INFO: [activate:15] Activating GPU#0
+ INFO: [selectTracesToBeUsedForMidpoint:113] Selecting traces for m0 = 9500
+ INFO: [copyOnlySelectedTracesToDevice:118] Selected 176 traces
+ INFO: [copyOnlySelectedTracesToDevice:152] Copy time is 0.00159008
+ INFO: [selectTracesToBeUsedForMidpoint:181] Execution time for copying traces is 0.0019978s
+ INFO: [saveStatisticalResults:102] Total execution time for selecting traces is 0.00209974s
+ INFO: [saveStatisticalResults:104] Total execution time for kernels is 0.154601s
+ INFO: [run:16] m0 = 9580
+ INFO: [activate:15] Activating GPU#0
+ INFO: [selectTracesToBeUsedForMidpoint:113] Selecting traces for m0 = 9580
+ INFO: [copyOnlySelectedTracesToDevice:118] Selected 146 traces
+ INFO: [copyOnlySelectedTracesToDevice:152] Copy time is 0.0013228
+ INFO: [selectTracesToBeUsedForMidpoint:181] Execution time for copying traces is 0.00174046s
+ INFO: [saveStatisticalResults:102] Total execution time for selecting traces is 0.0018344s
+ INFO: [saveStatisticalResults:104] Total execution time for kernels is 0.126234s
+ INFO: [run:16] m0 = 9660
+ INFO: [activate:15] Activating GPU#0
+ INFO: [selectTracesToBeUsedForMidpoint:113] Selecting traces for m0 = 9660
+ INFO: [copyOnlySelectedTracesToDevice:118] Selected 116 traces
+ INFO: [copyOnlySelectedTracesToDevice:152] Copy time is 0.0010528
+ INFO: [selectTracesToBeUsedForMidpoint:181] Execution time for copying traces is 0.00132082s
+ INFO: [saveStatisticalResults:102] Total execution time for selecting traces is 0.00143042s
+ INFO: [saveStatisticalResults:104] Total execution time for kernels is 0.0986753s
+ INFO: [run:16] m0 = 9740
+ INFO: [activate:15] Activating GPU#0
+ INFO: [selectTracesToBeUsedForMidpoint:113] Selecting traces for m0 = 9740
+ INFO: [copyOnlySelectedTracesToDevice:118] Selected 86 traces
+ INFO: [copyOnlySelectedTracesToDevice:152] Copy time is 0.000781236
+ INFO: [selectTracesToBeUsedForMidpoint:181] Execution time for copying traces is 0.000910679s
+ INFO: [saveStatisticalResults:102] Total execution time for selecting traces is 0.000991097s
+ INFO: [saveStatisticalResults:104] Total execution time for kernels is 0.0713547s
+ INFO: [run:16] m0 = 9820
+ INFO: [activate:15] Activating GPU#0
+ INFO: [selectTracesToBeUsedForMidpoint:113] Selecting traces for m0 = 9820
+ INFO: [copyOnlySelectedTracesToDevice:118] Selected 56 traces
+ INFO: [copyOnlySelectedTracesToDevice:152] Copy time is 0.000509979
+ INFO: [selectTracesToBeUsedForMidpoint:181] Execution time for copying traces is 0.000622482s
+ INFO: [saveStatisticalResults:102] Total execution time for selecting traces is 0.000703579s
+ INFO: [saveStatisticalResults:104] Total execution time for kernels is 0.0453089s
+ INFO: [run:16] m0 = 9900
+ INFO: [activate:15] Activating GPU#0
+ INFO: [selectTracesToBeUsedForMidpoint:113] Selecting traces for m0 = 9900
+ INFO: [copyOnlySelectedTracesToDevice:118] Selected 30 traces
+ INFO: [copyOnlySelectedTracesToDevice:152] Copy time is 0.000269698
+ INFO: [selectTracesToBeUsedForMidpoint:181] Execution time for copying traces is 0.000376896s
+ INFO: [saveStatisticalResults:102] Total execution time for selecting traces is 0.000468394s
+ INFO: [saveStatisticalResults:104] Total execution time for kernels is 0.024491s
+ INFO: [run:16] m0 = 9940
+ INFO: [activate:15] Activating GPU#0
+ INFO: [selectTracesToBeUsedForMidpoint:113] Selecting traces for m0 = 9940
+ INFO: [copyOnlySelectedTracesToDevice:118] Selected 20 traces
+ INFO: [copyOnlySelectedTracesToDevice:152] Copy time is 0.000179606
+ INFO: [selectTracesToBeUsedForMidpoint:181] Execution time for copying traces is 0.000280058s
+ INFO: [saveStatisticalResults:102] Total execution time for selecting traces is 0.000362007s
+ INFO: [saveStatisticalResults:104] Total execution time for kernels is 0.0170226s

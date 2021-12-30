@@ -1,0 +1,1 @@
+bin/spitz_de --aph 1000 --apm 150 --azimuth 0 --tau 0.02 --input /home/ubuntu/nfs/data/simple-synthetic.su --output /home/ubuntu/nfs/out/g4dn.xlarge/e81d6e1/cuda_1_1/oct/de/cuda/simple-synthetic --lower-bounds 450 -0.001 --upper-bounds 6000 0.001 --generations 32 --population-size 32 --traveltime oct --verbose 1 

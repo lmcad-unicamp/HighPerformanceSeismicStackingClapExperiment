@@ -1,0 +1,908 @@
+ INFO: [readGatherFromFile:119] Number of CDPs = 445
+ INFO: [readGatherFromFile:120] Number of traces in the gather = 9200
+ INFO: [readGatherFromFile:121] Number of samples per trace = 2502
+ INFO: [initialize:24] Initializing traveltime
+ INFO: [buildZeroOffsetCommonReflectionSurface:66] Upper bound for A is 0.000866025
+ INFO: [buildZeroOffsetCommonReflectionSurface:67] Upper bound for B is 1.97531e-06
+ INFO: [initialize:28] Factory initialized
+[JM] Job manager created.
+ INFO: [initialize:28] Factory initialized
+ INFO: [createDir:30] Creating output directory at /home/ubuntu/nfs/out/g4dn.xlarge/e81d6e1/cuda_1_1/zocrs/de/cuda/simple-synthetic/simple-synthetic_de_zocrs_20201230_1741/
+ INFO: [SpitzCommitter:36] [CO] Committer created.
+ INFO: [commit_task:45] Committing result for m0 = 0
+ INFO: [commit_task:58] [CO] Result committed. [1,445]
+ INFO: [commit_task:45] Committing result for m0 = 1080
+ INFO: [commit_task:58] [CO] Result committed. [2,445]
+ INFO: [commit_task:45] Committing result for m0 = 1100
+ INFO: [commit_task:58] [CO] Result committed. [3,445]
+ INFO: [commit_task:45] Committing result for m0 = 1120
+ INFO: [commit_task:58] [CO] Result committed. [4,445]
+ INFO: [commit_task:45] Committing result for m0 = 1140
+ INFO: [commit_task:58] [CO] Result committed. [5,445]
+ INFO: [commit_task:45] Committing result for m0 = 1160
+ INFO: [commit_task:58] [CO] Result committed. [6,445]
+ INFO: [commit_task:45] Committing result for m0 = 1180
+ INFO: [commit_task:58] [CO] Result committed. [7,445]
+ INFO: [commit_task:45] Committing result for m0 = 1200
+ INFO: [commit_task:58] [CO] Result committed. [8,445]
+ INFO: [commit_task:45] Committing result for m0 = 1220
+ INFO: [commit_task:58] [CO] Result committed. [9,445]
+ INFO: [commit_task:45] Committing result for m0 = 1240
+ INFO: [commit_task:58] [CO] Result committed. [10,445]
+ INFO: [commit_task:45] Committing result for m0 = 1260
+ INFO: [commit_task:58] [CO] Result committed. [11,445]
+ INFO: [commit_task:45] Committing result for m0 = 1280
+ INFO: [commit_task:58] [CO] Result committed. [12,445]
+ INFO: [commit_task:45] Committing result for m0 = 1300
+ INFO: [commit_task:58] [CO] Result committed. [13,445]
+ INFO: [commit_task:45] Committing result for m0 = 1320
+ INFO: [commit_task:58] [CO] Result committed. [14,445]
+ INFO: [commit_task:45] Committing result for m0 = 1340
+ INFO: [commit_task:58] [CO] Result committed. [15,445]
+ INFO: [commit_task:45] Committing result for m0 = 1360
+ INFO: [commit_task:58] [CO] Result committed. [16,445]
+ INFO: [commit_task:45] Committing result for m0 = 1380
+ INFO: [commit_task:58] [CO] Result committed. [17,445]
+ INFO: [commit_task:45] Committing result for m0 = 1400
+ INFO: [commit_task:58] [CO] Result committed. [18,445]
+ INFO: [commit_task:45] Committing result for m0 = 1420
+ INFO: [commit_task:58] [CO] Result committed. [19,445]
+ INFO: [commit_task:45] Committing result for m0 = 1440
+ INFO: [commit_task:58] [CO] Result committed. [20,445]
+ INFO: [commit_task:45] Committing result for m0 = 1460
+ INFO: [commit_task:58] [CO] Result committed. [21,445]
+ INFO: [commit_task:45] Committing result for m0 = 1480
+ INFO: [commit_task:58] [CO] Result committed. [22,445]
+ INFO: [commit_task:45] Committing result for m0 = 1500
+ INFO: [commit_task:58] [CO] Result committed. [23,445]
+ INFO: [commit_task:45] Committing result for m0 = 1520
+ INFO: [commit_task:58] [CO] Result committed. [24,445]
+ INFO: [commit_task:45] Committing result for m0 = 1540
+ INFO: [commit_task:58] [CO] Result committed. [25,445]
+ INFO: [commit_task:45] Committing result for m0 = 1560
+ INFO: [commit_task:58] [CO] Result committed. [26,445]
+ INFO: [commit_task:45] Committing result for m0 = 1580
+ INFO: [commit_task:58] [CO] Result committed. [27,445]
+ INFO: [commit_task:45] Committing result for m0 = 1600
+ INFO: [commit_task:58] [CO] Result committed. [28,445]
+ INFO: [commit_task:45] Committing result for m0 = 1620
+ INFO: [commit_task:58] [CO] Result committed. [29,445]
+ INFO: [commit_task:45] Committing result for m0 = 1640
+ INFO: [commit_task:58] [CO] Result committed. [30,445]
+ INFO: [commit_task:45] Committing result for m0 = 1660
+ INFO: [commit_task:58] [CO] Result committed. [31,445]
+ INFO: [commit_task:45] Committing result for m0 = 1680
+ INFO: [commit_task:58] [CO] Result committed. [32,445]
+ INFO: [commit_task:45] Committing result for m0 = 1700
+ INFO: [commit_task:58] [CO] Result committed. [33,445]
+ INFO: [commit_task:45] Committing result for m0 = 1720
+ INFO: [commit_task:58] [CO] Result committed. [34,445]
+ INFO: [commit_task:45] Committing result for m0 = 1740
+ INFO: [commit_task:58] [CO] Result committed. [35,445]
+ INFO: [commit_task:45] Committing result for m0 = 1760
+ INFO: [commit_task:58] [CO] Result committed. [36,445]
+ INFO: [commit_task:45] Committing result for m0 = 1780
+ INFO: [commit_task:58] [CO] Result committed. [37,445]
+ INFO: [commit_task:45] Committing result for m0 = 1800
+ INFO: [commit_task:58] [CO] Result committed. [38,445]
+ INFO: [commit_task:45] Committing result for m0 = 1820
+ INFO: [commit_task:58] [CO] Result committed. [39,445]
+ INFO: [commit_task:45] Committing result for m0 = 1840
+ INFO: [commit_task:58] [CO] Result committed. [40,445]
+ INFO: [commit_task:45] Committing result for m0 = 1860
+ INFO: [commit_task:58] [CO] Result committed. [41,445]
+ INFO: [commit_task:45] Committing result for m0 = 1880
+ INFO: [commit_task:58] [CO] Result committed. [42,445]
+ INFO: [commit_task:45] Committing result for m0 = 1900
+ INFO: [commit_task:58] [CO] Result committed. [43,445]
+ INFO: [commit_task:45] Committing result for m0 = 1920
+ INFO: [commit_task:58] [CO] Result committed. [44,445]
+ INFO: [commit_task:45] Committing result for m0 = 1940
+ INFO: [commit_task:58] [CO] Result committed. [45,445]
+ INFO: [commit_task:45] Committing result for m0 = 1960
+ INFO: [commit_task:58] [CO] Result committed. [46,445]
+ INFO: [commit_task:45] Committing result for m0 = 1980
+ INFO: [commit_task:58] [CO] Result committed. [47,445]
+ INFO: [commit_task:45] Committing result for m0 = 2000
+ INFO: [commit_task:58] [CO] Result committed. [48,445]
+ INFO: [commit_task:45] Committing result for m0 = 2020
+ INFO: [commit_task:58] [CO] Result committed. [49,445]
+ INFO: [commit_task:45] Committing result for m0 = 2040
+ INFO: [commit_task:58] [CO] Result committed. [50,445]
+ INFO: [commit_task:45] Committing result for m0 = 2060
+ INFO: [commit_task:58] [CO] Result committed. [51,445]
+ INFO: [commit_task:45] Committing result for m0 = 2080
+ INFO: [commit_task:58] [CO] Result committed. [52,445]
+ INFO: [commit_task:45] Committing result for m0 = 2100
+ INFO: [commit_task:58] [CO] Result committed. [53,445]
+ INFO: [commit_task:45] Committing result for m0 = 2120
+ INFO: [commit_task:58] [CO] Result committed. [54,445]
+ INFO: [commit_task:45] Committing result for m0 = 2140
+ INFO: [commit_task:58] [CO] Result committed. [55,445]
+ INFO: [commit_task:45] Committing result for m0 = 2160
+ INFO: [commit_task:58] [CO] Result committed. [56,445]
+ INFO: [commit_task:45] Committing result for m0 = 2180
+ INFO: [commit_task:58] [CO] Result committed. [57,445]
+ INFO: [commit_task:45] Committing result for m0 = 2200
+ INFO: [commit_task:58] [CO] Result committed. [58,445]
+ INFO: [commit_task:45] Committing result for m0 = 2220
+ INFO: [commit_task:58] [CO] Result committed. [59,445]
+ INFO: [commit_task:45] Committing result for m0 = 2240
+ INFO: [commit_task:58] [CO] Result committed. [60,445]
+ INFO: [commit_task:45] Committing result for m0 = 2260
+ INFO: [commit_task:58] [CO] Result committed. [61,445]
+ INFO: [commit_task:45] Committing result for m0 = 2280
+ INFO: [commit_task:58] [CO] Result committed. [62,445]
+ INFO: [commit_task:45] Committing result for m0 = 2300
+ INFO: [commit_task:58] [CO] Result committed. [63,445]
+ INFO: [commit_task:45] Committing result for m0 = 2320
+ INFO: [commit_task:58] [CO] Result committed. [64,445]
+ INFO: [commit_task:45] Committing result for m0 = 2340
+ INFO: [commit_task:58] [CO] Result committed. [65,445]
+ INFO: [commit_task:45] Committing result for m0 = 2360
+ INFO: [commit_task:58] [CO] Result committed. [66,445]
+ INFO: [commit_task:45] Committing result for m0 = 2380
+ INFO: [commit_task:58] [CO] Result committed. [67,445]
+ INFO: [commit_task:45] Committing result for m0 = 2400
+ INFO: [commit_task:58] [CO] Result committed. [68,445]
+ INFO: [commit_task:45] Committing result for m0 = 2420
+ INFO: [commit_task:58] [CO] Result committed. [69,445]
+ INFO: [commit_task:45] Committing result for m0 = 2440
+ INFO: [commit_task:58] [CO] Result committed. [70,445]
+ INFO: [commit_task:45] Committing result for m0 = 2460
+ INFO: [commit_task:58] [CO] Result committed. [71,445]
+ INFO: [commit_task:45] Committing result for m0 = 2480
+ INFO: [commit_task:58] [CO] Result committed. [72,445]
+ INFO: [commit_task:45] Committing result for m0 = 2500
+ INFO: [commit_task:58] [CO] Result committed. [73,445]
+ INFO: [commit_task:45] Committing result for m0 = 2520
+ INFO: [commit_task:58] [CO] Result committed. [74,445]
+ INFO: [commit_task:45] Committing result for m0 = 2540
+ INFO: [commit_task:58] [CO] Result committed. [75,445]
+ INFO: [commit_task:45] Committing result for m0 = 2560
+ INFO: [commit_task:58] [CO] Result committed. [76,445]
+ INFO: [commit_task:45] Committing result for m0 = 2580
+ INFO: [commit_task:58] [CO] Result committed. [77,445]
+ INFO: [commit_task:45] Committing result for m0 = 2600
+ INFO: [commit_task:58] [CO] Result committed. [78,445]
+ INFO: [commit_task:45] Committing result for m0 = 2620
+ INFO: [commit_task:58] [CO] Result committed. [79,445]
+ INFO: [commit_task:45] Committing result for m0 = 2640
+ INFO: [commit_task:58] [CO] Result committed. [80,445]
+ INFO: [commit_task:45] Committing result for m0 = 2660
+ INFO: [commit_task:58] [CO] Result committed. [81,445]
+ INFO: [commit_task:45] Committing result for m0 = 2680
+ INFO: [commit_task:58] [CO] Result committed. [82,445]
+ INFO: [commit_task:45] Committing result for m0 = 2700
+ INFO: [commit_task:58] [CO] Result committed. [83,445]
+ INFO: [commit_task:45] Committing result for m0 = 2720
+ INFO: [commit_task:58] [CO] Result committed. [84,445]
+ INFO: [commit_task:45] Committing result for m0 = 2740
+ INFO: [commit_task:58] [CO] Result committed. [85,445]
+ INFO: [commit_task:45] Committing result for m0 = 2760
+ INFO: [commit_task:58] [CO] Result committed. [86,445]
+ INFO: [commit_task:45] Committing result for m0 = 2780
+ INFO: [commit_task:58] [CO] Result committed. [87,445]
+ INFO: [commit_task:45] Committing result for m0 = 2800
+ INFO: [commit_task:58] [CO] Result committed. [88,445]
+ INFO: [commit_task:45] Committing result for m0 = 2820
+ INFO: [commit_task:58] [CO] Result committed. [89,445]
+ INFO: [commit_task:45] Committing result for m0 = 2840
+ INFO: [commit_task:58] [CO] Result committed. [90,445]
+ INFO: [commit_task:45] Committing result for m0 = 2860
+ INFO: [commit_task:58] [CO] Result committed. [91,445]
+ INFO: [commit_task:45] Committing result for m0 = 2880
+ INFO: [commit_task:58] [CO] Result committed. [92,445]
+ INFO: [commit_task:45] Committing result for m0 = 2900
+ INFO: [commit_task:58] [CO] Result committed. [93,445]
+ INFO: [commit_task:45] Committing result for m0 = 2920
+ INFO: [commit_task:58] [CO] Result committed. [94,445]
+ INFO: [commit_task:45] Committing result for m0 = 2940
+ INFO: [commit_task:58] [CO] Result committed. [95,445]
+ INFO: [commit_task:45] Committing result for m0 = 2960
+ INFO: [commit_task:58] [CO] Result committed. [96,445]
+ INFO: [commit_task:45] Committing result for m0 = 2980
+ INFO: [commit_task:58] [CO] Result committed. [97,445]
+ INFO: [commit_task:45] Committing result for m0 = 3000
+ INFO: [commit_task:58] [CO] Result committed. [98,445]
+ INFO: [commit_task:45] Committing result for m0 = 3020
+ INFO: [commit_task:58] [CO] Result committed. [99,445]
+ INFO: [commit_task:45] Committing result for m0 = 3040
+ INFO: [commit_task:58] [CO] Result committed. [100,445]
+ INFO: [commit_task:45] Committing result for m0 = 3060
+ INFO: [commit_task:58] [CO] Result committed. [101,445]
+ INFO: [commit_task:45] Committing result for m0 = 3080
+ INFO: [commit_task:58] [CO] Result committed. [102,445]
+ INFO: [commit_task:45] Committing result for m0 = 3100
+ INFO: [commit_task:58] [CO] Result committed. [103,445]
+ INFO: [commit_task:45] Committing result for m0 = 3120
+ INFO: [commit_task:58] [CO] Result committed. [104,445]
+ INFO: [commit_task:45] Committing result for m0 = 3140
+ INFO: [commit_task:58] [CO] Result committed. [105,445]
+ INFO: [commit_task:45] Committing result for m0 = 3160
+ INFO: [commit_task:58] [CO] Result committed. [106,445]
+ INFO: [commit_task:45] Committing result for m0 = 3180
+ INFO: [commit_task:58] [CO] Result committed. [107,445]
+ INFO: [commit_task:45] Committing result for m0 = 3200
+ INFO: [commit_task:58] [CO] Result committed. [108,445]
+ INFO: [commit_task:45] Committing result for m0 = 3220
+ INFO: [commit_task:58] [CO] Result committed. [109,445]
+ INFO: [commit_task:45] Committing result for m0 = 3240
+ INFO: [commit_task:58] [CO] Result committed. [110,445]
+ INFO: [commit_task:45] Committing result for m0 = 3260
+ INFO: [commit_task:58] [CO] Result committed. [111,445]
+ INFO: [commit_task:45] Committing result for m0 = 3280
+ INFO: [commit_task:58] [CO] Result committed. [112,445]
+ INFO: [commit_task:45] Committing result for m0 = 3440
+ INFO: [commit_task:58] [CO] Result committed. [113,445]
+ INFO: [commit_task:45] Committing result for m0 = 3300
+ INFO: [commit_task:58] [CO] Result committed. [114,445]
+ INFO: [commit_task:45] Committing result for m0 = 3320
+ INFO: [commit_task:58] [CO] Result committed. [115,445]
+ INFO: [commit_task:45] Committing result for m0 = 3480
+ INFO: [commit_task:58] [CO] Result committed. [116,445]
+ INFO: [commit_task:45] Committing result for m0 = 3340
+ INFO: [commit_task:58] [CO] Result committed. [117,445]
+ INFO: [commit_task:45] Committing result for m0 = 3500
+ INFO: [commit_task:58] [CO] Result committed. [118,445]
+ INFO: [commit_task:45] Committing result for m0 = 3360
+ INFO: [commit_task:58] [CO] Result committed. [119,445]
+ INFO: [commit_task:45] Committing result for m0 = 3520
+ INFO: [commit_task:58] [CO] Result committed. [120,445]
+ INFO: [commit_task:45] Committing result for m0 = 3380
+ INFO: [commit_task:58] [CO] Result committed. [121,445]
+ INFO: [commit_task:45] Committing result for m0 = 3540
+ INFO: [commit_task:58] [CO] Result committed. [122,445]
+ INFO: [commit_task:45] Committing result for m0 = 3400
+ INFO: [commit_task:58] [CO] Result committed. [123,445]
+ INFO: [commit_task:45] Committing result for m0 = 3560
+ INFO: [commit_task:58] [CO] Result committed. [124,445]
+ INFO: [commit_task:45] Committing result for m0 = 3420
+ INFO: [commit_task:58] [CO] Result committed. [125,445]
+ INFO: [commit_task:45] Committing result for m0 = 3580
+ INFO: [commit_task:58] [CO] Result committed. [126,445]
+ INFO: [commit_task:45] Committing result for m0 = 3600
+ INFO: [commit_task:58] [CO] Result committed. [127,445]
+ INFO: [commit_task:45] Committing result for m0 = 3460
+ INFO: [commit_task:58] [CO] Result committed. [128,445]
+ INFO: [commit_task:45] Committing result for m0 = 3620
+ INFO: [commit_task:58] [CO] Result committed. [129,445]
+ INFO: [commit_task:45] Committing result for m0 = 3640
+ INFO: [commit_task:58] [CO] Result committed. [130,445]
+ INFO: [commit_task:45] Committing result for m0 = 3660
+ INFO: [commit_task:58] [CO] Result committed. [131,445]
+ INFO: [commit_task:45] Committing result for m0 = 3680
+ INFO: [commit_task:58] [CO] Result committed. [132,445]
+ INFO: [commit_task:45] Committing result for m0 = 3700
+ INFO: [commit_task:58] [CO] Result committed. [133,445]
+ INFO: [commit_task:45] Committing result for m0 = 3720
+ INFO: [commit_task:58] [CO] Result committed. [134,445]
+ INFO: [commit_task:45] Committing result for m0 = 3740
+ INFO: [commit_task:58] [CO] Result committed. [135,445]
+ INFO: [commit_task:45] Committing result for m0 = 3760
+ INFO: [commit_task:58] [CO] Result committed. [136,445]
+ INFO: [commit_task:45] Committing result for m0 = 3780
+ INFO: [commit_task:58] [CO] Result committed. [137,445]
+ INFO: [commit_task:45] Committing result for m0 = 3800
+ INFO: [commit_task:58] [CO] Result committed. [138,445]
+ INFO: [commit_task:45] Committing result for m0 = 3820
+ INFO: [commit_task:58] [CO] Result committed. [139,445]
+ INFO: [commit_task:45] Committing result for m0 = 3840
+ INFO: [commit_task:58] [CO] Result committed. [140,445]
+ INFO: [commit_task:45] Committing result for m0 = 3860
+ INFO: [commit_task:58] [CO] Result committed. [141,445]
+ INFO: [commit_task:45] Committing result for m0 = 3880
+ INFO: [commit_task:58] [CO] Result committed. [142,445]
+ INFO: [commit_task:45] Committing result for m0 = 3900
+ INFO: [commit_task:58] [CO] Result committed. [143,445]
+ INFO: [commit_task:45] Committing result for m0 = 3920
+ INFO: [commit_task:58] [CO] Result committed. [144,445]
+ INFO: [commit_task:45] Committing result for m0 = 3940
+ INFO: [commit_task:58] [CO] Result committed. [145,445]
+ INFO: [commit_task:45] Committing result for m0 = 3960
+ INFO: [commit_task:58] [CO] Result committed. [146,445]
+ INFO: [commit_task:45] Committing result for m0 = 3980
+ INFO: [commit_task:58] [CO] Result committed. [147,445]
+ INFO: [commit_task:45] Committing result for m0 = 4000
+ INFO: [commit_task:58] [CO] Result committed. [148,445]
+ INFO: [commit_task:45] Committing result for m0 = 4020
+ INFO: [commit_task:58] [CO] Result committed. [149,445]
+ INFO: [commit_task:45] Committing result for m0 = 4040
+ INFO: [commit_task:58] [CO] Result committed. [150,445]
+ INFO: [commit_task:45] Committing result for m0 = 4060
+ INFO: [commit_task:58] [CO] Result committed. [151,445]
+ INFO: [commit_task:45] Committing result for m0 = 4080
+ INFO: [commit_task:58] [CO] Result committed. [152,445]
+ INFO: [commit_task:45] Committing result for m0 = 4100
+ INFO: [commit_task:58] [CO] Result committed. [153,445]
+ INFO: [commit_task:45] Committing result for m0 = 4120
+ INFO: [commit_task:58] [CO] Result committed. [154,445]
+ INFO: [commit_task:45] Committing result for m0 = 4140
+ INFO: [commit_task:58] [CO] Result committed. [155,445]
+ INFO: [commit_task:45] Committing result for m0 = 4160
+ INFO: [commit_task:58] [CO] Result committed. [156,445]
+ INFO: [commit_task:45] Committing result for m0 = 4180
+ INFO: [commit_task:58] [CO] Result committed. [157,445]
+ INFO: [commit_task:45] Committing result for m0 = 4200
+ INFO: [commit_task:58] [CO] Result committed. [158,445]
+ INFO: [commit_task:45] Committing result for m0 = 4220
+ INFO: [commit_task:58] [CO] Result committed. [159,445]
+ INFO: [commit_task:45] Committing result for m0 = 4240
+ INFO: [commit_task:58] [CO] Result committed. [160,445]
+ INFO: [commit_task:45] Committing result for m0 = 4260
+ INFO: [commit_task:58] [CO] Result committed. [161,445]
+ INFO: [commit_task:45] Committing result for m0 = 4280
+ INFO: [commit_task:58] [CO] Result committed. [162,445]
+ INFO: [commit_task:45] Committing result for m0 = 4300
+ INFO: [commit_task:58] [CO] Result committed. [163,445]
+ INFO: [commit_task:45] Committing result for m0 = 4320
+ INFO: [commit_task:58] [CO] Result committed. [164,445]
+ INFO: [commit_task:45] Committing result for m0 = 4340
+ INFO: [commit_task:58] [CO] Result committed. [165,445]
+ INFO: [commit_task:45] Committing result for m0 = 4360
+ INFO: [commit_task:58] [CO] Result committed. [166,445]
+ INFO: [commit_task:45] Committing result for m0 = 4380
+ INFO: [commit_task:58] [CO] Result committed. [167,445]
+ INFO: [commit_task:45] Committing result for m0 = 4400
+ INFO: [commit_task:58] [CO] Result committed. [168,445]
+ INFO: [commit_task:45] Committing result for m0 = 4420
+ INFO: [commit_task:58] [CO] Result committed. [169,445]
+ INFO: [commit_task:45] Committing result for m0 = 4440
+ INFO: [commit_task:58] [CO] Result committed. [170,445]
+ INFO: [commit_task:45] Committing result for m0 = 4460
+ INFO: [commit_task:58] [CO] Result committed. [171,445]
+ INFO: [commit_task:45] Committing result for m0 = 4480
+ INFO: [commit_task:58] [CO] Result committed. [172,445]
+ INFO: [commit_task:45] Committing result for m0 = 4500
+ INFO: [commit_task:58] [CO] Result committed. [173,445]
+ INFO: [commit_task:45] Committing result for m0 = 4520
+ INFO: [commit_task:58] [CO] Result committed. [174,445]
+ INFO: [commit_task:45] Committing result for m0 = 4540
+ INFO: [commit_task:58] [CO] Result committed. [175,445]
+ INFO: [commit_task:45] Committing result for m0 = 4560
+ INFO: [commit_task:58] [CO] Result committed. [176,445]
+ INFO: [commit_task:45] Committing result for m0 = 4580
+ INFO: [commit_task:58] [CO] Result committed. [177,445]
+ INFO: [commit_task:45] Committing result for m0 = 4600
+ INFO: [commit_task:58] [CO] Result committed. [178,445]
+ INFO: [commit_task:45] Committing result for m0 = 4620
+ INFO: [commit_task:58] [CO] Result committed. [179,445]
+ INFO: [commit_task:45] Committing result for m0 = 4640
+ INFO: [commit_task:58] [CO] Result committed. [180,445]
+ INFO: [commit_task:45] Committing result for m0 = 4660
+ INFO: [commit_task:58] [CO] Result committed. [181,445]
+ INFO: [commit_task:45] Committing result for m0 = 4680
+ INFO: [commit_task:58] [CO] Result committed. [182,445]
+ INFO: [commit_task:45] Committing result for m0 = 4700
+ INFO: [commit_task:58] [CO] Result committed. [183,445]
+ INFO: [commit_task:45] Committing result for m0 = 4720
+ INFO: [commit_task:58] [CO] Result committed. [184,445]
+ INFO: [commit_task:45] Committing result for m0 = 4740
+ INFO: [commit_task:58] [CO] Result committed. [185,445]
+ INFO: [commit_task:45] Committing result for m0 = 4760
+ INFO: [commit_task:58] [CO] Result committed. [186,445]
+ INFO: [commit_task:45] Committing result for m0 = 4780
+ INFO: [commit_task:58] [CO] Result committed. [187,445]
+ INFO: [commit_task:45] Committing result for m0 = 4800
+ INFO: [commit_task:58] [CO] Result committed. [188,445]
+ INFO: [commit_task:45] Committing result for m0 = 4820
+ INFO: [commit_task:58] [CO] Result committed. [189,445]
+ INFO: [commit_task:45] Committing result for m0 = 4840
+ INFO: [commit_task:58] [CO] Result committed. [190,445]
+ INFO: [commit_task:45] Committing result for m0 = 4860
+ INFO: [commit_task:58] [CO] Result committed. [191,445]
+ INFO: [commit_task:45] Committing result for m0 = 4880
+ INFO: [commit_task:58] [CO] Result committed. [192,445]
+ INFO: [commit_task:45] Committing result for m0 = 4900
+ INFO: [commit_task:58] [CO] Result committed. [193,445]
+ INFO: [commit_task:45] Committing result for m0 = 4920
+ INFO: [commit_task:58] [CO] Result committed. [194,445]
+ INFO: [commit_task:45] Committing result for m0 = 4940
+ INFO: [commit_task:58] [CO] Result committed. [195,445]
+ INFO: [commit_task:45] Committing result for m0 = 4960
+ INFO: [commit_task:58] [CO] Result committed. [196,445]
+ INFO: [commit_task:45] Committing result for m0 = 4980
+ INFO: [commit_task:58] [CO] Result committed. [197,445]
+ INFO: [commit_task:45] Committing result for m0 = 5000
+ INFO: [commit_task:58] [CO] Result committed. [198,445]
+ INFO: [commit_task:45] Committing result for m0 = 5020
+ INFO: [commit_task:58] [CO] Result committed. [199,445]
+ INFO: [commit_task:45] Committing result for m0 = 5040
+ INFO: [commit_task:58] [CO] Result committed. [200,445]
+ INFO: [commit_task:45] Committing result for m0 = 5060
+ INFO: [commit_task:58] [CO] Result committed. [201,445]
+ INFO: [commit_task:45] Committing result for m0 = 5080
+ INFO: [commit_task:58] [CO] Result committed. [202,445]
+ INFO: [commit_task:45] Committing result for m0 = 5100
+ INFO: [commit_task:58] [CO] Result committed. [203,445]
+ INFO: [commit_task:45] Committing result for m0 = 5120
+ INFO: [commit_task:58] [CO] Result committed. [204,445]
+ INFO: [commit_task:45] Committing result for m0 = 5140
+ INFO: [commit_task:58] [CO] Result committed. [205,445]
+ INFO: [commit_task:45] Committing result for m0 = 5160
+ INFO: [commit_task:58] [CO] Result committed. [206,445]
+ INFO: [commit_task:45] Committing result for m0 = 5180
+ INFO: [commit_task:58] [CO] Result committed. [207,445]
+ INFO: [commit_task:45] Committing result for m0 = 5200
+ INFO: [commit_task:58] [CO] Result committed. [208,445]
+ INFO: [commit_task:45] Committing result for m0 = 5220
+ INFO: [commit_task:58] [CO] Result committed. [209,445]
+ INFO: [commit_task:45] Committing result for m0 = 5240
+ INFO: [commit_task:58] [CO] Result committed. [210,445]
+ INFO: [commit_task:45] Committing result for m0 = 5260
+ INFO: [commit_task:58] [CO] Result committed. [211,445]
+ INFO: [commit_task:45] Committing result for m0 = 5280
+ INFO: [commit_task:58] [CO] Result committed. [212,445]
+ INFO: [commit_task:45] Committing result for m0 = 5300
+ INFO: [commit_task:58] [CO] Result committed. [213,445]
+ INFO: [commit_task:45] Committing result for m0 = 5320
+ INFO: [commit_task:58] [CO] Result committed. [214,445]
+ INFO: [commit_task:45] Committing result for m0 = 5340
+ INFO: [commit_task:58] [CO] Result committed. [215,445]
+ INFO: [commit_task:45] Committing result for m0 = 5360
+ INFO: [commit_task:58] [CO] Result committed. [216,445]
+ INFO: [commit_task:45] Committing result for m0 = 5380
+ INFO: [commit_task:58] [CO] Result committed. [217,445]
+ INFO: [commit_task:45] Committing result for m0 = 5400
+ INFO: [commit_task:58] [CO] Result committed. [218,445]
+ INFO: [commit_task:45] Committing result for m0 = 5420
+ INFO: [commit_task:58] [CO] Result committed. [219,445]
+ INFO: [commit_task:45] Committing result for m0 = 5440
+ INFO: [commit_task:58] [CO] Result committed. [220,445]
+ INFO: [commit_task:45] Committing result for m0 = 5460
+ INFO: [commit_task:58] [CO] Result committed. [221,445]
+ INFO: [commit_task:45] Committing result for m0 = 5480
+ INFO: [commit_task:58] [CO] Result committed. [222,445]
+ INFO: [commit_task:45] Committing result for m0 = 5500
+ INFO: [commit_task:58] [CO] Result committed. [223,445]
+ INFO: [commit_task:45] Committing result for m0 = 5520
+ INFO: [commit_task:58] [CO] Result committed. [224,445]
+ INFO: [commit_task:45] Committing result for m0 = 5540
+ INFO: [commit_task:58] [CO] Result committed. [225,445]
+ INFO: [commit_task:45] Committing result for m0 = 5560
+ INFO: [commit_task:58] [CO] Result committed. [226,445]
+ INFO: [commit_task:45] Committing result for m0 = 5580
+ INFO: [commit_task:58] [CO] Result committed. [227,445]
+ INFO: [commit_task:45] Committing result for m0 = 5600
+ INFO: [commit_task:58] [CO] Result committed. [228,445]
+ INFO: [commit_task:45] Committing result for m0 = 5620
+ INFO: [commit_task:58] [CO] Result committed. [229,445]
+ INFO: [commit_task:45] Committing result for m0 = 5640
+ INFO: [commit_task:58] [CO] Result committed. [230,445]
+ INFO: [commit_task:45] Committing result for m0 = 5660
+ INFO: [commit_task:58] [CO] Result committed. [231,445]
+ INFO: [commit_task:45] Committing result for m0 = 5680
+ INFO: [commit_task:58] [CO] Result committed. [232,445]
+ INFO: [commit_task:45] Committing result for m0 = 5700
+ INFO: [commit_task:58] [CO] Result committed. [233,445]
+ INFO: [commit_task:45] Committing result for m0 = 5720
+ INFO: [commit_task:58] [CO] Result committed. [234,445]
+ INFO: [commit_task:45] Committing result for m0 = 5740
+ INFO: [commit_task:58] [CO] Result committed. [235,445]
+ INFO: [commit_task:45] Committing result for m0 = 5760
+ INFO: [commit_task:58] [CO] Result committed. [236,445]
+ INFO: [commit_task:45] Committing result for m0 = 5780
+ INFO: [commit_task:58] [CO] Result committed. [237,445]
+ INFO: [commit_task:45] Committing result for m0 = 5800
+ INFO: [commit_task:58] [CO] Result committed. [238,445]
+ INFO: [commit_task:45] Committing result for m0 = 5820
+ INFO: [commit_task:58] [CO] Result committed. [239,445]
+ INFO: [commit_task:45] Committing result for m0 = 5840
+ INFO: [commit_task:58] [CO] Result committed. [240,445]
+ INFO: [commit_task:45] Committing result for m0 = 5860
+ INFO: [commit_task:58] [CO] Result committed. [241,445]
+ INFO: [commit_task:45] Committing result for m0 = 5880
+ INFO: [commit_task:58] [CO] Result committed. [242,445]
+ INFO: [commit_task:45] Committing result for m0 = 5900
+ INFO: [commit_task:58] [CO] Result committed. [243,445]
+ INFO: [commit_task:45] Committing result for m0 = 5920
+ INFO: [commit_task:58] [CO] Result committed. [244,445]
+ INFO: [commit_task:45] Committing result for m0 = 5940
+ INFO: [commit_task:58] [CO] Result committed. [245,445]
+ INFO: [commit_task:45] Committing result for m0 = 5960
+ INFO: [commit_task:58] [CO] Result committed. [246,445]
+ INFO: [commit_task:45] Committing result for m0 = 5980
+ INFO: [commit_task:58] [CO] Result committed. [247,445]
+ INFO: [commit_task:45] Committing result for m0 = 6000
+ INFO: [commit_task:58] [CO] Result committed. [248,445]
+ INFO: [commit_task:45] Committing result for m0 = 6020
+ INFO: [commit_task:58] [CO] Result committed. [249,445]
+ INFO: [commit_task:45] Committing result for m0 = 6040
+ INFO: [commit_task:58] [CO] Result committed. [250,445]
+ INFO: [commit_task:45] Committing result for m0 = 6060
+ INFO: [commit_task:58] [CO] Result committed. [251,445]
+ INFO: [commit_task:45] Committing result for m0 = 6080
+ INFO: [commit_task:58] [CO] Result committed. [252,445]
+ INFO: [commit_task:45] Committing result for m0 = 6100
+ INFO: [commit_task:58] [CO] Result committed. [253,445]
+ INFO: [commit_task:45] Committing result for m0 = 6120
+ INFO: [commit_task:58] [CO] Result committed. [254,445]
+ INFO: [commit_task:45] Committing result for m0 = 6140
+ INFO: [commit_task:58] [CO] Result committed. [255,445]
+ INFO: [commit_task:45] Committing result for m0 = 6160
+ INFO: [commit_task:58] [CO] Result committed. [256,445]
+ INFO: [commit_task:45] Committing result for m0 = 6180
+ INFO: [commit_task:58] [CO] Result committed. [257,445]
+ INFO: [commit_task:45] Committing result for m0 = 6200
+ INFO: [commit_task:58] [CO] Result committed. [258,445]
+ INFO: [commit_task:45] Committing result for m0 = 6220
+ INFO: [commit_task:58] [CO] Result committed. [259,445]
+ INFO: [commit_task:45] Committing result for m0 = 6240
+ INFO: [commit_task:58] [CO] Result committed. [260,445]
+ INFO: [commit_task:45] Committing result for m0 = 6260
+ INFO: [commit_task:58] [CO] Result committed. [261,445]
+ INFO: [commit_task:45] Committing result for m0 = 6280
+ INFO: [commit_task:58] [CO] Result committed. [262,445]
+ INFO: [commit_task:45] Committing result for m0 = 6300
+ INFO: [commit_task:58] [CO] Result committed. [263,445]
+ INFO: [commit_task:45] Committing result for m0 = 6320
+ INFO: [commit_task:58] [CO] Result committed. [264,445]
+ INFO: [commit_task:45] Committing result for m0 = 6340
+ INFO: [commit_task:58] [CO] Result committed. [265,445]
+ INFO: [commit_task:45] Committing result for m0 = 6360
+ INFO: [commit_task:58] [CO] Result committed. [266,445]
+ INFO: [commit_task:45] Committing result for m0 = 6380
+ INFO: [commit_task:58] [CO] Result committed. [267,445]
+ INFO: [commit_task:45] Committing result for m0 = 6400
+ INFO: [commit_task:58] [CO] Result committed. [268,445]
+ INFO: [commit_task:45] Committing result for m0 = 6420
+ INFO: [commit_task:58] [CO] Result committed. [269,445]
+ INFO: [commit_task:45] Committing result for m0 = 6440
+ INFO: [commit_task:58] [CO] Result committed. [270,445]
+ INFO: [commit_task:45] Committing result for m0 = 6460
+ INFO: [commit_task:58] [CO] Result committed. [271,445]
+ INFO: [commit_task:45] Committing result for m0 = 6480
+ INFO: [commit_task:58] [CO] Result committed. [272,445]
+ INFO: [commit_task:45] Committing result for m0 = 6500
+ INFO: [commit_task:58] [CO] Result committed. [273,445]
+ INFO: [commit_task:45] Committing result for m0 = 6520
+ INFO: [commit_task:58] [CO] Result committed. [274,445]
+ INFO: [commit_task:45] Committing result for m0 = 6540
+ INFO: [commit_task:58] [CO] Result committed. [275,445]
+ INFO: [commit_task:45] Committing result for m0 = 6560
+ INFO: [commit_task:58] [CO] Result committed. [276,445]
+ INFO: [commit_task:45] Committing result for m0 = 6580
+ INFO: [commit_task:58] [CO] Result committed. [277,445]
+ INFO: [commit_task:45] Committing result for m0 = 6600
+ INFO: [commit_task:58] [CO] Result committed. [278,445]
+ INFO: [commit_task:45] Committing result for m0 = 6620
+ INFO: [commit_task:58] [CO] Result committed. [279,445]
+ INFO: [commit_task:45] Committing result for m0 = 6640
+ INFO: [commit_task:58] [CO] Result committed. [280,445]
+ INFO: [commit_task:45] Committing result for m0 = 6660
+ INFO: [commit_task:58] [CO] Result committed. [281,445]
+ INFO: [commit_task:45] Committing result for m0 = 6680
+ INFO: [commit_task:58] [CO] Result committed. [282,445]
+ INFO: [commit_task:45] Committing result for m0 = 6700
+ INFO: [commit_task:58] [CO] Result committed. [283,445]
+ INFO: [commit_task:45] Committing result for m0 = 6720
+ INFO: [commit_task:58] [CO] Result committed. [284,445]
+ INFO: [commit_task:45] Committing result for m0 = 6740
+ INFO: [commit_task:58] [CO] Result committed. [285,445]
+ INFO: [commit_task:45] Committing result for m0 = 6760
+ INFO: [commit_task:58] [CO] Result committed. [286,445]
+ INFO: [commit_task:45] Committing result for m0 = 6780
+ INFO: [commit_task:58] [CO] Result committed. [287,445]
+ INFO: [commit_task:45] Committing result for m0 = 6800
+ INFO: [commit_task:58] [CO] Result committed. [288,445]
+ INFO: [commit_task:45] Committing result for m0 = 6820
+ INFO: [commit_task:58] [CO] Result committed. [289,445]
+ INFO: [commit_task:45] Committing result for m0 = 6840
+ INFO: [commit_task:58] [CO] Result committed. [290,445]
+ INFO: [commit_task:45] Committing result for m0 = 6860
+ INFO: [commit_task:58] [CO] Result committed. [291,445]
+ INFO: [commit_task:45] Committing result for m0 = 6880
+ INFO: [commit_task:58] [CO] Result committed. [292,445]
+ INFO: [commit_task:45] Committing result for m0 = 6900
+ INFO: [commit_task:58] [CO] Result committed. [293,445]
+ INFO: [commit_task:45] Committing result for m0 = 6920
+ INFO: [commit_task:58] [CO] Result committed. [294,445]
+ INFO: [commit_task:45] Committing result for m0 = 6940
+ INFO: [commit_task:58] [CO] Result committed. [295,445]
+ INFO: [commit_task:45] Committing result for m0 = 6960
+ INFO: [commit_task:58] [CO] Result committed. [296,445]
+ INFO: [commit_task:45] Committing result for m0 = 6980
+ INFO: [commit_task:58] [CO] Result committed. [297,445]
+ INFO: [commit_task:45] Committing result for m0 = 7000
+ INFO: [commit_task:58] [CO] Result committed. [298,445]
+ INFO: [commit_task:45] Committing result for m0 = 7020
+ INFO: [commit_task:58] [CO] Result committed. [299,445]
+ INFO: [commit_task:45] Committing result for m0 = 7040
+ INFO: [commit_task:58] [CO] Result committed. [300,445]
+ INFO: [commit_task:45] Committing result for m0 = 7060
+ INFO: [commit_task:58] [CO] Result committed. [301,445]
+ INFO: [commit_task:45] Committing result for m0 = 7080
+ INFO: [commit_task:58] [CO] Result committed. [302,445]
+ INFO: [commit_task:45] Committing result for m0 = 7100
+ INFO: [commit_task:58] [CO] Result committed. [303,445]
+ INFO: [commit_task:45] Committing result for m0 = 7120
+ INFO: [commit_task:58] [CO] Result committed. [304,445]
+ INFO: [commit_task:45] Committing result for m0 = 7140
+ INFO: [commit_task:58] [CO] Result committed. [305,445]
+ INFO: [commit_task:45] Committing result for m0 = 7160
+ INFO: [commit_task:58] [CO] Result committed. [306,445]
+ INFO: [commit_task:45] Committing result for m0 = 7180
+ INFO: [commit_task:58] [CO] Result committed. [307,445]
+ INFO: [commit_task:45] Committing result for m0 = 7200
+ INFO: [commit_task:58] [CO] Result committed. [308,445]
+ INFO: [commit_task:45] Committing result for m0 = 7220
+ INFO: [commit_task:58] [CO] Result committed. [309,445]
+ INFO: [commit_task:45] Committing result for m0 = 7240
+ INFO: [commit_task:58] [CO] Result committed. [310,445]
+ INFO: [commit_task:45] Committing result for m0 = 7260
+ INFO: [commit_task:58] [CO] Result committed. [311,445]
+ INFO: [commit_task:45] Committing result for m0 = 7280
+ INFO: [commit_task:58] [CO] Result committed. [312,445]
+ INFO: [commit_task:45] Committing result for m0 = 7300
+ INFO: [commit_task:58] [CO] Result committed. [313,445]
+ INFO: [commit_task:45] Committing result for m0 = 7320
+ INFO: [commit_task:58] [CO] Result committed. [314,445]
+ INFO: [commit_task:45] Committing result for m0 = 7340
+ INFO: [commit_task:58] [CO] Result committed. [315,445]
+ INFO: [commit_task:45] Committing result for m0 = 7360
+ INFO: [commit_task:58] [CO] Result committed. [316,445]
+ INFO: [commit_task:45] Committing result for m0 = 7380
+ INFO: [commit_task:58] [CO] Result committed. [317,445]
+ INFO: [commit_task:45] Committing result for m0 = 7400
+ INFO: [commit_task:58] [CO] Result committed. [318,445]
+ INFO: [commit_task:45] Committing result for m0 = 7420
+ INFO: [commit_task:58] [CO] Result committed. [319,445]
+ INFO: [commit_task:45] Committing result for m0 = 7440
+ INFO: [commit_task:58] [CO] Result committed. [320,445]
+ INFO: [commit_task:45] Committing result for m0 = 7460
+ INFO: [commit_task:58] [CO] Result committed. [321,445]
+ INFO: [commit_task:45] Committing result for m0 = 7480
+ INFO: [commit_task:58] [CO] Result committed. [322,445]
+ INFO: [commit_task:45] Committing result for m0 = 7500
+ INFO: [commit_task:58] [CO] Result committed. [323,445]
+ INFO: [commit_task:45] Committing result for m0 = 7520
+ INFO: [commit_task:58] [CO] Result committed. [324,445]
+ INFO: [commit_task:45] Committing result for m0 = 7540
+ INFO: [commit_task:58] [CO] Result committed. [325,445]
+ INFO: [commit_task:45] Committing result for m0 = 7560
+ INFO: [commit_task:58] [CO] Result committed. [326,445]
+ INFO: [commit_task:45] Committing result for m0 = 7580
+ INFO: [commit_task:58] [CO] Result committed. [327,445]
+ INFO: [commit_task:45] Committing result for m0 = 7600
+ INFO: [commit_task:58] [CO] Result committed. [328,445]
+ INFO: [commit_task:45] Committing result for m0 = 7620
+ INFO: [commit_task:58] [CO] Result committed. [329,445]
+ INFO: [commit_task:45] Committing result for m0 = 7640
+ INFO: [commit_task:58] [CO] Result committed. [330,445]
+ INFO: [commit_task:45] Committing result for m0 = 7660
+ INFO: [commit_task:58] [CO] Result committed. [331,445]
+ INFO: [commit_task:45] Committing result for m0 = 7680
+ INFO: [commit_task:58] [CO] Result committed. [332,445]
+ INFO: [commit_task:45] Committing result for m0 = 7700
+ INFO: [commit_task:58] [CO] Result committed. [333,445]
+ INFO: [commit_task:45] Committing result for m0 = 7720
+ INFO: [commit_task:58] [CO] Result committed. [334,445]
+ INFO: [commit_task:45] Committing result for m0 = 7740
+ INFO: [commit_task:58] [CO] Result committed. [335,445]
+ INFO: [commit_task:45] Committing result for m0 = 7760
+ INFO: [commit_task:58] [CO] Result committed. [336,445]
+ INFO: [commit_task:45] Committing result for m0 = 7780
+ INFO: [commit_task:58] [CO] Result committed. [337,445]
+ INFO: [commit_task:45] Committing result for m0 = 7800
+ INFO: [commit_task:58] [CO] Result committed. [338,445]
+ INFO: [commit_task:45] Committing result for m0 = 7820
+ INFO: [commit_task:58] [CO] Result committed. [339,445]
+ INFO: [commit_task:45] Committing result for m0 = 7840
+ INFO: [commit_task:58] [CO] Result committed. [340,445]
+ INFO: [commit_task:45] Committing result for m0 = 7860
+ INFO: [commit_task:58] [CO] Result committed. [341,445]
+ INFO: [commit_task:45] Committing result for m0 = 7880
+ INFO: [commit_task:58] [CO] Result committed. [342,445]
+ INFO: [commit_task:45] Committing result for m0 = 7900
+ INFO: [commit_task:58] [CO] Result committed. [343,445]
+ INFO: [commit_task:45] Committing result for m0 = 7920
+ INFO: [commit_task:58] [CO] Result committed. [344,445]
+ INFO: [commit_task:45] Committing result for m0 = 7940
+ INFO: [commit_task:58] [CO] Result committed. [345,445]
+ INFO: [commit_task:45] Committing result for m0 = 7960
+ INFO: [commit_task:58] [CO] Result committed. [346,445]
+ INFO: [commit_task:45] Committing result for m0 = 7980
+ INFO: [commit_task:58] [CO] Result committed. [347,445]
+ INFO: [commit_task:45] Committing result for m0 = 8000
+ INFO: [commit_task:58] [CO] Result committed. [348,445]
+ INFO: [commit_task:45] Committing result for m0 = 8020
+ INFO: [commit_task:58] [CO] Result committed. [349,445]
+ INFO: [commit_task:45] Committing result for m0 = 8040
+ INFO: [commit_task:58] [CO] Result committed. [350,445]
+ INFO: [commit_task:45] Committing result for m0 = 8060
+ INFO: [commit_task:58] [CO] Result committed. [351,445]
+ INFO: [commit_task:45] Committing result for m0 = 8080
+ INFO: [commit_task:58] [CO] Result committed. [352,445]
+ INFO: [commit_task:45] Committing result for m0 = 8100
+ INFO: [commit_task:58] [CO] Result committed. [353,445]
+ INFO: [commit_task:45] Committing result for m0 = 8120
+ INFO: [commit_task:58] [CO] Result committed. [354,445]
+ INFO: [commit_task:45] Committing result for m0 = 8140
+ INFO: [commit_task:58] [CO] Result committed. [355,445]
+ INFO: [commit_task:45] Committing result for m0 = 8160
+ INFO: [commit_task:58] [CO] Result committed. [356,445]
+ INFO: [commit_task:45] Committing result for m0 = 8180
+ INFO: [commit_task:58] [CO] Result committed. [357,445]
+ INFO: [commit_task:45] Committing result for m0 = 8200
+ INFO: [commit_task:58] [CO] Result committed. [358,445]
+ INFO: [commit_task:45] Committing result for m0 = 8220
+ INFO: [commit_task:58] [CO] Result committed. [359,445]
+ INFO: [commit_task:45] Committing result for m0 = 8240
+ INFO: [commit_task:58] [CO] Result committed. [360,445]
+ INFO: [commit_task:45] Committing result for m0 = 8260
+ INFO: [commit_task:58] [CO] Result committed. [361,445]
+ INFO: [commit_task:45] Committing result for m0 = 8280
+ INFO: [commit_task:58] [CO] Result committed. [362,445]
+ INFO: [commit_task:45] Committing result for m0 = 8300
+ INFO: [commit_task:58] [CO] Result committed. [363,445]
+ INFO: [commit_task:45] Committing result for m0 = 8320
+ INFO: [commit_task:58] [CO] Result committed. [364,445]
+ INFO: [commit_task:45] Committing result for m0 = 8340
+ INFO: [commit_task:58] [CO] Result committed. [365,445]
+ INFO: [commit_task:45] Committing result for m0 = 8360
+ INFO: [commit_task:58] [CO] Result committed. [366,445]
+ INFO: [commit_task:45] Committing result for m0 = 8380
+ INFO: [commit_task:58] [CO] Result committed. [367,445]
+ INFO: [commit_task:45] Committing result for m0 = 8400
+ INFO: [commit_task:58] [CO] Result committed. [368,445]
+ INFO: [commit_task:45] Committing result for m0 = 8420
+ INFO: [commit_task:58] [CO] Result committed. [369,445]
+ INFO: [commit_task:45] Committing result for m0 = 8440
+ INFO: [commit_task:58] [CO] Result committed. [370,445]
+ INFO: [commit_task:45] Committing result for m0 = 8460
+ INFO: [commit_task:58] [CO] Result committed. [371,445]
+ INFO: [commit_task:45] Committing result for m0 = 8480
+ INFO: [commit_task:58] [CO] Result committed. [372,445]
+ INFO: [commit_task:45] Committing result for m0 = 8500
+ INFO: [commit_task:58] [CO] Result committed. [373,445]
+ INFO: [commit_task:45] Committing result for m0 = 8520
+ INFO: [commit_task:58] [CO] Result committed. [374,445]
+ INFO: [commit_task:45] Committing result for m0 = 8540
+ INFO: [commit_task:58] [CO] Result committed. [375,445]
+ INFO: [commit_task:45] Committing result for m0 = 8560
+ INFO: [commit_task:58] [CO] Result committed. [376,445]
+ INFO: [commit_task:45] Committing result for m0 = 8580
+ INFO: [commit_task:58] [CO] Result committed. [377,445]
+ INFO: [commit_task:45] Committing result for m0 = 8600
+ INFO: [commit_task:58] [CO] Result committed. [378,445]
+ INFO: [commit_task:45] Committing result for m0 = 8620
+ INFO: [commit_task:58] [CO] Result committed. [379,445]
+ INFO: [commit_task:45] Committing result for m0 = 8640
+ INFO: [commit_task:58] [CO] Result committed. [380,445]
+ INFO: [commit_task:45] Committing result for m0 = 8660
+ INFO: [commit_task:58] [CO] Result committed. [381,445]
+ INFO: [commit_task:45] Committing result for m0 = 8680
+ INFO: [commit_task:58] [CO] Result committed. [382,445]
+ INFO: [commit_task:45] Committing result for m0 = 8700
+ INFO: [commit_task:58] [CO] Result committed. [383,445]
+ INFO: [commit_task:45] Committing result for m0 = 8720
+ INFO: [commit_task:58] [CO] Result committed. [384,445]
+ INFO: [commit_task:45] Committing result for m0 = 8740
+ INFO: [commit_task:58] [CO] Result committed. [385,445]
+ INFO: [commit_task:45] Committing result for m0 = 8760
+ INFO: [commit_task:58] [CO] Result committed. [386,445]
+ INFO: [commit_task:45] Committing result for m0 = 8780
+ INFO: [commit_task:58] [CO] Result committed. [387,445]
+ INFO: [commit_task:45] Committing result for m0 = 8800
+ INFO: [commit_task:58] [CO] Result committed. [388,445]
+ INFO: [commit_task:45] Committing result for m0 = 8820
+ INFO: [commit_task:58] [CO] Result committed. [389,445]
+ INFO: [commit_task:45] Committing result for m0 = 8840
+ INFO: [commit_task:58] [CO] Result committed. [390,445]
+ INFO: [commit_task:45] Committing result for m0 = 8860
+ INFO: [commit_task:58] [CO] Result committed. [391,445]
+ INFO: [commit_task:45] Committing result for m0 = 8880
+ INFO: [commit_task:58] [CO] Result committed. [392,445]
+ INFO: [commit_task:45] Committing result for m0 = 8900
+ INFO: [commit_task:58] [CO] Result committed. [393,445]
+ INFO: [commit_task:45] Committing result for m0 = 8920
+ INFO: [commit_task:58] [CO] Result committed. [394,445]
+ INFO: [commit_task:45] Committing result for m0 = 8940
+ INFO: [commit_task:58] [CO] Result committed. [395,445]
+ INFO: [commit_task:45] Committing result for m0 = 8960
+ INFO: [commit_task:58] [CO] Result committed. [396,445]
+ INFO: [commit_task:45] Committing result for m0 = 8980
+ INFO: [commit_task:58] [CO] Result committed. [397,445]
+ INFO: [commit_task:45] Committing result for m0 = 9000
+ INFO: [commit_task:58] [CO] Result committed. [398,445]
+ INFO: [commit_task:45] Committing result for m0 = 9020
+ INFO: [commit_task:58] [CO] Result committed. [399,445]
+ INFO: [commit_task:45] Committing result for m0 = 9040
+ INFO: [commit_task:58] [CO] Result committed. [400,445]
+ INFO: [commit_task:45] Committing result for m0 = 9060
+ INFO: [commit_task:58] [CO] Result committed. [401,445]
+ INFO: [commit_task:45] Committing result for m0 = 9080
+ INFO: [commit_task:58] [CO] Result committed. [402,445]
+ INFO: [commit_task:45] Committing result for m0 = 9100
+ INFO: [commit_task:58] [CO] Result committed. [403,445]
+ INFO: [commit_task:45] Committing result for m0 = 9120
+ INFO: [commit_task:58] [CO] Result committed. [404,445]
+ INFO: [commit_task:45] Committing result for m0 = 9140
+ INFO: [commit_task:58] [CO] Result committed. [405,445]
+ INFO: [commit_task:45] Committing result for m0 = 9160
+ INFO: [commit_task:58] [CO] Result committed. [406,445]
+ INFO: [commit_task:45] Committing result for m0 = 9180
+ INFO: [commit_task:58] [CO] Result committed. [407,445]
+ INFO: [commit_task:45] Committing result for m0 = 9200
+ INFO: [commit_task:58] [CO] Result committed. [408,445]
+ INFO: [commit_task:45] Committing result for m0 = 9220
+ INFO: [commit_task:58] [CO] Result committed. [409,445]
+ INFO: [commit_task:45] Committing result for m0 = 9240
+ INFO: [commit_task:58] [CO] Result committed. [410,445]
+ INFO: [commit_task:45] Committing result for m0 = 9260
+ INFO: [commit_task:58] [CO] Result committed. [411,445]
+ INFO: [commit_task:45] Committing result for m0 = 9280
+ INFO: [commit_task:58] [CO] Result committed. [412,445]
+ INFO: [commit_task:45] Committing result for m0 = 9300
+ INFO: [commit_task:58] [CO] Result committed. [413,445]
+ INFO: [commit_task:45] Committing result for m0 = 9320
+ INFO: [commit_task:58] [CO] Result committed. [414,445]
+ INFO: [commit_task:45] Committing result for m0 = 9340
+ INFO: [commit_task:58] [CO] Result committed. [415,445]
+ INFO: [commit_task:45] Committing result for m0 = 9360
+ INFO: [commit_task:58] [CO] Result committed. [416,445]
+ INFO: [commit_task:45] Committing result for m0 = 9380
+ INFO: [commit_task:58] [CO] Result committed. [417,445]
+ INFO: [commit_task:45] Committing result for m0 = 9400
+ INFO: [commit_task:58] [CO] Result committed. [418,445]
+ INFO: [commit_task:45] Committing result for m0 = 9420
+ INFO: [commit_task:58] [CO] Result committed. [419,445]
+ INFO: [commit_task:45] Committing result for m0 = 9440
+ INFO: [commit_task:58] [CO] Result committed. [420,445]
+ INFO: [commit_task:45] Committing result for m0 = 9460
+ INFO: [commit_task:58] [CO] Result committed. [421,445]
+ INFO: [commit_task:45] Committing result for m0 = 9480
+ INFO: [commit_task:58] [CO] Result committed. [422,445]
+ INFO: [commit_task:45] Committing result for m0 = 9500
+ INFO: [commit_task:58] [CO] Result committed. [423,445]
+ INFO: [commit_task:45] Committing result for m0 = 9520
+ INFO: [commit_task:58] [CO] Result committed. [424,445]
+ INFO: [commit_task:45] Committing result for m0 = 9540
+ INFO: [commit_task:58] [CO] Result committed. [425,445]
+ INFO: [commit_task:45] Committing result for m0 = 9560
+ INFO: [commit_task:58] [CO] Result committed. [426,445]
+ INFO: [commit_task:45] Committing result for m0 = 9580
+ INFO: [commit_task:58] [CO] Result committed. [427,445]
+ INFO: [commit_task:45] Committing result for m0 = 9600
+ INFO: [commit_task:58] [CO] Result committed. [428,445]
+ INFO: [commit_task:45] Committing result for m0 = 9620
+ INFO: [commit_task:58] [CO] Result committed. [429,445]
+ INFO: [commit_task:45] Committing result for m0 = 9640
+ INFO: [commit_task:58] [CO] Result committed. [430,445]
+ INFO: [commit_task:45] Committing result for m0 = 9660
+ INFO: [commit_task:58] [CO] Result committed. [431,445]
+ INFO: [commit_task:45] Committing result for m0 = 9680
+ INFO: [commit_task:58] [CO] Result committed. [432,445]
+ INFO: [commit_task:45] Committing result for m0 = 9700
+ INFO: [commit_task:58] [CO] Result committed. [433,445]
+ INFO: [commit_task:45] Committing result for m0 = 9720
+ INFO: [commit_task:58] [CO] Result committed. [434,445]
+ INFO: [commit_task:45] Committing result for m0 = 9740
+ INFO: [commit_task:58] [CO] Result committed. [435,445]
+ INFO: [commit_task:45] Committing result for m0 = 9760
+ INFO: [commit_task:58] [CO] Result committed. [436,445]
+ INFO: [commit_task:45] Committing result for m0 = 9780
+ INFO: [commit_task:58] [CO] Result committed. [437,445]
+ INFO: [commit_task:45] Committing result for m0 = 9800
+ INFO: [commit_task:58] [CO] Result committed. [438,445]
+ INFO: [commit_task:45] Committing result for m0 = 9820
+ INFO: [commit_task:58] [CO] Result committed. [439,445]
+ INFO: [commit_task:45] Committing result for m0 = 9840
+ INFO: [commit_task:58] [CO] Result committed. [440,445]
+ INFO: [commit_task:45] Committing result for m0 = 9860
+ INFO: [commit_task:58] [CO] Result committed. [441,445]
+ INFO: [commit_task:45] Committing result for m0 = 9880
+ INFO: [commit_task:58] [CO] Result committed. [442,445]
+ INFO: [commit_task:45] Committing result for m0 = 9900
+ INFO: [commit_task:58] [CO] Result committed. [443,445]
+ INFO: [commit_task:45] Committing result for m0 = 9920
+ INFO: [commit_task:58] [CO] Result committed. [444,445]
+ INFO: [commit_task:45] Committing result for m0 = 9940
+ INFO: [commit_task:58] [CO] Result committed. [445,445]
+ INFO: [commit_job:79] Average of efficiency is 1
+ INFO: [commit_job:79] Average of interpolations_per_sec is 5.41696e+10
+ INFO: [commit_job:79] Average of selected_traces is 309.888
+ INFO: [commit_job:79] Average of total_selection_kernel_exec_time is 0.00301501
+ INFO: [commit_job:79] Average of total_kernel_exec_time is 0.277337
+ INFO: [commit_job:87] [CO] Results written to /home/ubuntu/nfs/out/g4dn.xlarge/e81d6e1/cuda_1_1/zocrs/de/cuda/simple-synthetic/simple-synthetic_de_zocrs_20201230_1741/
+ INFO: [commit_job:88] [CO] Job completed. It took 168.769s
