@@ -1,0 +1,816 @@
+ INFO: Number of CDPs = 400
+ INFO: Number of traces in the gather = 304038
+ INFO: Number of samples per trace = 751
+ INFO: Starting worker threads...
+ INFO: Computing semblance for m0 = 0
+ INFO: Total execution time for kernels is 0.000546535s
+ INFO: Computing semblance for m0 = 25
+ INFO: Computing semblance for m0 = 50
+ INFO: Total execution time for kernels is 0.0204064s
+ INFO: Computing semblance for m0 = 75
+ INFO: Total execution time for kernels is 0.020462s
+ INFO: Computing semblance for m0 = 100
+ INFO: Computing semblance for m0 = 125
+ INFO: Computing semblance for m0 = 150
+ INFO: Total execution time for kernels is 0.0204s
+ INFO: Computing semblance for m0 = 175
+ INFO: Total execution time for kernels is 0.0202679s
+ INFO: Computing semblance for m0 = 200
+ INFO: Total execution time for kernels is 0.020253s
+ INFO: Computing semblance for m0 = 225
+ INFO: Total execution time for kernels is 0.0235499s
+ INFO: Computing semblance for m0 = 250
+ INFO: Total execution time for kernels is 0.0205203s
+ INFO: Computing semblance for m0 = 275
+ INFO: Total execution time for kernels is 0.0203226s
+ INFO: Computing semblance for m0 = 300
+ INFO: Total execution time for kernels is 0.0201812s
+ INFO: Computing semblance for m0 = 325
+ INFO: Total execution time for kernels is 0.0232934s
+ INFO: Computing semblance for m0 = 350
+ INFO: Total execution time for kernels is 0.0202626s
+ INFO: Computing semblance for m0 = 375
+ INFO: Total execution time for kernels is 0.0202526s
+ INFO: Computing semblance for m0 = 400
+ INFO: Total execution time for kernels is 0.0203984s
+ INFO: Computing semblance for m0 = 425
+ INFO: Total execution time for kernels is 0.0232567s
+ INFO: Computing semblance for m0 = 450
+ INFO: Total execution time for kernels is 0.0201772s
+ INFO: Computing semblance for m0 = 475
+ INFO: Total execution time for kernels is 0.0203268s
+ INFO: Computing semblance for m0 = 500
+ INFO: Total execution time for kernels is 0.0203297s
+ INFO: Computing semblance for m0 = 525
+ INFO: Total execution time for kernels is 0.02338s
+ INFO: Computing semblance for m0 = 550
+ INFO: Total execution time for kernels is 0.0204311s
+ INFO: Computing semblance for m0 = 575
+ INFO: Total execution time for kernels is 0.0203839s
+ INFO: Computing semblance for m0 = 600
+ INFO: Total execution time for kernels is 0.0203766s
+ INFO: Computing semblance for m0 = 625
+ INFO: Total execution time for kernels is 0.0204129s
+ INFO: Computing semblance for m0 = 650
+ INFO: Total execution time for kernels is 0.0216992s
+ INFO: Computing semblance for m0 = 675
+ INFO: Total execution time for kernels is 0.020608s
+ INFO: Computing semblance for m0 = 700
+ INFO: Total execution time for kernels is 0.0204123s
+ INFO: Computing semblance for m0 = 725
+ INFO: Total execution time for kernels is 0.0201694s
+ INFO: Computing semblance for m0 = 750
+ INFO: Total execution time for kernels is 0.02161s
+ INFO: Computing semblance for m0 = 775
+ INFO: Total execution time for kernels is 0.0204853s
+ INFO: Computing semblance for m0 = 800
+ INFO: Total execution time for kernels is 0.0203711s
+ INFO: Computing semblance for m0 = 825
+ INFO: Total execution time for kernels is 0.0205241s
+ INFO: Computing semblance for m0 = 850
+ INFO: Total execution time for kernels is 0.0214153s
+ INFO: Computing semblance for m0 = 875
+ INFO: Total execution time for kernels is 0.0203772s
+ INFO: Computing semblance for m0 = 900
+ INFO: Total execution time for kernels is 0.0205702s
+ INFO: Computing semblance for m0 = 925
+ INFO: Total execution time for kernels is 0.020443s
+ INFO: Computing semblance for m0 = 950
+ INFO: Total execution time for kernels is 0.0215408s
+ INFO: Computing semblance for m0 = 975
+ INFO: Total execution time for kernels is 0.0203844s
+ INFO: Computing semblance for m0 = 1000
+ INFO: Total execution time for kernels is 0.0205147s
+ INFO: Computing semblance for m0 = 1025
+ INFO: Total execution time for kernels is 0.0203071s
+ INFO: Computing semblance for m0 = 1050
+ INFO: Total execution time for kernels is 0.02152s
+ INFO: Computing semblance for m0 = 1075
+ INFO: Total execution time for kernels is 0.0203152s
+ INFO: Computing semblance for m0 = 1100
+ INFO: Total execution time for kernels is 0.0205093s
+ INFO: Computing semblance for m0 = 1125
+ INFO: Total execution time for kernels is 0.0203602s
+ INFO: Computing semblance for m0 = 1150
+ INFO: Total execution time for kernels is 0.0211621s
+ INFO: Computing semblance for m0 = 1175
+ INFO: Total execution time for kernels is 0.0202933s
+ INFO: Computing semblance for m0 = 1200
+ INFO: Total execution time for kernels is 0.0204054s
+ INFO: Computing semblance for m0 = 1225
+ INFO: Total execution time for kernels is 0.0203901s
+ INFO: Computing semblance for m0 = 1250
+ INFO: Total execution time for kernels is 0.0203639s
+ INFO: Computing semblance for m0 = 1275
+ INFO: Total execution time for kernels is 0.020363s
+ INFO: Computing semblance for m0 = 1300
+ INFO: Total execution time for kernels is 0.0204027s
+ INFO: Computing semblance for m0 = 1325
+ INFO: Total execution time for kernels is 0.0203559s
+ INFO: Computing semblance for m0 = 1350
+ INFO: Total execution time for kernels is 0.0204277s
+ INFO: Computing semblance for m0 = 1375
+ INFO: Total execution time for kernels is 0.0204339s
+ INFO: Computing semblance for m0 = 1400
+ INFO: Total execution time for kernels is 0.0202362s
+ INFO: Computing semblance for m0 = 1425
+ INFO: Total execution time for kernels is 0.0203048s
+ INFO: Computing semblance for m0 = 1450
+ INFO: Total execution time for kernels is 0.0203537s
+ INFO: Computing semblance for m0 = 1475
+ INFO: Total execution time for kernels is 0.0202766s
+ INFO: Computing semblance for m0 = 1500
+ INFO: Total execution time for kernels is 0.0204257s
+ INFO: Computing semblance for m0 = 1525
+ INFO: Total execution time for kernels is 0.0205644s
+ INFO: Computing semblance for m0 = 1550
+ INFO: Total execution time for kernels is 0.020666s
+ INFO: Computing semblance for m0 = 1575
+ INFO: Total execution time for kernels is 0.0203777s
+ INFO: Computing semblance for m0 = 1600
+ INFO: Total execution time for kernels is 0.020563s
+ INFO: Computing semblance for m0 = 1625
+ INFO: Total execution time for kernels is 0.0205221s
+ INFO: Computing semblance for m0 = 1650
+ INFO: Total execution time for kernels is 0.0205128s
+ INFO: Computing semblance for m0 = 1675
+ INFO: Total execution time for kernels is 0.0201943s
+ INFO: Computing semblance for m0 = 1700
+ INFO: Total execution time for kernels is 0.0205285s
+ INFO: Computing semblance for m0 = 1725
+ INFO: Total execution time for kernels is 0.0204022s
+ INFO: Computing semblance for m0 = 1750
+ INFO: Total execution time for kernels is 0.0205549s
+ INFO: Computing semblance for m0 = 1775
+ INFO: Total execution time for kernels is 0.0203719s
+ INFO: Computing semblance for m0 = 1800
+ INFO: Total execution time for kernels is 0.0205902s
+ INFO: Computing semblance for m0 = 1825
+ INFO: Total execution time for kernels is 0.0206349s
+ INFO: Computing semblance for m0 = 1850
+ INFO: Total execution time for kernels is 0.0204353s
+ INFO: Computing semblance for m0 = 1875
+ INFO: Total execution time for kernels is 0.0204489s
+ INFO: Computing semblance for m0 = 1900
+ INFO: Total execution time for kernels is 0.0205179s
+ INFO: Computing semblance for m0 = 1925
+ INFO: Total execution time for kernels is 0.0203215s
+ INFO: Computing semblance for m0 = 1950
+ INFO: Total execution time for kernels is 0.0206386s
+ INFO: Computing semblance for m0 = 1975
+ INFO: Total execution time for kernels is 0.0205108s
+ INFO: Computing semblance for m0 = 2000
+ INFO: Total execution time for kernels is 0.0205145s
+ INFO: Computing semblance for m0 = 2025
+ INFO: Total execution time for kernels is 0.0203338s
+ INFO: Computing semblance for m0 = 2050
+ INFO: Total execution time for kernels is 0.0205883s
+ INFO: Computing semblance for m0 = 2075
+ INFO: Total execution time for kernels is 0.0204034s
+ INFO: Computing semblance for m0 = 2100
+ INFO: Total execution time for kernels is 0.0205917s
+ INFO: Computing semblance for m0 = 2125
+ INFO: Total execution time for kernels is 0.0205941s
+ INFO: Computing semblance for m0 = 2150
+ INFO: Total execution time for kernels is 0.0204883s
+ INFO: Computing semblance for m0 = 2175
+ INFO: Total execution time for kernels is 0.0204344s
+ INFO: Computing semblance for m0 = 2200
+ INFO: Total execution time for kernels is 0.0206468s
+ INFO: Computing semblance for m0 = 2225
+ INFO: Total execution time for kernels is 0.0205298s
+ INFO: Computing semblance for m0 = 2250
+ INFO: Total execution time for kernels is 0.0205644s
+ INFO: Computing semblance for m0 = 2275
+ INFO: Total execution time for kernels is 0.0205848s
+ INFO: Computing semblance for m0 = 2300
+ INFO: Total execution time for kernels is 0.0205144s
+ INFO: Computing semblance for m0 = 2325
+ INFO: Total execution time for kernels is 0.0204723s
+ INFO: Computing semblance for m0 = 2350
+ INFO: Total execution time for kernels is 0.0204796s
+ INFO: Computing semblance for m0 = 2375
+ INFO: Total execution time for kernels is 0.0205669s
+ INFO: Computing semblance for m0 = 2400
+ INFO: Total execution time for kernels is 0.020463s
+ INFO: Computing semblance for m0 = 2425
+ INFO: Total execution time for kernels is 0.0203321s
+ INFO: Computing semblance for m0 = 2450
+ INFO: Total execution time for kernels is 0.0206103s
+ INFO: Computing semblance for m0 = 2475
+ INFO: Total execution time for kernels is 0.0205621s
+ INFO: Computing semblance for m0 = 2500
+ INFO: Total execution time for kernels is 0.0205119s
+ INFO: Computing semblance for m0 = 2525
+ INFO: Total execution time for kernels is 0.020562s
+ INFO: Computing semblance for m0 = 2550
+ INFO: Total execution time for kernels is 0.020484s
+ INFO: Computing semblance for m0 = 2575
+ INFO: Total execution time for kernels is 0.020492s
+ INFO: Computing semblance for m0 = 2600
+ INFO: Total execution time for kernels is 0.020161s
+ INFO: Computing semblance for m0 = 2625
+ INFO: Total execution time for kernels is 0.0205016s
+ INFO: Computing semblance for m0 = 2650
+ INFO: Total execution time for kernels is 0.0202434s
+ INFO: Computing semblance for m0 = 2675
+ INFO: Total execution time for kernels is 0.020592s
+ INFO: Computing semblance for m0 = 2700
+ INFO: Total execution time for kernels is 0.0205083s
+ INFO: Computing semblance for m0 = 2725
+ INFO: Total execution time for kernels is 0.0207786s
+ INFO: Computing semblance for m0 = 2750
+ INFO: Total execution time for kernels is 0.0202817s
+ INFO: Computing semblance for m0 = 2775
+ INFO: Total execution time for kernels is 0.0206138s
+ INFO: Computing semblance for m0 = 2800
+ INFO: Total execution time for kernels is 0.020592s
+ INFO: Computing semblance for m0 = 2825
+ INFO: Total execution time for kernels is 0.0204754s
+ INFO: Computing semblance for m0 = 2850
+ INFO: Total execution time for kernels is 0.0205518s
+ INFO: Computing semblance for m0 = 2875
+ INFO: Total execution time for kernels is 0.0205655s
+ INFO: Computing semblance for m0 = 2900
+ INFO: Total execution time for kernels is 0.0205938s
+ INFO: Computing semblance for m0 = 2925
+ INFO: Total execution time for kernels is 0.0204946s
+ INFO: Total execution time for kernels is 0.0205519s INFO: 
+Computing semblance for m0 = 2950
+ INFO: Computing semblance for m0 = 2975
+ INFO: Total execution time for kernels is 0.0206102s
+ INFO: Computing semblance for m0 = 3000
+ INFO: Total execution time for kernels is 0.0204064s
+ INFO: Computing semblance for m0 = 3025
+ INFO: Total execution time for kernels is 0.0204584s
+ INFO: Computing semblance for m0 = 3050
+ INFO: Total execution time for kernels is 0.0205775s
+ INFO: Computing semblance for m0 = 3075
+ INFO: Total execution time for kernels is 0.0206295s
+ INFO: Computing semblance for m0 = 3100
+ INFO: Total execution time for kernels is 0.0207938s
+ INFO: Computing semblance for m0 = 3125
+ INFO: Total execution time for kernels is 0.0205758s
+ INFO: Computing semblance for m0 = 3150
+ INFO: Total execution time for kernels is 0.020586s
+ INFO: Computing semblance for m0 = 3175
+ INFO: Total execution time for kernels is 0.0206573s
+ INFO: Computing semblance for m0 = 3200
+ INFO: Total execution time for kernels is 0.0207005s
+ INFO: Computing semblance for m0 = 3225
+ INFO: Total execution time for kernels is 0.02067s
+ INFO: Computing semblance for m0 = 3250
+ INFO: Total execution time for kernels is 0.0206181s
+ INFO: Computing semblance for m0 = 3275
+ INFO: Total execution time for kernels is 0.020564s
+ INFO: Computing semblance for m0 = 3300
+ INFO: Total execution time for kernels is 0.0205064s
+ INFO: Computing semblance for m0 = 3325
+ INFO: Total execution time for kernels is 0.0207521s
+ INFO: Computing semblance for m0 = 3350
+ INFO: Total execution time for kernels is 0.0207564s
+ INFO: Computing semblance for m0 = 3375
+ INFO: Total execution time for kernels is 0.0205362s
+ INFO: Computing semblance for m0 = 3400
+ INFO: Total execution time for kernels is 0.0205542s
+ INFO: Computing semblance for m0 = 3425
+ INFO: Total execution time for kernels is 0.0207648s
+ INFO: Computing semblance for m0 = 3450
+ INFO: Total execution time for kernels is 0.0208504s
+ INFO: Computing semblance for m0 = 3475
+ INFO: Total execution time for kernels is 0.0207524s
+ INFO: Computing semblance for m0 = 3500
+ INFO: Total execution time for kernels is 0.0207466s
+ INFO: Computing semblance for m0 = 3525
+ INFO: Total execution time for kernels is 0.0206353s
+ INFO: Computing semblance for m0 = 3550
+ INFO: Total execution time for kernels is 0.0205155s
+ INFO: Computing semblance for m0 = 3575
+ INFO: Total execution time for kernels is 0.0207315s
+ INFO: Computing semblance for m0 = 3600
+ INFO: Total execution time for kernels is 0.020671s
+ INFO: Computing semblance for m0 = 3625
+ INFO: Total execution time for kernels is 0.0207725s
+ INFO: Computing semblance for m0 = 3650
+ INFO: Total execution time for kernels is 0.0208188s
+ INFO: Computing semblance for m0 = 3675
+ INFO: Total execution time for kernels is 0.0206564s
+ INFO: Computing semblance for m0 = 3700
+ INFO: Total execution time for kernels is 0.0207515s
+ INFO: Computing semblance for m0 = 3725
+ INFO: Total execution time for kernels is 0.0207583s
+ INFO: Total execution time for kernels is 0.020769s
+ INFO: Computing semblance for m0 = 3750
+ INFO: Computing semblance for m0 = 3775
+ INFO: Total execution time for kernels is 0.0207519s
+ INFO: Computing semblance for m0 = 3800
+ INFO: Total execution time for kernels is 0.0209949s
+ INFO: Computing semblance for m0 = 3825
+ INFO: Total execution time for kernels is 0.0206265s
+ INFO: Computing semblance for m0 = 3850
+ INFO: Total execution time for kernels is 0.0206249s
+ INFO: Computing semblance for m0 = 3875
+ INFO: Total execution time for kernels is 0.020765s
+ INFO: Computing semblance for m0 = 3900
+ INFO: Total execution time for kernels is 0.0207685s
+ INFO: Computing semblance for m0 = 3925
+ INFO: Total execution time for kernels is 0.0208196s
+ INFO: Computing semblance for m0 = 3950
+ INFO: Total execution time for kernels is 0.0207813s
+ INFO: Computing semblance for m0 = 3975
+ INFO: Total execution time for kernels is 0.0208093s
+ INFO: Computing semblance for m0 = 4000
+ INFO: Total execution time for kernels is 0.0209024s
+ INFO: Computing semblance for m0 = 4025
+ INFO: Total execution time for kernels is 0.0208253s
+ INFO: Computing semblance for m0 = 4050
+ INFO: Total execution time for kernels is 0.0206757s
+ INFO: Computing semblance for m0 = 4075
+ INFO: Total execution time for kernels is 0.0208422s
+ INFO: Computing semblance for m0 = 4100
+ INFO: Total execution time for kernels is 0.0207671s
+ INFO: Computing semblance for m0 = 4125
+ INFO: Total execution time for kernels is 0.0208305s
+ INFO: Computing semblance for m0 = 4150
+ INFO: Total execution time for kernels is 0.0208025s
+ INFO: Computing semblance for m0 = 4175
+ INFO: Total execution time for kernels is 0.0209621s
+ INFO: Computing semblance for m0 = 4200
+ INFO: Total execution time for kernels is 0.0208155s
+ INFO: Computing semblance for m0 = 4225
+ INFO: Total execution time for kernels is 0.0208732s
+ INFO: Total execution time for kernels is 0.0207443s
+ INFO: Computing semblance for m0 = 4275
+ INFO: Computing semblance for m0 = 4250
+ INFO: Total execution time for kernels is 0.0207037s
+ INFO: Computing semblance for m0 = 4300
+ INFO: Total execution time for kernels is 0.0206555s
+ INFO: Computing semblance for m0 = 4325
+ INFO: Total execution time for kernels is 0.0208038s
+ INFO: Computing semblance for m0 = 4350
+ INFO: Total execution time for kernels is 0.0208888s
+ INFO: Computing semblance for m0 = 4375
+ INFO: Total execution time for kernels is 0.0207996s
+ INFO: Computing semblance for m0 = 4400
+ INFO: Total execution time for kernels is 0.0209163s
+ INFO: Computing semblance for m0 = 4425
+ INFO: Total execution time for kernels is 0.02083s
+ INFO: Computing semblance for m0 = 4450
+ INFO: Total execution time for kernels is 0.0209527s
+ INFO: Computing semblance for m0 = 4475
+ INFO: Total execution time for kernels is 0.0208957s
+ INFO: Computing semblance for m0 = 4500
+ INFO: Total execution time for kernels is 0.020787s
+ INFO: Computing semblance for m0 = 4525
+ INFO: Total execution time for kernels is 0.0209039s
+ INFO: Computing semblance for m0 = 4550
+ INFO: Total execution time for kernels is 0.0209455s
+ INFO: Computing semblance for m0 = 4575
+ INFO: Total execution time for kernels is 0.0208722s
+ INFO: Computing semblance for m0 = 4600
+ INFO: Total execution time for kernels is 0.0210035s
+ INFO: Computing semblance for m0 = 4625
+ INFO: Total execution time for kernels is 0.0210503s
+ INFO: Computing semblance for m0 = 4650
+ INFO: Total execution time for kernels is 0.0212149s
+ INFO: Computing semblance for m0 = 4675
+ INFO: Total execution time for kernels is 0.0211604s
+ INFO: Computing semblance for m0 = 4700
+ INFO: Total execution time for kernels is 0.0209471s
+ INFO: Computing semblance for m0 = 4725
+ INFO: Total execution time for kernels is 0.0210981s
+ INFO: Computing semblance for m0 = 4750
+ INFO: Total execution time for kernels is 0.0209762s
+ INFO: Computing semblance for m0 = 4775
+ INFO: Total execution time for kernels is 0.0210057s
+ INFO: Computing semblance for m0 = 4800
+ INFO: Total execution time for kernels is 0.0208234s
+ INFO: Computing semblance for m0 = 4825
+ INFO: Total execution time for kernels is 0.0211144s
+ INFO: Computing semblance for m0 = 4850
+ INFO: Total execution time for kernels is 0.0209986s
+ INFO: Computing semblance for m0 = 4875
+ INFO: Total execution time for kernels is 0.0210442s
+ INFO: Computing semblance for m0 = 4900
+ INFO: Total execution time for kernels is 0.0210843s
+ INFO: Computing semblance for m0 = 4925
+ INFO: Total execution time for kernels is 0.0210479s
+ INFO: Computing semblance for m0 = 4950
+ INFO: Total execution time for kernels is 0.0210228s
+ INFO: Computing semblance for m0 = 4975
+ INFO: Total execution time for kernels is 0.0211893s
+ INFO: Computing semblance for m0 = 5000
+ INFO: Total execution time for kernels is 0.0211731s
+ INFO: Computing semblance for m0 = 5025
+ INFO: Total execution time for kernels is 0.0208988s
+ INFO: Computing semblance for m0 = 5050
+ INFO: Total execution time for kernels is 0.0207019s
+ INFO: Computing semblance for m0 = 5075
+ INFO: Total execution time for kernels is 0.0208149s
+ INFO: Computing semblance for m0 = 5100
+ INFO: Total execution time for kernels is 0.020644s
+ INFO: Computing semblance for m0 = 5125
+ INFO: Total execution time for kernels is 0.0204588s
+ INFO: Computing semblance for m0 = 5150
+ INFO: Total execution time for kernels is 0.0205851s
+ INFO: Computing semblance for m0 = 5175
+ INFO: Total execution time for kernels is 0.0205028s
+ INFO: Computing semblance for m0 = 5200
+ INFO: Total execution time for kernels is 0.0205482s
+ INFO: Computing semblance for m0 = 5225
+ INFO: Total execution time for kernels is 0.0205348s
+ INFO: Computing semblance for m0 = 5250
+ INFO: Total execution time for kernels is 0.0206939s
+ INFO: Computing semblance for m0 = 5275
+ INFO: Total execution time for kernels is 0.0206138s
+ INFO: Computing semblance for m0 = 5300
+ INFO: Total execution time for kernels is 0.0208168s
+ INFO: Computing semblance for m0 = 5325
+ INFO: Total execution time for kernels is 0.0205464s
+ INFO: Computing semblance for m0 = 5350
+ INFO: Total execution time for kernels is 0.0204281s
+ INFO: Computing semblance for m0 = 5375
+ INFO: Total execution time for kernels is 0.0205346s
+ INFO: Computing semblance for m0 = 5400
+ INFO: Total execution time for kernels is 0.0205244s
+ INFO: Computing semblance for m0 = 5425
+ INFO: Total execution time for kernels is 0.0207025s
+ INFO: Computing semblance for m0 = 5450
+ INFO: Total execution time for kernels is 0.0206354s
+ INFO: Computing semblance for m0 = 5475
+ INFO: Total execution time for kernels is 0.0206381s
+ INFO: Computing semblance for m0 = 5500
+ INFO: Total execution time for kernels is 0.020566s
+ INFO: Computing semblance for m0 = 5525
+ INFO: Total execution time for kernels is 0.0207322s
+ INFO: Computing semblance for m0 = 5550
+ INFO: Total execution time for kernels is 0.0210108s
+ INFO: Computing semblance for m0 = 5575
+ INFO: Total execution time for kernels is 0.0206549s
+ INFO: Computing semblance for m0 = 5600
+ INFO: Total execution time for kernels is 0.0204201s
+ INFO: Computing semblance for m0 = 5625
+ INFO: Total execution time for kernels is 0.0209272s
+ INFO: Computing semblance for m0 = 5650
+ INFO: Total execution time for kernels is 0.0208096s
+ INFO: Computing semblance for m0 = 5675
+ INFO: Total execution time for kernels is 0.0208637s
+ INFO: Computing semblance for m0 = 5700
+ INFO: Total execution time for kernels is 0.020875s
+ INFO: Computing semblance for m0 = 5725
+ INFO: Total execution time for kernels is 0.0204973s
+ INFO: Computing semblance for m0 = 5750
+ INFO: Total execution time for kernels is 0.0207981s
+ INFO: Computing semblance for m0 = 5775
+ INFO: Total execution time for kernels is 0.0206954s
+ INFO: Computing semblance for m0 = 5800
+ INFO: Total execution time for kernels is 0.0208339s
+ INFO: Computing semblance for m0 = 5825
+ INFO: Total execution time for kernels is 0.0207285s
+ INFO: Computing semblance for m0 = 5850
+ INFO: Total execution time for kernels is 0.020942s
+ INFO: Computing semblance for m0 = 5875
+ INFO: Total execution time for kernels is 0.0211364s
+ INFO: Computing semblance for m0 = 5900
+ INFO: Total execution time for kernels is 0.0207963s
+ INFO: Computing semblance for m0 = 5925
+ INFO: Total execution time for kernels is 0.0210885s
+ INFO: Computing semblance for m0 = 5950
+ INFO: Total execution time for kernels is 0.0206219s
+ INFO: Computing semblance for m0 = 5975
+ INFO: Total execution time for kernels is 0.0209618s
+ INFO: Computing semblance for m0 = 6000
+ INFO: Total execution time for kernels is 0.0208287s
+ INFO: Computing semblance for m0 = 6025
+ INFO: Total execution time for kernels is 0.020805s
+ INFO: Computing semblance for m0 = 6050
+ INFO: Total execution time for kernels is 0.0208599s
+ INFO: Computing semblance for m0 = 6075
+ INFO: Total execution time for kernels is 0.0207796s
+ INFO: Computing semblance for m0 = 6100
+ INFO: Total execution time for kernels is 0.0208214s
+ INFO: Computing semblance for m0 = 6125
+ INFO: Total execution time for kernels is 0.0208945s
+ INFO: Computing semblance for m0 = 6150
+ INFO: Total execution time for kernels is 0.0208448s
+ INFO: Computing semblance for m0 = 6175
+ INFO: Total execution time for kernels is 0.020753s
+ INFO: Computing semblance for m0 = 6200
+ INFO: Total execution time for kernels is 0.0207367s
+ INFO: Computing semblance for m0 = 6225
+ INFO: Total execution time for kernels is 0.0207439s
+ INFO: Computing semblance for m0 = 6250
+ INFO: Total execution time for kernels is 0.0209016s
+ INFO: Computing semblance for m0 = 6275
+ INFO: Total execution time for kernels is 0.0206953s
+ INFO: Computing semblance for m0 = 6300
+ INFO: Total execution time for kernels is 0.0209359s
+ INFO: Computing semblance for m0 = 6325
+ INFO: Total execution time for kernels is 0.0209696s
+ INFO: Computing semblance for m0 = 6350
+ INFO: Total execution time for kernels is 0.0208853s
+ INFO: Computing semblance for m0 = 6375
+ INFO: Total execution time for kernels is 0.0209085s
+ INFO: Computing semblance for m0 = 6400
+ INFO: Total execution time for kernels is 0.0207997s
+ INFO: Computing semblance for m0 = 6425
+ INFO: Total execution time for kernels is 0.0208269s
+ INFO: Computing semblance for m0 = 6450
+ INFO: Total execution time for kernels is 0.0209607s
+ INFO: Computing semblance for m0 = 6475
+ INFO: Total execution time for kernels is 0.021045s
+ INFO: Computing semblance for m0 = 6500
+ INFO: Total execution time for kernels is 0.0211602s
+ INFO: Computing semblance for m0 = 6525
+ INFO: Total execution time for kernels is 0.0209132s
+ INFO: Computing semblance for m0 = 6550
+ INFO: Total execution time for kernels is 0.0210062s
+ INFO: Computing semblance for m0 = 6575
+ INFO: Total execution time for kernels is 0.0210137s
+ INFO: Computing semblance for m0 = 6600
+ INFO: Total execution time for kernels is 0.0210168s
+ INFO: Computing semblance for m0 = 6625
+ INFO: Total execution time for kernels is 0.0210369s
+ INFO: Computing semblance for m0 = 6650
+ INFO: Total execution time for kernels is 0.0210029s
+ INFO: Computing semblance for m0 = 6675
+ INFO: Total execution time for kernels is 0.0211926s
+ INFO: Computing semblance for m0 = 6700
+ INFO: Total execution time for kernels is 0.0210841s
+ INFO: Computing semblance for m0 = 6725
+ INFO: Total execution time for kernels is 0.0208024s
+ INFO: Computing semblance for m0 = 6750
+ INFO: Total execution time for kernels is 0.0210681s
+ INFO: Computing semblance for m0 = 6775
+ INFO: Total execution time for kernels is 0.0209263s
+ INFO: Computing semblance for m0 = 6800
+ INFO: Total execution time for kernels is 0.021019s
+ INFO: Computing semblance for m0 = 6825
+ INFO: Total execution time for kernels is 0.0209945s
+ INFO: Computing semblance for m0 = 6850
+ INFO: Total execution time for kernels is 0.0209419s
+ INFO: Computing semblance for m0 = 6875
+ INFO: Total execution time for kernels is 0.020964s
+ INFO: Computing semblance for m0 = 6900
+ INFO: Total execution time for kernels is 0.0208388s
+ INFO: Computing semblance for m0 = 6925
+ INFO: Total execution time for kernels is 0.0205876s
+ INFO: Computing semblance for m0 = 6950
+ INFO: Total execution time for kernels is 0.020403s
+ INFO: Computing semblance for m0 = 6975
+ INFO: Total execution time for kernels is 0.0203751s
+ INFO: Computing semblance for m0 = 7000
+ INFO: Total execution time for kernels is 0.0202576s
+ INFO: Computing semblance for m0 = 7025
+ INFO: Total execution time for kernels is 0.0203426s
+ INFO: Total execution time for kernels is 0.0203693s
+ INFO: Computing semblance for m0 = 7050
+ INFO: Computing semblance for m0 = 7075
+ INFO: Total execution time for kernels is 0.0203085s
+ INFO: Computing semblance for m0 = 7100
+ INFO: Total execution time for kernels is 0.0204126s
+ INFO: Computing semblance for m0 = 7125
+ INFO: Total execution time for kernels is 0.0203575s
+ INFO: Computing semblance for m0 = 7150
+ INFO: Total execution time for kernels is 0.0203492s
+ INFO: Computing semblance for m0 = 7175
+ INFO: Total execution time for kernels is 0.0202157s
+ INFO: Computing semblance for m0 = 7200
+ INFO: Total execution time for kernels is 0.0203288s
+ INFO: Computing semblance for m0 = 7225
+ INFO: Total execution time for kernels is 0.0202224s
+ INFO: Computing semblance for m0 = 7250
+ INFO: Total execution time for kernels is 0.0202031s
+ INFO: Computing semblance for m0 = 7275
+ INFO: Total execution time for kernels is 0.0203164s
+ INFO: Computing semblance for m0 = 7300
+ INFO: Total execution time for kernels is 0.0202714s
+ INFO: Computing semblance for m0 = 7325
+ INFO: Total execution time for kernels is 0.0202202s
+ INFO: Computing semblance for m0 = 7350
+ INFO: Total execution time for kernels is 0.0205775s
+ INFO: Computing semblance for m0 = 7375
+ INFO: Total execution time for kernels is 0.0202492s
+ INFO: Computing semblance for m0 = 7400
+ INFO: Total execution time for kernels is 0.0202809s
+ INFO: Computing semblance for m0 = 7425
+ INFO: Total execution time for kernels is 0.0201433s
+ INFO: Computing semblance for m0 = 7450
+ INFO: Total execution time for kernels is 0.020237s
+ INFO: Computing semblance for m0 = 7475
+ INFO: Total execution time for kernels is 0.0202614s
+ INFO: Computing semblance for m0 = 7500
+ INFO: Total execution time for kernels is 0.0204289s
+ INFO: Computing semblance for m0 = 7525
+ INFO: Total execution time for kernels is 0.020276s
+ INFO: Computing semblance for m0 = 7550
+ INFO: Total execution time for kernels is 0.0202105s
+ INFO: Computing semblance for m0 = 7575
+ INFO: Total execution time for kernels is 0.0203971s
+ INFO: Computing semblance for m0 = 7600
+ INFO: Total execution time for kernels is 0.0204114s
+ INFO: Computing semblance for m0 = 7625
+ INFO: Total execution time for kernels is 0.0203537s
+ INFO: Computing semblance for m0 = 7650
+ INFO: Total execution time for kernels is 0.0202351s
+ INFO: Computing semblance for m0 = 7675
+ INFO: Total execution time for kernels is 0.0202635s
+ INFO: Computing semblance for m0 = 7700
+ INFO: Total execution time for kernels is 0.0204061s
+ INFO: Computing semblance for m0 = 7725
+ INFO: Total execution time for kernels is 0.0202902s
+ INFO: Computing semblance for m0 = 7750
+ INFO: Total execution time for kernels is 0.020561s
+ INFO: Computing semblance for m0 = 7775
+ INFO: Total execution time for kernels is 0.0203001s
+ INFO: Computing semblance for m0 = 7800
+ INFO: Total execution time for kernels is 0.0203972s
+ INFO: Computing semblance for m0 = 7825
+ INFO: Total execution time for kernels is 0.020129s
+ INFO: Computing semblance for m0 = 7850
+ INFO: Total execution time for kernels is 0.0203164s
+ INFO: Computing semblance for m0 = 7875
+ INFO: Total execution time for kernels is 0.0202987s
+ INFO: Computing semblance for m0 = 7900
+ INFO: Total execution time for kernels is 0.020203s
+ INFO: Computing semblance for m0 = 7925
+ INFO: Total execution time for kernels is 0.0202196s
+ INFO: Computing semblance for m0 = 7950
+ INFO: Total execution time for kernels is 0.0205426s
+ INFO: Computing semblance for m0 = 7975
+ INFO: Total execution time for kernels is 0.0203105s
+ INFO: Computing semblance for m0 = 8000
+ INFO: Total execution time for kernels is 0.0203086s
+ INFO: Computing semblance for m0 = 8025
+ INFO: Total execution time for kernels is 0.020349s
+ INFO: Computing semblance for m0 = 8050
+ INFO: Total execution time for kernels is 0.0204988s
+ INFO: Computing semblance for m0 = 8075
+ INFO: Total execution time for kernels is 0.020392s
+ INFO: Computing semblance for m0 = 8100
+ INFO: Total execution time for kernels is 0.020438s
+ INFO: Computing semblance for m0 = 8125
+ INFO: Total execution time for kernels is 0.0201726s
+ INFO: Computing semblance for m0 = 8150
+ INFO: Total execution time for kernels is 0.0202555s
+ INFO: Computing semblance for m0 = 8175
+ INFO: Total execution time for kernels is 0.0201565s
+ INFO: Computing semblance for m0 = 8200
+ INFO: Total execution time for kernels is 0.0203064s
+ INFO: Computing semblance for m0 = 8225
+ INFO: Total execution time for kernels is 0.0201227s
+ INFO: Computing semblance for m0 = 8250
+ INFO: Total execution time for kernels is 0.0204848s
+ INFO: Computing semblance for m0 = 8275
+ INFO: Total execution time for kernels is 0.0202129s
+ INFO: Computing semblance for m0 = 8300
+ INFO: Total execution time for kernels is 0.0202462s
+ INFO: Computing semblance for m0 = 8325
+ INFO: Total execution time for kernels is 0.020309s
+ INFO: Total execution time for kernels is 0.0203741s
+ INFO: Computing semblance for m0 = 8350
+ INFO: Computing semblance for m0 = 8375
+ INFO: Total execution time for kernels is 0.0202031s
+ INFO: Computing semblance for m0 = 8400
+ INFO: Total execution time for kernels is 0.0203037s
+ INFO: Computing semblance for m0 = 8425
+ INFO: Total execution time for kernels is 0.0201777s
+ INFO: Computing semblance for m0 = 8450
+ INFO: Total execution time for kernels is 0.0202822s
+ INFO: Computing semblance for m0 = 8475
+ INFO: Total execution time for kernels is 0.0201685s
+ INFO: Computing semblance for m0 = 8500
+ INFO: Total execution time for kernels is 0.0204589s
+ INFO: Computing semblance for m0 = 8525
+ INFO: Total execution time for kernels is 0.0202581s
+ INFO:  INFO: Computing semblance for m0 = 8550
+Total execution time for kernels is 0.020443s
+ INFO: Computing semblance for m0 = 8575
+ INFO: Total execution time for kernels is 0.020193s
+ INFO: Computing semblance for m0 = 8600
+ INFO: Total execution time for kernels is 0.0203527s
+ INFO: Computing semblance for m0 = 8625
+ INFO: Total execution time for kernels is 0.020265s
+ INFO: Computing semblance for m0 = 8650
+ INFO: Total execution time for kernels is 0.0205552s
+ INFO: Computing semblance for m0 = 8675
+ INFO: Total execution time for kernels is 0.0204891s
+ INFO: Computing semblance for m0 = 8700
+ INFO: Total execution time for kernels is 0.0201722s
+ INFO: Computing semblance for m0 = 8725
+ INFO: Total execution time for kernels is 0.0204658s
+ INFO: Computing semblance for m0 = 8750
+ INFO: Total execution time for kernels is 0.0205454s
+ INFO: Computing semblance for m0 = 8775
+ INFO: Total execution time for kernels is 0.0203722s
+ INFO: Computing semblance for m0 = 8800
+ INFO: Total execution time for kernels is 0.020414s
+ INFO: Computing semblance for m0 = 8825
+ INFO: Total execution time for kernels is 0.0204506s
+ INFO: Computing semblance for m0 = 8850
+ INFO: Total execution time for kernels is 0.0205334s
+ INFO: Computing semblance for m0 = 8875
+ INFO: Total execution time for kernels is 0.0202003s
+ INFO: Computing semblance for m0 = 8900
+ INFO: Total execution time for kernels is 0.020521s
+ INFO: Computing semblance for m0 = 8925
+ INFO: Total execution time for kernels is 0.0201741s
+ INFO: Computing semblance for m0 = 8950
+ INFO: Total execution time for kernels is 0.0201699s
+ INFO: Computing semblance for m0 = 8975
+ INFO: Total execution time for kernels is 0.0203688s
+ INFO: Computing semblance for m0 = 9000
+ INFO: Total execution time for kernels is 0.0202413s
+ INFO: Computing semblance for m0 = 9025
+ INFO: Total execution time for kernels is 0.0203493s
+ INFO: Computing semblance for m0 = 9050
+ INFO: Total execution time for kernels is 0.0203464s
+ INFO: Computing semblance for m0 = 9075
+ INFO: Total execution time for kernels is 0.020445s
+ INFO: Computing semblance for m0 = 9100
+ INFO: Total execution time for kernels is 0.0202353s
+ INFO: Computing semblance for m0 = 9125
+ INFO: Total execution time for kernels is 0.0202187s
+ INFO: Computing semblance for m0 = 9150
+ INFO: Total execution time for kernels is 0.02034s
+ INFO: Computing semblance for m0 = 9175
+ INFO: Total execution time for kernels is 0.0202006s
+ INFO: Computing semblance for m0 = 9200
+ INFO: Total execution time for kernels is 0.0203374s
+ INFO: Computing semblance for m0 = 9225
+ INFO: Total execution time for kernels is 0.0202548s
+ INFO: Computing semblance for m0 = 9250
+ INFO: Total execution time for kernels is 0.0201726s
+ INFO: Computing semblance for m0 = 9275
+ INFO: Total execution time for kernels is 0.0201284s
+ INFO: Computing semblance for m0 = 9300
+ INFO: Total execution time for kernels is 0.0202108s
+ INFO: Computing semblance for m0 = 9325
+ INFO: Total execution time for kernels is 0.0203422s
+ INFO: Computing semblance for m0 = 9350
+ INFO: Total execution time for kernels is 0.0202993s
+ INFO: Computing semblance for m0 = 9375
+ INFO: Total execution time for kernels is 0.0202555s
+ INFO: Computing semblance for m0 = 9400
+ INFO: Total execution time for kernels is 0.020245s
+ INFO: Computing semblance for m0 = 9425
+ INFO: Total execution time for kernels is 0.0203375s
+ INFO: Computing semblance for m0 = 9450
+ INFO: Total execution time for kernels is 0.0202989s
+ INFO: Computing semblance for m0 = 9475
+ INFO: Total execution time for kernels is 0.0203071s
+ INFO: Computing semblance for m0 = 9500
+ INFO: Total execution time for kernels is 0.0204749s
+ INFO: Computing semblance for m0 = 9525
+ INFO: Total execution time for kernels is 0.0203189s
+ INFO: Total execution time for kernels is 0.0203081s
+ INFO: Computing semblance for m0 = 9550
+ INFO: Computing semblance for m0 = 9575
+ INFO: Total execution time for kernels is 0.0203552s
+ INFO: Computing semblance for m0 = 9600
+ INFO: Total execution time for kernels is 0.0202773s
+ INFO: Computing semblance for m0 = 9625
+ INFO: Total execution time for kernels is 0.0202501s
+ INFO: Computing semblance for m0 = 9650
+ INFO: Total execution time for kernels is 0.0204935s
+ INFO: Computing semblance for m0 = 9675
+ INFO: Total execution time for kernels is 0.0204583s
+ INFO: Computing semblance for m0 = 9700
+ INFO: Total execution time for kernels is 0.0203562s
+ INFO: Computing semblance for m0 = 9725
+ INFO: Total execution time for kernels is 0.0201629s
+ INFO: Computing semblance for m0 = 9750
+ INFO: Total execution time for kernels is 0.0202969s
+ INFO: Computing semblance for m0 = 9775
+ INFO: Total execution time for kernels is 0.0204716s
+ INFO: Computing semblance for m0 = 9800
+ INFO: Total execution time for kernels is 0.0204283s
+ INFO: Computing semblance for m0 = 9825
+ INFO: Total execution time for kernels is 0.020347s
+ INFO: Computing semblance for m0 = 9850
+ INFO: Total execution time for kernels is 0.0203296s
+ INFO: Computing semblance for m0 = 9875
+ INFO: Total execution time for kernels is 0.020177s
+ INFO: Computing semblance for m0 = 9900
+ INFO: Total execution time for kernels is 0.0201421s
+ INFO: Computing semblance for m0 = 9925
+ INFO: Total execution time for kernels is 0.0200735s
+ INFO: Computing semblance for m0 = 9950
+ INFO: Total execution time for kernels is 0.0203953s
+ INFO: Computing semblance for m0 = 9975
+ INFO: Total execution time for kernels is 0.0201711s
+ INFO: Total execution time for kernels is 0.0202109s
+ INFO: Total execution time for kernels is 0.020271s
+ INFO: Total execution time for kernels is 0.0203396s
+ INFO: Average of efficiency is 1
+ INFO: Average of interpolations_per_sec is 2.55554e+11
+ INFO: Average of selected_traces is 760.095
+ INFO: Average of total_selection_kernel_exec_time is 0.00730405
+ INFO: Average of total_kernel_exec_time is 0.020543
+ INFO: Driver init. duration is 0.183107 s
+ INFO: Read gather duration is 1.80769 s
+ INFO: Parse args. duration is 0.000196527 s
+ INFO: Worker threads duration is 3.79672 s
+ INFO: Dump results duration is 0.28565 s
+ INFO: Results written to /home/ubuntu/nfs/out/d4e9b53e_master_p3.8xlarge/cmp/de/cuda/fold2000_4/fold2000_de_cmp_20210302_0126/
+ INFO: It took 6.08066s to compute.
