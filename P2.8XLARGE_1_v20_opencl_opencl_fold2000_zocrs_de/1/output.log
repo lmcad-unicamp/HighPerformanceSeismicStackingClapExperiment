@@ -1,0 +1,1233 @@
+ INFO: Number of CDPs = 400
+ INFO: Number of traces in the gather = 304038
+ INFO: Number of samples per trace = 751
+ INFO: Starting worker threads...
+ INFO: Computing semblance for m0 = 0
+ INFO: Execution time for copying traces is 0.10856s
+ INFO: Computing semblance for m0 = 25
+ INFO: Execution time for copying traces is 0.126942s
+ INFO: Computing semblance for m0 = 50
+ INFO: Execution time for copying traces is 0.144413s
+ INFO: Computing semblance for m0 = 75
+ INFO: Computing semblance for m0 = 100
+ INFO: Execution time for copying traces is 0.161662s
+ INFO: Computing semblance for m0 = 125
+ INFO: Execution time for copying traces is 0.180042s
+ INFO: Computing semblance for m0 = 150
+ INFO: Execution time for copying traces is 0.195751s
+ INFO: Computing semblance for m0 = 175
+ INFO: Execution time for copying traces is 0.215661s
+ INFO: Execution time for copying traces is 0.231323s
+ INFO: Total execution time for kernels is 1.52375s
+ INFO: Computing semblance for m0 = 200
+ INFO: Execution time for copying traces is 0.218962s
+ INFO: Total execution time for kernels is 1.78563s
+ INFO: Computing semblance for m0 = 225
+ INFO: Execution time for copying traces is 0.22088s
+ INFO: Total execution time for kernels is 1.96658s
+ INFO: Computing semblance for m0 = 250
+ INFO: Execution time for copying traces is 0.221504s
+ INFO: Total execution time for kernels is 2.20495s
+ INFO: Computing semblance for m0 = 275
+ INFO: Execution time for copying traces is 0.220735s
+ INFO: Total execution time for kernels is 2.37469s
+ INFO: Computing semblance for m0 = 300
+ INFO: Execution time for copying traces is 0.222224s
+ INFO: Total execution time for kernels is 2.73973s
+ INFO: Computing semblance for m0 = 325
+ INFO: Execution time for copying traces is 0.221385s
+ INFO: Total execution time for kernels is 2.86419s
+ INFO: Computing semblance for m0 = 350
+ INFO: Execution time for copying traces is 0.222799s
+ INFO: Total execution time for kernels is 3.22481s
+ INFO: Computing semblance for m0 = 375
+ INFO: Execution time for copying traces is 0.22263s
+ INFO: Total execution time for kernels is 2.95715s
+ INFO: Computing semblance for m0 = 400
+ INFO: Execution time for copying traces is 0.219873s
+ INFO: Total execution time for kernels is 3.09945s
+ INFO: Computing semblance for m0 = 425
+ INFO: Execution time for copying traces is 0.221995s
+ INFO: Total execution time for kernels is 3.03s
+ INFO: Computing semblance for m0 = 450
+ INFO: Execution time for copying traces is 0.221426s
+ INFO: Total execution time for kernels is 3.06685s
+ INFO: Computing semblance for m0 = 475
+ INFO: Execution time for copying traces is 0.22159s
+ INFO: Total execution time for kernels is 3.01621s
+ INFO: Computing semblance for m0 = 500
+ INFO: Execution time for copying traces is 0.221553s
+ INFO: Total execution time for kernels is 3.10083s
+ INFO: Computing semblance for m0 = 525
+ INFO: Total execution time for kernels is 2.97531s
+ INFO: Computing semblance for m0 = 550
+ INFO: Execution time for copying traces is 0.220293s
+ INFO: Execution time for copying traces is 0.222977s
+ INFO: Total execution time for kernels is 3.08225s
+ INFO: Computing semblance for m0 = 575
+ INFO: Total execution time for kernels is 3.00194s
+ INFO: Computing semblance for m0 = 600
+ INFO: Execution time for copying traces is 0.223482s
+ INFO: Execution time for copying traces is 0.22007s
+ INFO: Total execution time for kernels is 3.15309s
+ INFO: Computing semblance for m0 = 625
+ INFO: Total execution time for kernels is 3.04808s
+ INFO: Computing semblance for m0 = 650
+ INFO: Execution time for copying traces is 0.220103s
+ INFO: Execution time for copying traces is 0.222431s
+ INFO: Total execution time for kernels is 3.11849s
+ INFO: Computing semblance for m0 = 675
+ INFO: Total execution time for kernels is 3.02118s
+ INFO: Computing semblance for m0 = 700
+ INFO: Execution time for copying traces is 0.220627s
+ INFO: Execution time for copying traces is 0.221434s
+ INFO: Total execution time for kernels is 3.13843s
+ INFO: Computing semblance for m0 = 725
+ INFO: Total execution time for kernels is 2.99699s
+ INFO: Computing semblance for m0 = 750
+ INFO: Execution time for copying traces is 0.221839s
+ INFO: Execution time for copying traces is 0.222533s
+ INFO: Total execution time for kernels is 3.11385s
+ INFO: Computing semblance for m0 = 775
+ INFO: Total execution time for kernels is 2.99497s
+ INFO: Computing semblance for m0 = 800
+ INFO: Execution time for copying traces is 0.223613s
+ INFO: Execution time for copying traces is 0.22066s
+ INFO: Total execution time for kernels is 3.16844s
+ INFO: Computing semblance for m0 = 825
+ INFO: Total execution time for kernels is 3.09087s
+ INFO: Computing semblance for m0 = 850
+ INFO: Execution time for copying traces is 0.222096s
+ INFO: Execution time for copying traces is 0.22376s
+ INFO: Total execution time for kernels is 3.11636s
+ INFO: Computing semblance for m0 = 875
+ INFO: Total execution time for kernels is 3.03262s
+ INFO: Computing semblance for m0 = 900
+ INFO: Execution time for copying traces is 0.222815s
+ INFO: Execution time for copying traces is 0.222176s
+ INFO: Total execution time for kernels is 3.01406s
+ INFO: Computing semblance for m0 = 925
+ INFO: Total execution time for kernels is 3.18555s
+ INFO: Computing semblance for m0 = 950
+ INFO: Execution time for copying traces is 0.225183s
+ INFO: Execution time for copying traces is 0.221944s
+ INFO: Total execution time for kernels is 3.02589s
+ INFO: Computing semblance for m0 = 975
+ INFO: Total execution time for kernels is 3.14626s
+ INFO: Computing semblance for m0 = 1000
+ INFO: Execution time for copying traces is 0.220961s
+ INFO: Execution time for copying traces is 0.223298s
+ INFO: Total execution time for kernels is 3.08795s
+ INFO: Computing semblance for m0 = 1025
+ INFO: Total execution time for kernels is 3.18698s
+ INFO: Computing semblance for m0 = 1050
+ INFO: Execution time for copying traces is 0.224479s
+ INFO: Execution time for copying traces is 0.227462s
+ INFO: Total execution time for kernels is 3.15232s
+ INFO: Computing semblance for m0 = 1075
+ INFO: Total execution time for kernels is 3.09107s
+ INFO: Computing semblance for m0 = 1100
+ INFO: Execution time for copying traces is 0.22282s
+ INFO: Execution time for copying traces is 0.222426s
+ INFO: Total execution time for kernels is 3.01731s
+ INFO: Computing semblance for m0 = 1125
+ INFO: Execution time for copying traces is 0.223338s
+ INFO: Total execution time for kernels is 3.18973s
+ INFO: Computing semblance for m0 = 1150
+ INFO: Execution time for copying traces is 0.221584s
+ INFO: Total execution time for kernels is 3.03302s
+ INFO: Computing semblance for m0 = 1175
+ INFO: Total execution time for kernels is 3.13955s
+ INFO: Computing semblance for m0 = 1200
+ INFO: Execution time for copying traces is 0.220215s
+ INFO: Execution time for copying traces is 0.22265s
+ INFO: Total execution time for kernels is 3.1103s
+ INFO: Computing semblance for m0 = 1225
+ INFO: Total execution time for kernels is 3.18129s
+ INFO: Computing semblance for m0 = 1250
+ INFO: Execution time for copying traces is 0.222947s
+ INFO: Execution time for copying traces is 0.221777s
+ INFO: Total execution time for kernels is 3.05891s
+ INFO: Computing semblance for m0 = 1275
+ INFO: Total execution time for kernels is 3.14665s
+ INFO: Computing semblance for m0 = 1300
+ INFO: Execution time for copying traces is 0.223063s
+ INFO: Execution time for copying traces is 0.224234s
+ INFO: Total execution time for kernels is 3.01011s
+ INFO: Computing semblance for m0 = 1325
+ INFO: Execution time for copying traces is 0.222846s
+ INFO: Total execution time for kernels is 3.1725s
+ INFO: Computing semblance for m0 = 1350
+ INFO: Execution time for copying traces is 0.221459s
+ INFO: Total execution time for kernels is 3.01398s
+ INFO: Computing semblance for m0 = 1375
+ INFO: Execution time for copying traces is 0.220135s
+ INFO: Total execution time for kernels is 3.14635s
+ INFO: Computing semblance for m0 = 1400
+ INFO: Execution time for copying traces is 0.222811s
+ INFO: Total execution time for kernels is 3.09782s
+ INFO: Computing semblance for m0 = 1425
+ INFO: Total execution time for kernels is 3.17722s
+ INFO: Computing semblance for m0 = 1450
+ INFO: Execution time for copying traces is 0.22211s
+ INFO: Execution time for copying traces is 0.221279s
+ INFO: Total execution time for kernels is 3.05078s
+ INFO: Computing semblance for m0 = 1475
+ INFO: Total execution time for kernels is 3.12816s
+ INFO: Computing semblance for m0 = 1500
+ INFO: Execution time for copying traces is 0.222805s
+ INFO: Execution time for copying traces is 0.222831s
+ INFO: Total execution time for kernels is 3.02919s
+ INFO: Computing semblance for m0 = 1525
+ INFO: Execution time for copying traces is 0.222565s
+ INFO: Total execution time for kernels is 3.22355s
+ INFO: Computing semblance for m0 = 1550
+ INFO: Total execution time for kernels is 3.01982s
+ INFO: Computing semblance for m0 = 1575
+ INFO: Execution time for copying traces is 0.221305s
+ INFO: Execution time for copying traces is 0.220005s
+ INFO: Total execution time for kernels is 3.17168s
+ INFO: Computing semblance for m0 = 1600
+ INFO: Execution time for copying traces is 0.222639s
+ INFO: Total execution time for kernels is 3.12335s
+ INFO: Computing semblance for m0 = 1625
+ INFO: Total execution time for kernels is 3.16951s
+ INFO: Computing semblance for m0 = 1650
+ INFO: Execution time for copying traces is 0.222549s
+ INFO: Execution time for copying traces is 0.219665s
+ INFO: Total execution time for kernels is 3.08465s
+ INFO: Computing semblance for m0 = 1675
+ INFO: Total execution time for kernels is 3.1616s
+ INFO: Computing semblance for m0 = 1700
+ INFO: Execution time for copying traces is 0.221829s
+ INFO: Execution time for copying traces is 0.221841s
+ INFO: Total execution time for kernels is 3.0399s
+ INFO: Computing semblance for m0 = 1725
+ INFO: Execution time for copying traces is 0.221694s
+ INFO: Total execution time for kernels is 3.20581s
+ INFO: Computing semblance for m0 = 1750
+ INFO: Total execution time for kernels is 3.07276s
+ INFO: Computing semblance for m0 = 1775
+ INFO: Execution time for copying traces is 0.221857s
+ INFO: Execution time for copying traces is 0.220823s
+ INFO: Total execution time for kernels is 3.20799s
+ INFO: Computing semblance for m0 = 1800
+ INFO: Execution time for copying traces is 0.222321s
+ INFO: Total execution time for kernels is 3.12995s
+ INFO: Computing semblance for m0 = 1825
+ INFO: Execution time for copying traces is 0.221868s
+ INFO: Total execution time for kernels is 3.20181s
+ INFO: Computing semblance for m0 = 1850
+ INFO: Total execution time for kernels is 3.08703s
+ INFO: Computing semblance for m0 = 1875
+ INFO: Execution time for copying traces is 0.22107s
+ INFO: Execution time for copying traces is 0.221725s
+ INFO: Total execution time for kernels is 3.16472s
+ INFO: Computing semblance for m0 = 1900
+ INFO: Execution time for copying traces is 0.220871s
+ INFO: Total execution time for kernels is 3.07199s
+ INFO: Computing semblance for m0 = 1925
+ INFO: Execution time for copying traces is 0.223129s
+ INFO: Total execution time for kernels is 3.03816s
+ INFO: Computing semblance for m0 = 1950
+ INFO: Total execution time for kernels is 3.19128s
+ INFO: Computing semblance for m0 = 1975
+ INFO: Execution time for copying traces is 0.220412s
+ INFO: Execution time for copying traces is 0.221627s
+ INFO: Total execution time for kernels is 3.17968s
+ INFO: Computing semblance for m0 = 2000
+ INFO: Execution time for copying traces is 0.222681s
+ INFO: Total execution time for kernels is 3.1294s
+ INFO: Computing semblance for m0 = 2025
+ INFO: Execution time for copying traces is 0.222394s
+ INFO: Total execution time for kernels is 3.22847s
+ INFO: Computing semblance for m0 = 2050
+ INFO: Total execution time for kernels is 3.14797s
+ INFO: Computing semblance for m0 = 2075
+ INFO: Execution time for copying traces is 0.222382s
+ INFO: Execution time for copying traces is 0.222815s
+ INFO: Total execution time for kernels is 3.20539s
+ INFO: Computing semblance for m0 = 2100
+ INFO: Execution time for copying traces is 0.224713s
+ INFO: Total execution time for kernels is 3.08775s
+ INFO: Computing semblance for m0 = 2125
+ INFO: Execution time for copying traces is 0.224112s
+ INFO: Total execution time for kernels is 3.07139s
+ INFO: Computing semblance for m0 = 2150
+ INFO: Execution time for copying traces is 0.219926s
+ INFO: Total execution time for kernels is 3.2739s
+ INFO: Computing semblance for m0 = 2175
+ INFO: Execution time for copying traces is 0.221231s
+ INFO: Total execution time for kernels is 3.24284s
+ INFO: Computing semblance for m0 = 2200
+ INFO: Execution time for copying traces is 0.22292s
+ INFO: Total execution time for kernels is 3.18591s
+ INFO: Computing semblance for m0 = 2225
+ INFO: Execution time for copying traces is 0.222233s
+ INFO: Total execution time for kernels is 3.25735s
+ INFO: Computing semblance for m0 = 2250
+ INFO: Total execution time for kernels is 3.15113s
+ INFO: Computing semblance for m0 = 2275
+ INFO: Execution time for copying traces is 0.223822s
+ INFO: Execution time for copying traces is 0.222934s
+ INFO: Total execution time for kernels is 3.20656s
+ INFO: Computing semblance for m0 = 2300
+ INFO: Total execution time for kernels is 3.10585s
+ INFO: Computing semblance for m0 = 2325
+ INFO: Execution time for copying traces is 0.223945s
+ INFO: Execution time for copying traces is 0.224341s
+ INFO: Total execution time for kernels is 3.10432s
+ INFO: Computing semblance for m0 = 2350
+ INFO: Execution time for copying traces is 0.220712s
+ INFO: Total execution time for kernels is 3.27243s
+ INFO: Computing semblance for m0 = 2375
+ INFO: Execution time for copying traces is 0.221425s
+ INFO: Total execution time for kernels is 3.24008s
+ INFO: Computing semblance for m0 = 2400
+ INFO: Execution time for copying traces is 0.223803s
+ INFO: Total execution time for kernels is 3.18762s
+ INFO: Computing semblance for m0 = 2425
+ INFO: Execution time for copying traces is 0.223661s
+ INFO: Total execution time for kernels is 3.16502s
+ INFO: Computing semblance for m0 = 2450
+ INFO: Total execution time for kernels is 3.25436s
+ INFO: Computing semblance for m0 = 2475
+ INFO: Execution time for copying traces is 0.224356s
+ INFO: Execution time for copying traces is 0.224393s
+ INFO: Total execution time for kernels is 3.20238s
+ INFO: Computing semblance for m0 = 2500
+ INFO: Total execution time for kernels is 3.10103s
+ INFO: Computing semblance for m0 = 2525
+ INFO: Execution time for copying traces is 0.223718s
+ INFO: Execution time for copying traces is 0.224252s
+ INFO: Total execution time for kernels is 3.07689s
+ INFO: Computing semblance for m0 = 2550
+ INFO: Execution time for copying traces is 0.221001s
+ INFO: Total execution time for kernels is 3.26641s
+ INFO: Computing semblance for m0 = 2575
+ INFO: Execution time for copying traces is 0.222356s
+ INFO: Total execution time for kernels is 3.26877s
+ INFO: Computing semblance for m0 = 2600
+ INFO: Execution time for copying traces is 0.224417s
+ INFO: Total execution time for kernels is 3.20932s
+ INFO: Computing semblance for m0 = 2625
+ INFO: Execution time for copying traces is 0.223132s
+ INFO: Total execution time for kernels is 3.20606s
+ INFO: Computing semblance for m0 = 2650
+ INFO: Total execution time for kernels is 3.29592s
+ INFO: Computing semblance for m0 = 2675
+ INFO: Execution time for copying traces is 0.222584s
+ INFO: Total execution time for kernels is 3.14704s
+ INFO: Computing semblance for m0 = 2700
+ INFO: Execution time for copying traces is 0.220611s
+ INFO: Total execution time for kernels is 3.26504s
+ INFO: Computing semblance for m0 = 2725
+ INFO: Execution time for copying traces is 0.223817s
+ INFO: Execution time for copying traces is 0.22207s
+ INFO: Total execution time for kernels is 3.12227s
+ INFO: Computing semblance for m0 = 2750
+ INFO: Execution time for copying traces is 0.223216s
+ INFO: Total execution time for kernels is 3.28439s
+ INFO: Computing semblance for m0 = 2775
+ INFO: Execution time for copying traces is 0.221915s
+ INFO: Total execution time for kernels is 3.28489s
+ INFO: Computing semblance for m0 = 2800
+ INFO: Execution time for copying traces is 0.224811s
+ INFO: Total execution time for kernels is 3.23242s
+ INFO: Computing semblance for m0 = 2825
+ INFO: Execution time for copying traces is 0.22359s
+ INFO: Total execution time for kernels is 3.2064s
+ INFO: Computing semblance for m0 = 2850
+ INFO: Execution time for copying traces is 0.222383s
+ INFO: Total execution time for kernels is 3.31981s
+ INFO: Computing semblance for m0 = 2875
+ INFO: Total execution time for kernels is 3.1677s
+ INFO: Computing semblance for m0 = 2900
+ INFO: Execution time for copying traces is 0.224856s
+ INFO: Total execution time for kernels is 3.26728s
+ INFO: Computing semblance for m0 = 2925
+ INFO: Execution time for copying traces is 0.224921s
+ INFO: Execution time for copying traces is 0.221939s
+ INFO: Total execution time for kernels is 3.16874s
+ INFO: Computing semblance for m0 = 2950
+ INFO: Execution time for copying traces is 0.22093s
+ INFO: Total execution time for kernels is 3.32108s
+ INFO: Computing semblance for m0 = 2975
+ INFO: Execution time for copying traces is 0.221682s
+ INFO: Total execution time for kernels is 3.29796s
+ INFO: Computing semblance for m0 = 3000
+ INFO: Execution time for copying traces is 0.22445s
+ INFO: Total execution time for kernels is 3.23097s
+ INFO: Computing semblance for m0 = 3025
+ INFO: Execution time for copying traces is 0.223886s
+ INFO: Total execution time for kernels is 3.216s
+ INFO: Computing semblance for m0 = 3050
+ INFO: Execution time for copying traces is 0.22292s
+ INFO: Total execution time for kernels is 3.18554s
+ INFO: Computing semblance for m0 = 3075
+ INFO: Total execution time for kernels is 3.32989s
+ INFO: Computing semblance for m0 = 3100
+ INFO: Execution time for copying traces is 0.224394s
+ INFO: Total execution time for kernels is 3.2855s
+ INFO: Computing semblance for m0 = 3125
+ INFO: Execution time for copying traces is 0.223897s
+ INFO: Execution time for copying traces is 0.221885s
+ INFO: Total execution time for kernels is 3.16856s
+ INFO: Computing semblance for m0 = 3150
+ INFO: Execution time for copying traces is 0.22144s
+ INFO: Total execution time for kernels is 3.36272s
+ INFO: Computing semblance for m0 = 3175
+ INFO: Execution time for copying traces is 0.222343s
+ INFO: Total execution time for kernels is 3.33813s
+ INFO: Computing semblance for m0 = 3200
+ INFO: Execution time for copying traces is 0.223711s
+ INFO: Total execution time for kernels is 3.28332s
+ INFO: Computing semblance for m0 = 3225
+ INFO: Execution time for copying traces is 0.222798s
+ INFO: Total execution time for kernels is 3.27626s
+ INFO: Computing semblance for m0 = 3250
+ INFO: Execution time for copying traces is 0.225147s
+ INFO: Total execution time for kernels is 3.20114s
+ INFO: Computing semblance for m0 = 3275
+ INFO: Execution time for copying traces is 0.222686s
+ INFO: Total execution time for kernels is 3.36557s
+ INFO: Computing semblance for m0 = 3300
+ INFO: Total execution time for kernels is 3.33882s
+ INFO: Computing semblance for m0 = 3325
+ INFO: Execution time for copying traces is 0.224407s
+ INFO: Execution time for copying traces is 0.22326s
+ INFO: Total execution time for kernels is 3.21452s
+ INFO: Computing semblance for m0 = 3350
+ INFO: Execution time for copying traces is 0.221205s
+ INFO: Total execution time for kernels is 3.39098s
+ INFO: Computing semblance for m0 = 3375
+ INFO: Execution time for copying traces is 0.221938s
+ INFO: Total execution time for kernels is 3.35466s
+ INFO: Computing semblance for m0 = 3400
+ INFO: Execution time for copying traces is 0.224284s
+ INFO: Total execution time for kernels is 3.29184s
+ INFO: Computing semblance for m0 = 3425
+ INFO: Execution time for copying traces is 0.223075s
+ INFO: Total execution time for kernels is 3.29616s
+ INFO: Computing semblance for m0 = 3450
+ INFO: Total execution time for kernels is 3.23022s
+ INFO: Computing semblance for m0 = 3475
+ INFO: Execution time for copying traces is 0.223138s
+ INFO: Execution time for copying traces is 0.223223s
+ INFO: Total execution time for kernels is 3.40149s
+ INFO: Computing semblance for m0 = 3500
+ INFO: Total execution time for kernels is 3.34885s
+ INFO: Computing semblance for m0 = 3525
+ INFO: Execution time for copying traces is 0.221337s
+ INFO: Total execution time for kernels is 3.21515s
+ INFO: Computing semblance for m0 = 3550
+ INFO: Execution time for copying traces is 0.22309s
+ INFO: Execution time for copying traces is 0.220164s
+ INFO: Total execution time for kernels is 3.39196s
+ INFO: Computing semblance for m0 = 3575
+ INFO: Execution time for copying traces is 0.220467s
+ INFO: Total execution time for kernels is 3.3966s
+ INFO: Computing semblance for m0 = 3600
+ INFO: Execution time for copying traces is 0.222177s
+ INFO: Total execution time for kernels is 3.32298s
+ INFO: Computing semblance for m0 = 3625
+ INFO: Execution time for copying traces is 0.221595s
+ INFO: Total execution time for kernels is 3.30498s
+ INFO: Computing semblance for m0 = 3650
+ INFO: Total execution time for kernels is 3.25089s
+ INFO: Computing semblance for m0 = 3675
+ INFO: Execution time for copying traces is 0.222769s
+ INFO: Execution time for copying traces is 0.222721s
+ INFO: Total execution time for kernels is 3.384s
+ INFO: Computing semblance for m0 = 3700
+ INFO: Total execution time for kernels is 3.3701s
+ INFO: Computing semblance for m0 = 3725
+ INFO: Total execution time for kernels is 3.25225s
+ INFO: Computing semblance for m0 = 3750
+ INFO: Execution time for copying traces is 0.221566s
+ INFO: Execution time for copying traces is 0.222562s
+ INFO: Execution time for copying traces is 0.222542s
+ INFO: Total execution time for kernels is 3.4093s
+ INFO: Computing semblance for m0 = 3775
+ INFO: Execution time for copying traces is 0.225377s
+ INFO: Total execution time for kernels is 3.41216s
+ INFO: Computing semblance for m0 = 3800
+ INFO: Total execution time for kernels is 3.36314s
+ INFO: Computing semblance for m0 = 3825
+ INFO: Execution time for copying traces is 0.223933s
+ INFO: Execution time for copying traces is 0.223276s
+ INFO: Total execution time for kernels is 3.33635s
+ INFO: Computing semblance for m0 = 3850
+ INFO: Total execution time for kernels is 3.28437s
+ INFO: Computing semblance for m0 = 3875
+ INFO: Execution time for copying traces is 0.22383s
+ INFO: Execution time for copying traces is 0.226716s
+ INFO: Total execution time for kernels is 3.42679s
+ INFO: Computing semblance for m0 = 3900
+ INFO: Total execution time for kernels is 3.28363s
+ INFO: Computing semblance for m0 = 3925
+ INFO: Total execution time for kernels is 3.41915s
+ INFO: Computing semblance for m0 = 3950
+ INFO: Execution time for copying traces is 0.223726s
+ INFO: Execution time for copying traces is 0.223807s
+ INFO: Execution time for copying traces is 0.223909s
+ INFO: Total execution time for kernels is 3.46515s
+ INFO: Computing semblance for m0 = 3975
+ INFO: Execution time for copying traces is 0.221801s
+ INFO: Total execution time for kernels is 3.42315s
+ INFO: Computing semblance for m0 = 4000
+ INFO: Total execution time for kernels is 3.40175s
+ INFO: Computing semblance for m0 = 4025
+ INFO: Execution time for copying traces is 0.223145s
+ INFO: Execution time for copying traces is 0.222602s
+ INFO: Total execution time for kernels is 3.37989s
+ INFO: Computing semblance for m0 = 4050
+ INFO: Total execution time for kernels is 3.32352s
+ INFO: Computing semblance for m0 = 4075
+ INFO: Execution time for copying traces is 0.223344s
+ INFO: Execution time for copying traces is 0.222725s
+ INFO: Total execution time for kernels is 3.31216s
+ INFO: Computing semblance for m0 = 4100
+ INFO: Total execution time for kernels is 3.48065s
+ INFO: Computing semblance for m0 = 4125
+ INFO: Total execution time for kernels is 3.42658s
+ INFO: Computing semblance for m0 = 4150
+ INFO: Execution time for copying traces is 0.219921s
+ INFO: Execution time for copying traces is 0.222622s
+ INFO: Execution time for copying traces is 0.224002s
+ INFO: Total execution time for kernels is 3.49333s
+ INFO: Computing semblance for m0 = 4175
+ INFO: Execution time for copying traces is 0.221954s
+ INFO: Total execution time for kernels is 3.49361s
+ INFO: Computing semblance for m0 = 4200
+ INFO: Total execution time for kernels is 3.43065s
+ INFO: Computing semblance for m0 = 4225
+ INFO: Execution time for copying traces is 0.224114s
+ INFO: Execution time for copying traces is 0.223448s
+ INFO: Total execution time for kernels is 3.33964s
+ INFO: Computing semblance for m0 = 4250
+ INFO: Total execution time for kernels is 3.39663s
+ INFO: Computing semblance for m0 = 4275
+ INFO: Execution time for copying traces is 0.223558s
+ INFO: Execution time for copying traces is 0.222968s
+ INFO: Total execution time for kernels is 3.33592s
+ INFO: Computing semblance for m0 = 4300
+ INFO: Execution time for copying traces is 0.219881s
+ INFO: Total execution time for kernels is 3.49983s
+ INFO: Computing semblance for m0 = 4325
+ INFO: Total execution time for kernels is 3.47454s
+ INFO: Computing semblance for m0 = 4350
+ INFO: Execution time for copying traces is 0.223818s
+ INFO: Execution time for copying traces is 0.226783s
+ INFO: Total execution time for kernels is 3.49047s
+ INFO: Computing semblance for m0 = 4375
+ INFO: Execution time for copying traces is 0.22063s
+ INFO: Total execution time for kernels is 3.49709s
+ INFO: Computing semblance for m0 = 4400
+ INFO: Total execution time for kernels is 3.42136s
+ INFO: Computing semblance for m0 = 4425
+ INFO: Total execution time for kernels is 3.33057s
+ INFO: Computing semblance for m0 = 4450
+ INFO: Execution time for copying traces is 0.225882s
+ INFO: Execution time for copying traces is 0.224794s
+ INFO: Total execution time for kernels is 3.41411s
+ INFO: Computing semblance for m0 = 4475
+ INFO: Execution time for copying traces is 0.223485s
+ INFO: Execution time for copying traces is 0.222578s
+ INFO: Total execution time for kernels is 3.35148s
+ INFO: Computing semblance for m0 = 4500
+ INFO: Execution time for copying traces is 0.219926s
+ INFO: Total execution time for kernels is 3.51837s
+ INFO: Computing semblance for m0 = 4525
+ INFO: Total execution time for kernels is 3.49099s
+ INFO: Computing semblance for m0 = 4550
+ INFO: Execution time for copying traces is 0.222932s
+ INFO: Execution time for copying traces is 0.224246s
+ INFO: Total execution time for kernels is 3.54321s
+ INFO: Computing semblance for m0 = 4575
+ INFO: Execution time for copying traces is 0.221392s
+ INFO: Total execution time for kernels is 3.50362s
+ INFO: Computing semblance for m0 = 4600
+ INFO: Total execution time for kernels is 3.47989s
+ INFO: Computing semblance for m0 = 4625
+ INFO: Total execution time for kernels is 3.35429s
+ INFO: Computing semblance for m0 = 4650
+ INFO: Execution time for copying traces is 0.226381s
+ INFO: Execution time for copying traces is 0.225222s
+ INFO: Total execution time for kernels is 3.44005s
+ INFO: Computing semblance for m0 = 4675
+ INFO: Execution time for copying traces is 0.22514s
+ INFO: Execution time for copying traces is 0.221926s
+ INFO: Total execution time for kernels is 3.3452s
+ INFO: Computing semblance for m0 = 4700
+ INFO: Execution time for copying traces is 0.220504s
+ INFO: Total execution time for kernels is 3.46753s
+ INFO: Computing semblance for m0 = 4725
+ INFO: Total execution time for kernels is 3.50353s
+ INFO: Computing semblance for m0 = 4750
+ INFO: Execution time for copying traces is 0.225623s
+ INFO: Execution time for copying traces is 0.222613s
+ INFO: Total execution time for kernels is 3.51663s
+ INFO: Computing semblance for m0 = 4775
+ INFO: Execution time for copying traces is 0.221599s
+ INFO: Total execution time for kernels is 3.361s
+ INFO: Computing semblance for m0 = 4800
+ INFO: Total execution time for kernels is 3.43753s
+ INFO: Computing semblance for m0 = 4825
+ INFO: Total execution time for kernels is 3.48754s
+ INFO: Computing semblance for m0 = 4850
+ INFO: Execution time for copying traces is 0.226997s
+ INFO: Execution time for copying traces is 0.225514s
+ INFO: Execution time for copying traces is 0.22517s
+ INFO: Total execution time for kernels is 3.43717s
+ INFO: Computing semblance for m0 = 4875
+ INFO: Execution time for copying traces is 0.222413s
+ INFO: Total execution time for kernels is 3.38062s
+ INFO: Computing semblance for m0 = 4900
+ INFO: Execution time for copying traces is 0.220626s
+ INFO: Total execution time for kernels is 3.5225s
+ INFO: Computing semblance for m0 = 4925
+ INFO: Total execution time for kernels is 3.57422s
+ INFO: Computing semblance for m0 = 4950
+ INFO: Execution time for copying traces is 0.223586s
+ INFO: Execution time for copying traces is 0.222342s
+ INFO: Total execution time for kernels is 3.58498s
+ INFO: Computing semblance for m0 = 4975
+ INFO: Total execution time for kernels is 3.40254s
+ INFO: Computing semblance for m0 = 5000
+ INFO: Execution time for copying traces is 0.221877s
+ INFO: Total execution time for kernels is 3.52284s
+ INFO: Computing semblance for m0 = 5025
+ INFO: Total execution time for kernels is 3.53609s
+ INFO: Computing semblance for m0 = 5050
+ INFO: Execution time for copying traces is 0.224225s
+ INFO: Total execution time for kernels is 3.48235s
+ INFO: Computing semblance for m0 = 5075
+ INFO: Execution time for copying traces is 0.224878s
+ INFO: Execution time for copying traces is 0.226206s
+ INFO: Execution time for copying traces is 0.22229s
+ INFO: Total execution time for kernels is 3.37825s
+ INFO: Computing semblance for m0 = 5100
+ INFO: Execution time for copying traces is 0.221206s
+ INFO: Total execution time for kernels is 3.47866s
+ INFO: Computing semblance for m0 = 5125
+ INFO: Total execution time for kernels is 3.56538s
+ INFO: Computing semblance for m0 = 5150
+ INFO: Execution time for copying traces is 0.222815s
+ INFO: Execution time for copying traces is 0.22215s
+ INFO: Total execution time for kernels is 3.39223s
+ INFO: Computing semblance for m0 = 5175
+ INFO: Total execution time for kernels is 3.56567s
+ INFO: Computing semblance for m0 = 5200
+ INFO: Execution time for copying traces is 0.22498s
+ INFO: Execution time for copying traces is 0.223042s
+ INFO: Total execution time for kernels is 3.47915s
+ INFO: Computing semblance for m0 = 5225
+ INFO: Total execution time for kernels is 3.52693s
+ INFO: Computing semblance for m0 = 5250
+ INFO: Total execution time for kernels is 3.47141s
+ INFO: Computing semblance for m0 = 5275
+ INFO: Execution time for copying traces is 0.223647s
+ INFO: Execution time for copying traces is 0.224677s
+ INFO: Execution time for copying traces is 0.222969s
+ INFO: Total execution time for kernels is 3.40136s
+ INFO: Computing semblance for m0 = 5300
+ INFO: Execution time for copying traces is 0.220611s
+ INFO: Total execution time for kernels is 3.52488s
+ INFO: Computing semblance for m0 = 5325
+ INFO: Total execution time for kernels is 3.55003s
+ INFO: Computing semblance for m0 = 5350
+ INFO: Execution time for copying traces is 0.221843s
+ INFO: Execution time for copying traces is 0.219286s
+ INFO: Total execution time for kernels is 3.38467s
+ INFO: Computing semblance for m0 = 5375
+ INFO: Total execution time for kernels is 3.52281s
+ INFO: Computing semblance for m0 = 5400
+ INFO: Execution time for copying traces is 0.223258s
+ INFO: Total execution time for kernels is 3.47702s
+ INFO: Computing semblance for m0 = 5425
+ INFO: Execution time for copying traces is 0.222219s
+ INFO: Total execution time for kernels is 3.52914s
+ INFO: Computing semblance for m0 = 5450
+ INFO: Total execution time for kernels is 3.48747s
+ INFO: Computing semblance for m0 = 5475
+ INFO: Execution time for copying traces is 0.222877s
+ INFO: Total execution time for kernels is 3.39832s
+ INFO: Computing semblance for m0 = 5500
+ INFO: Execution time for copying traces is 0.224107s
+ INFO: Execution time for copying traces is 0.223208s
+ INFO: Execution time for copying traces is 0.220505s
+ INFO: Total execution time for kernels is 3.52072s
+ INFO: Computing semblance for m0 = 5525
+ INFO: Total execution time for kernels is 3.5457s
+ INFO: Computing semblance for m0 = 5550
+ INFO: Execution time for copying traces is 0.222119s
+ INFO: Execution time for copying traces is 0.220347s
+ INFO: Total execution time for kernels is 3.3834s
+ INFO: Computing semblance for m0 = 5575
+ INFO: Execution time for copying traces is 0.222617s
+ INFO: Total execution time for kernels is 3.56476s
+ INFO: Computing semblance for m0 = 5600
+ INFO: Total execution time for kernels is 3.46545s
+ INFO: Computing semblance for m0 = 5625
+ INFO: Execution time for copying traces is 0.222191s
+ INFO: Total execution time for kernels is 3.5163s
+ INFO: Computing semblance for m0 = 5650
+ INFO: Total execution time for kernels is 3.44458s
+ INFO: Computing semblance for m0 = 5675
+ INFO: Execution time for copying traces is 0.223369s
+ INFO: Total execution time for kernels is 3.40913s
+ INFO: Computing semblance for m0 = 5700
+ INFO: Execution time for copying traces is 0.225245s
+ INFO: Execution time for copying traces is 0.223915s
+ INFO: Execution time for copying traces is 0.22186s
+ INFO: Total execution time for kernels is 3.52344s
+ INFO: Computing semblance for m0 = 5725
+ INFO: Execution time for copying traces is 0.221698s
+ INFO: Total execution time for kernels is 3.58507s
+ INFO: Computing semblance for m0 = 5750
+ INFO: Execution time for copying traces is 0.221309s
+ INFO: Total execution time for kernels is 3.45376s
+ INFO: Computing semblance for m0 = 5775
+ INFO: Execution time for copying traces is 0.223094s
+ INFO: Total execution time for kernels is 3.5759s
+ INFO: Computing semblance for m0 = 5800
+ INFO: Total execution time for kernels is 3.51558s
+ INFO: Computing semblance for m0 = 5825
+ INFO: Total execution time for kernels is 3.48708s
+ INFO: Computing semblance for m0 = 5850
+ INFO: Total execution time for kernels is 3.41144s
+ INFO: Computing semblance for m0 = 5875
+ INFO: Execution time for copying traces is 0.222829s
+ INFO: Execution time for copying traces is 0.224917s
+ INFO: Total execution time for kernels is 3.56887s
+ INFO: Computing semblance for m0 = 5900
+ INFO: Execution time for copying traces is 0.223915s
+ INFO: Execution time for copying traces is 0.223133s
+ INFO: Execution time for copying traces is 0.224922s
+ INFO: Total execution time for kernels is 3.56513s
+ INFO: Computing semblance for m0 = 5925
+ INFO: Execution time for copying traces is 0.221922s
+ INFO: Total execution time for kernels is 3.6213s
+ INFO: Computing semblance for m0 = 5950
+ INFO: Execution time for copying traces is 0.219655s
+ INFO: Total execution time for kernels is 3.4217s
+ INFO: Computing semblance for m0 = 5975
+ INFO: Execution time for copying traces is 0.223243s
+ INFO: Total execution time for kernels is 3.51831s
+ INFO: Computing semblance for m0 = 6000
+ INFO: Total execution time for kernels is 3.63107s
+ INFO: Computing semblance for m0 = 6025
+ INFO: Total execution time for kernels is 3.42421s
+ INFO: Computing semblance for m0 = 6050
+ INFO: Total execution time for kernels is 3.46711s
+ INFO: Computing semblance for m0 = 6075
+ INFO: Execution time for copying traces is 0.22497s
+ INFO: Execution time for copying traces is 0.223943s
+ INFO: Execution time for copying traces is 0.224304s
+ INFO: Total execution time for kernels is 3.59317s
+ INFO: Computing semblance for m0 = 6100
+ INFO: Execution time for copying traces is 0.226695s
+ INFO: Execution time for copying traces is 0.222812s
+ INFO: Total execution time for kernels is 3.52971s
+ INFO: Computing semblance for m0 = 6125
+ INFO: Execution time for copying traces is 0.222167s
+ INFO: Total execution time for kernels is 3.57391s
+ INFO: Computing semblance for m0 = 6150
+ INFO: Execution time for copying traces is 0.221083s
+ INFO: Total execution time for kernels is 3.4374s
+ INFO: Computing semblance for m0 = 6175
+ INFO: Execution time for copying traces is 0.224203s
+ INFO: Total execution time for kernels is 3.50923s
+ INFO: Computing semblance for m0 = 6200
+ INFO: Total execution time for kernels is 3.42626s
+ INFO: Computing semblance for m0 = 6225
+ INFO: Total execution time for kernels is 3.47852s
+ INFO: Computing semblance for m0 = 6250
+ INFO: Total execution time for kernels is 3.57931s
+ INFO: Computing semblance for m0 = 6275
+ INFO: Execution time for copying traces is 0.226524s
+ INFO: Execution time for copying traces is 0.224909s
+ INFO: Execution time for copying traces is 0.227252s
+ INFO: Execution time for copying traces is 0.225239s
+ INFO: Total execution time for kernels is 3.58963s
+ INFO: Computing semblance for m0 = 6300
+ INFO: Execution time for copying traces is 0.225391s
+ INFO: Total execution time for kernels is 3.57762s
+ INFO: Computing semblance for m0 = 6325
+ INFO: Execution time for copying traces is 0.223402s
+ INFO: Total execution time for kernels is 3.62766s
+ INFO: Computing semblance for m0 = 6350
+ INFO: Execution time for copying traces is 0.221308s
+ INFO: Total execution time for kernels is 3.451s
+ INFO: Computing semblance for m0 = 6375
+ INFO: Execution time for copying traces is 0.224874s
+ INFO: Total execution time for kernels is 3.45315s
+ INFO: Computing semblance for m0 = 6400
+ INFO: Total execution time for kernels is 3.55011s
+ INFO: Computing semblance for m0 = 6425
+ INFO: Total execution time for kernels is 3.52664s
+ INFO: Computing semblance for m0 = 6450
+ INFO: Execution time for copying traces is 0.223484s
+ INFO: Execution time for copying traces is 0.225173s
+ INFO: Total execution time for kernels is 3.66791s
+ INFO: Computing semblance for m0 = 6475
+ INFO: Execution time for copying traces is 0.225748s
+ INFO: Total execution time for kernels is 3.62362s
+ INFO: Computing semblance for m0 = 6500
+ INFO: Execution time for copying traces is 0.222752s
+ INFO: Execution time for copying traces is 0.223715s
+ INFO: Total execution time for kernels is 3.59256s
+ INFO: Computing semblance for m0 = 6525
+ INFO: Execution time for copying traces is 0.22145s
+ INFO: Total execution time for kernels is 3.63601s
+ INFO: Computing semblance for m0 = 6550
+ INFO: Execution time for copying traces is 0.222578s
+ INFO: Total execution time for kernels is 3.50356s
+ INFO: Computing semblance for m0 = 6575
+ INFO: Execution time for copying traces is 0.221838s
+ INFO: Total execution time for kernels is 3.46173s
+ INFO: Computing semblance for m0 = 6600
+ INFO: Total execution time for kernels is 3.54467s
+ INFO: Computing semblance for m0 = 6625
+ INFO: Execution time for copying traces is 0.221001s
+ INFO: Total execution time for kernels is 3.5503s
+ INFO: Computing semblance for m0 = 6650
+ INFO: Execution time for copying traces is 0.224056s
+ INFO: Execution time for copying traces is 0.222734s
+ INFO: Total execution time for kernels is 3.62688s
+ INFO: Computing semblance for m0 = 6675
+ INFO: Execution time for copying traces is 0.221477s
+ INFO: Total execution time for kernels is 3.64574s
+ INFO: Computing semblance for m0 = 6700
+ INFO: Execution time for copying traces is 0.222856s
+ INFO: Total execution time for kernels is 3.62015s
+ INFO: Computing semblance for m0 = 6725
+ INFO: Execution time for copying traces is 0.221816s
+ INFO: Total execution time for kernels is 3.66995s
+ INFO: Computing semblance for m0 = 6750
+ INFO: Execution time for copying traces is 0.221798s
+ INFO: Total execution time for kernels is 3.50633s
+ INFO: Computing semblance for m0 = 6775
+ INFO: Execution time for copying traces is 0.221578s
+ INFO: Total execution time for kernels is 3.51206s
+ INFO: Computing semblance for m0 = 6800
+ INFO: Execution time for copying traces is 0.220725s
+ INFO: Total execution time for kernels is 3.62171s
+ INFO: Computing semblance for m0 = 6825
+ INFO: Total execution time for kernels is 3.60164s
+ INFO: Computing semblance for m0 = 6850
+ INFO: Execution time for copying traces is 0.223985s
+ INFO: Execution time for copying traces is 0.222291s
+ INFO: Total execution time for kernels is 3.69981s
+ INFO: Computing semblance for m0 = 6875
+ INFO: Total execution time for kernels is 3.67048s
+ INFO: Computing semblance for m0 = 6900
+ INFO: Execution time for copying traces is 0.221666s
+ INFO: Execution time for copying traces is 0.225728s
+ INFO: Total execution time for kernels is 3.64925s
+ INFO: Computing semblance for m0 = 6925
+ INFO: Execution time for copying traces is 0.221679s
+ INFO: Total execution time for kernels is 3.72499s
+ INFO: Computing semblance for m0 = 6950
+ INFO: Execution time for copying traces is 0.220234s
+ INFO: Total execution time for kernels is 3.55829s
+ INFO: Computing semblance for m0 = 6975
+ INFO: Execution time for copying traces is 0.22266s
+ INFO: Total execution time for kernels is 3.52808s
+ INFO: Computing semblance for m0 = 7000
+ INFO: Execution time for copying traces is 0.220435s
+ INFO: Total execution time for kernels is 3.60948s
+ INFO: Computing semblance for m0 = 7025
+ INFO: Total execution time for kernels is 3.60372s
+ INFO: Computing semblance for m0 = 7050
+ INFO: Execution time for copying traces is 0.224238s
+ INFO: Execution time for copying traces is 0.223116s
+ INFO: Total execution time for kernels is 3.75384s
+ INFO: Computing semblance for m0 = 7075
+ INFO: Total execution time for kernels is 3.73755s
+ INFO: Computing semblance for m0 = 7100
+ INFO: Execution time for copying traces is 0.221347s
+ INFO: Execution time for copying traces is 0.223039s
+ INFO: Total execution time for kernels is 3.58169s
+ INFO: Computing semblance for m0 = 7125
+ INFO: Execution time for copying traces is 0.221631s
+ INFO: Total execution time for kernels is 3.54367s
+ INFO: Computing semblance for m0 = 7150
+ INFO: Execution time for copying traces is 0.221203s
+ INFO: Total execution time for kernels is 3.31684s
+ INFO: Computing semblance for m0 = 7175
+ INFO: Execution time for copying traces is 0.225058s
+ INFO: Total execution time for kernels is 3.31632s
+ INFO: Computing semblance for m0 = 7200
+ INFO: Execution time for copying traces is 0.220359s
+ INFO: Total execution time for kernels is 3.40095s
+ INFO: Computing semblance for m0 = 7225
+ INFO: Total execution time for kernels is 3.39615s
+ INFO: Computing semblance for m0 = 7250
+ INFO: Execution time for copying traces is 0.223329s
+ INFO: Execution time for copying traces is 0.222912s
+ INFO: Total execution time for kernels is 3.41728s
+ INFO: Computing semblance for m0 = 7275
+ INFO: Total execution time for kernels is 3.42133s
+ INFO: Computing semblance for m0 = 7300
+ INFO: Execution time for copying traces is 0.221324s
+ INFO: Execution time for copying traces is 0.222678s
+ INFO: Total execution time for kernels is 3.39849s
+ INFO: Computing semblance for m0 = 7325
+ INFO: Execution time for copying traces is 0.220665s
+ INFO: Total execution time for kernels is 3.44245s
+ INFO: Computing semblance for m0 = 7350
+ INFO: Total execution time for kernels is 3.30122s
+ INFO: Computing semblance for m0 = 7375
+ INFO: Execution time for copying traces is 0.221903s
+ INFO: Execution time for copying traces is 0.220866s
+ INFO: Total execution time for kernels is 3.30617s
+ INFO: Computing semblance for m0 = 7400
+ INFO: Execution time for copying traces is 0.219071s
+ INFO: Total execution time for kernels is 3.38294s
+ INFO: Computing semblance for m0 = 7425
+ INFO: Total execution time for kernels is 3.38148s
+ INFO: Computing semblance for m0 = 7450
+ INFO: Execution time for copying traces is 0.223132s
+ INFO: Execution time for copying traces is 0.222436s
+ INFO: Total execution time for kernels is 3.40727s
+ INFO: Computing semblance for m0 = 7475
+ INFO: Total execution time for kernels is 3.40174s
+ INFO: Computing semblance for m0 = 7500
+ INFO: Execution time for copying traces is 0.22141s
+ INFO: Execution time for copying traces is 0.223322s
+ INFO: Total execution time for kernels is 3.37223s
+ INFO: Computing semblance for m0 = 7525
+ INFO: Execution time for copying traces is 0.222864s
+ INFO: Total execution time for kernels is 3.43607s
+ INFO: Computing semblance for m0 = 7550
+ INFO: Total execution time for kernels is 3.31767s
+ INFO: Computing semblance for m0 = 7575
+ INFO: Execution time for copying traces is 0.22304s
+ INFO: Execution time for copying traces is 0.221592s
+ INFO: Total execution time for kernels is 3.32787s
+ INFO: Computing semblance for m0 = 7600
+ INFO: Execution time for copying traces is 0.219161s
+ INFO: Total execution time for kernels is 3.40672s
+ INFO: Computing semblance for m0 = 7625
+ INFO: Total execution time for kernels is 3.44055s
+ INFO: Computing semblance for m0 = 7650
+ INFO: Execution time for copying traces is 0.222714s
+ INFO: Execution time for copying traces is 0.223722s
+ INFO: Total execution time for kernels is 3.48511s
+ INFO: Computing semblance for m0 = 7675
+ INFO: Total execution time for kernels is 3.43034s
+ INFO: Computing semblance for m0 = 7700
+ INFO: Execution time for copying traces is 0.221266s
+ INFO: Execution time for copying traces is 0.221813s
+ INFO: Total execution time for kernels is 3.42071s
+ INFO: Computing semblance for m0 = 7725
+ INFO: Execution time for copying traces is 0.220562s
+ INFO: Total execution time for kernels is 3.30423s
+ INFO: Computing semblance for m0 = 7750
+ INFO: Total execution time for kernels is 3.46545s
+ INFO: Computing semblance for m0 = 7775
+ INFO: Execution time for copying traces is 0.220175s
+ INFO: Execution time for copying traces is 0.222749s
+ INFO: Total execution time for kernels is 3.30607s
+ INFO: Computing semblance for m0 = 7800
+ INFO: Execution time for copying traces is 0.219046s
+ INFO: Total execution time for kernels is 3.37155s
+ INFO: Computing semblance for m0 = 7825
+ INFO: Total execution time for kernels is 3.39645s
+ INFO: Computing semblance for m0 = 7850
+ INFO: Execution time for copying traces is 0.222622s
+ INFO: Execution time for copying traces is 0.222318s
+ INFO: Total execution time for kernels is 3.49582s
+ INFO: Computing semblance for m0 = 7875
+ INFO: Total execution time for kernels is 3.41576s
+ INFO: Computing semblance for m0 = 7900
+ INFO: Execution time for copying traces is 0.22206s
+ INFO: Execution time for copying traces is 0.222244s
+ INFO: Total execution time for kernels is 3.40373s
+ INFO: Computing semblance for m0 = 7925
+ INFO: Execution time for copying traces is 0.220857s
+ INFO: Total execution time for kernels is 3.30709s
+ INFO: Computing semblance for m0 = 7950
+ INFO: Execution time for copying traces is 0.218097s
+ INFO: Total execution time for kernels is 3.45571s
+ INFO: Computing semblance for m0 = 7975
+ INFO: Execution time for copying traces is 0.221376s
+ INFO: Total execution time for kernels is 3.29674s
+ INFO: Computing semblance for m0 = 8000
+ INFO: Execution time for copying traces is 0.219398s
+ INFO: Total execution time for kernels is 3.38544s
+ INFO: Computing semblance for m0 = 8025
+ INFO: Total execution time for kernels is 3.40403s
+ INFO: Computing semblance for m0 = 8050
+ INFO: Execution time for copying traces is 0.222176s
+ INFO: Execution time for copying traces is 0.222448s
+ INFO: Total execution time for kernels is 3.42608s
+ INFO: Computing semblance for m0 = 8075
+ INFO: Total execution time for kernels is 3.48231s
+ INFO: Computing semblance for m0 = 8100
+ INFO: Execution time for copying traces is 0.224291s
+ INFO: Execution time for copying traces is 0.22286s
+ INFO: Total execution time for kernels is 3.40657s
+ INFO: Computing semblance for m0 = 8125
+ INFO: Execution time for copying traces is 0.220939s
+ INFO: Total execution time for kernels is 3.29253s
+ INFO: Computing semblance for m0 = 8150
+ INFO: Execution time for copying traces is 0.219157s
+ INFO: Total execution time for kernels is 3.42442s
+ INFO: Computing semblance for m0 = 8175
+ INFO: Total execution time for kernels is 3.31869s
+ INFO: Computing semblance for m0 = 8200
+ INFO: Execution time for copying traces is 0.223355s
+ INFO: Execution time for copying traces is 0.220252s
+ INFO: Total execution time for kernels is 3.39051s
+ INFO: Computing semblance for m0 = 8225
+ INFO: Total execution time for kernels is 3.3611s
+ INFO: Computing semblance for m0 = 8250
+ INFO: Execution time for copying traces is 0.223614s
+ INFO: Execution time for copying traces is 0.223093s
+ INFO: Total execution time for kernels is 3.41875s
+ INFO: Computing semblance for m0 = 8275
+ INFO: Total execution time for kernels is 3.46372s
+ INFO: Computing semblance for m0 = 8300
+ INFO: Execution time for copying traces is 0.222711s
+ INFO: Execution time for copying traces is 0.221045s
+ INFO: Total execution time for kernels is 3.41792s
+ INFO: Computing semblance for m0 = 8325
+ INFO: Execution time for copying traces is 0.22082s
+ INFO: Total execution time for kernels is 3.31848s
+ INFO: Computing semblance for m0 = 8350
+ INFO: Execution time for copying traces is 0.220558s
+ INFO: Total execution time for kernels is 3.47918s
+ INFO: Computing semblance for m0 = 8375
+ INFO: Total execution time for kernels is 3.31603s
+ INFO: Computing semblance for m0 = 8400
+ INFO: Execution time for copying traces is 0.223021s
+ INFO: Execution time for copying traces is 0.220874s
+ INFO: Total execution time for kernels is 3.3849s
+ INFO: Computing semblance for m0 = 8425
+ INFO: Total execution time for kernels is 3.391s
+ INFO: Computing semblance for m0 = 8450
+ INFO: Execution time for copying traces is 0.223142s
+ INFO: Execution time for copying traces is 0.222423s
+ INFO: Total execution time for kernels is 3.46086s
+ INFO: Computing semblance for m0 = 8475
+ INFO: Total execution time for kernels is 3.45345s
+ INFO: Computing semblance for m0 = 8500
+ INFO: Execution time for copying traces is 0.223056s
+ INFO: Execution time for copying traces is 0.220879s
+ INFO: Total execution time for kernels is 3.4227s
+ INFO: Computing semblance for m0 = 8525
+ INFO: Total execution time for kernels is 3.32202s
+ INFO: Computing semblance for m0 = 8550
+ INFO: Execution time for copying traces is 0.221548s
+ INFO: Execution time for copying traces is 0.22126s
+ INFO: Total execution time for kernels is 3.31818s
+ INFO: Computing semblance for m0 = 8575
+ INFO: Total execution time for kernels is 3.44666s
+ INFO: Computing semblance for m0 = 8600
+ INFO: Execution time for copying traces is 0.21977s
+ INFO: Execution time for copying traces is 0.222902s
+ INFO: Total execution time for kernels is 3.38752s
+ INFO: Computing semblance for m0 = 8625
+ INFO: Total execution time for kernels is 3.40664s
+ INFO: Computing semblance for m0 = 8650
+ INFO: Execution time for copying traces is 0.224052s
+ INFO: Execution time for copying traces is 0.223741s
+ INFO: Total execution time for kernels is 3.45192s
+ INFO: Computing semblance for m0 = 8675
+ INFO: Total execution time for kernels is 3.45573s
+ INFO: Computing semblance for m0 = 8700
+ INFO: Execution time for copying traces is 0.223553s
+ INFO: Execution time for copying traces is 0.221982s
+ INFO: Total execution time for kernels is 3.44541s
+ INFO: Computing semblance for m0 = 8725
+ INFO: Total execution time for kernels is 3.34091s
+ INFO: Computing semblance for m0 = 8750
+ INFO: Execution time for copying traces is 0.22221s
+ INFO: Execution time for copying traces is 0.222195s
+ INFO: Total execution time for kernels is 3.31907s
+ INFO: Computing semblance for m0 = 8775
+ INFO: Execution time for copying traces is 0.219631s
+ INFO: Total execution time for kernels is 3.47576s
+ INFO: Computing semblance for m0 = 8800
+ INFO: Execution time for copying traces is 0.223499s
+ INFO: Total execution time for kernels is 3.38303s
+ INFO: Computing semblance for m0 = 8825
+ INFO: Total execution time for kernels is 3.38057s
+ INFO: Computing semblance for m0 = 8850
+ INFO: Execution time for copying traces is 0.222293s
+ INFO: Execution time for copying traces is 0.221398s
+ INFO: Total execution time for kernels is 3.4386s
+ INFO: Computing semblance for m0 = 8875
+ INFO: Total execution time for kernels is 3.51565s
+ INFO: Computing semblance for m0 = 8900
+ INFO: Execution time for copying traces is 0.222485s
+ INFO: Execution time for copying traces is 0.221968s
+ INFO: Total execution time for kernels is 3.32399s
+ INFO: Computing semblance for m0 = 8925
+ INFO: Total execution time for kernels is 3.43793s
+ INFO: Computing semblance for m0 = 8950
+ INFO: Execution time for copying traces is 0.221112s
+ INFO: Execution time for copying traces is 0.224465s
+ INFO: Total execution time for kernels is 3.3163s
+ INFO: Computing semblance for m0 = 8975
+ INFO: Execution time for copying traces is 0.22255s
+ INFO: Total execution time for kernels is 3.44175s
+ INFO: Computing semblance for m0 = 9000
+ INFO: Execution time for copying traces is 0.222825s
+ INFO: Total execution time for kernels is 3.36315s
+ INFO: Computing semblance for m0 = 9025
+ INFO: Total execution time for kernels is 3.38687s
+ INFO: Computing semblance for m0 = 9050
+ INFO: Execution time for copying traces is 0.22281s
+ INFO: Execution time for copying traces is 0.222186s
+ INFO: Total execution time for kernels is 3.43509s
+ INFO: Computing semblance for m0 = 9075
+ INFO: Total execution time for kernels is 3.49065s
+ INFO: Computing semblance for m0 = 9100
+ INFO: Execution time for copying traces is 0.222593s
+ INFO: Execution time for copying traces is 0.221341s
+ INFO: Total execution time for kernels is 3.33859s
+ INFO: Computing semblance for m0 = 9125
+ INFO: Total execution time for kernels is 3.45194s
+ INFO: Computing semblance for m0 = 9150
+ INFO: Execution time for copying traces is 0.219011s
+ INFO: Execution time for copying traces is 0.220405s
+ INFO: Total execution time for kernels is 3.33642s
+ INFO: Computing semblance for m0 = 9175
+ INFO: Execution time for copying traces is 0.219496s
+ INFO: Total execution time for kernels is 3.4901s
+ INFO: Computing semblance for m0 = 9200
+ INFO: Execution time for copying traces is 0.222801s
+ INFO: Total execution time for kernels is 3.42445s
+ INFO: Computing semblance for m0 = 9225
+ INFO: Total execution time for kernels is 3.41994s
+ INFO: Computing semblance for m0 = 9250
+ INFO: Execution time for copying traces is 0.222732s
+ INFO: Execution time for copying traces is 0.221981s
+ INFO: Total execution time for kernels is 3.47658s
+ INFO: Computing semblance for m0 = 9275
+ INFO: Total execution time for kernels is 3.52502s
+ INFO: Computing semblance for m0 = 9300
+ INFO: Execution time for copying traces is 0.222621s
+ INFO: Execution time for copying traces is 0.220994s
+ INFO: Total execution time for kernels is 3.38668s
+ INFO: Computing semblance for m0 = 9325
+ INFO: Execution time for copying traces is 0.220012s
+ INFO: Total execution time for kernels is 3.43546s
+ INFO: Computing semblance for m0 = 9350
+ INFO: Execution time for copying traces is 0.220631s
+ INFO: Total execution time for kernels is 3.3486s
+ INFO: Computing semblance for m0 = 9375
+ INFO: Execution time for copying traces is 0.219304s
+ INFO: Total execution time for kernels is 3.49772s
+ INFO: Computing semblance for m0 = 9400
+ INFO: Execution time for copying traces is 0.222322s
+ INFO: Total execution time for kernels is 3.44137s
+ INFO: Computing semblance for m0 = 9425
+ INFO: Total execution time for kernels is 3.45152s
+ INFO: Computing semblance for m0 = 9450
+ INFO: Execution time for copying traces is 0.221432s
+ INFO: Execution time for copying traces is 0.220974s
+ INFO: Total execution time for kernels is 3.51629s
+ INFO: Computing semblance for m0 = 9475
+ INFO: Execution time for copying traces is 0.222163s
+ INFO: Total execution time for kernels is 3.52806s
+ INFO: Computing semblance for m0 = 9500
+ INFO: Execution time for copying traces is 0.221126s
+ INFO: Total execution time for kernels is 3.38831s
+ INFO: Computing semblance for m0 = 9525
+ INFO: Execution time for copying traces is 0.22019s
+ INFO: Total execution time for kernels is 3.48189s
+ INFO: Computing semblance for m0 = 9550
+ INFO: Total execution time for kernels is 3.38587s
+ INFO: Computing semblance for m0 = 9575
+ INFO: Execution time for copying traces is 0.221541s
+ INFO: Execution time for copying traces is 0.219605s
+ INFO: Total execution time for kernels is 3.50625s
+ INFO: Computing semblance for m0 = 9600
+ INFO: Execution time for copying traces is 0.222218s
+ INFO: Total execution time for kernels is 3.46891s
+ INFO: Computing semblance for m0 = 9625
+ INFO: Total execution time for kernels is 3.46432s
+ INFO: Computing semblance for m0 = 9650
+ INFO: Execution time for copying traces is 0.221226s
+ INFO: Execution time for copying traces is 0.22161s
+ INFO: Total execution time for kernels is 3.51343s
+ INFO: Computing semblance for m0 = 9675
+ INFO: Execution time for copying traces is 0.222141s
+ INFO: Total execution time for kernels is 3.53596s
+ INFO: Computing semblance for m0 = 9700
+ INFO: Total execution time for kernels is 3.39101s
+ INFO: Computing semblance for m0 = 9725
+ INFO: Execution time for copying traces is 0.222648s
+ INFO: Execution time for copying traces is 0.222152s
+ INFO: Total execution time for kernels is 3.50436s
+ INFO: Computing semblance for m0 = 9750
+ INFO: Total execution time for kernels is 3.39272s
+ INFO: Computing semblance for m0 = 9775
+ INFO: Execution time for copying traces is 0.223031s
+ INFO: Execution time for copying traces is 0.21997s
+ INFO: Total execution time for kernels is 3.56566s
+ INFO: Computing semblance for m0 = 9800
+ INFO: Execution time for copying traces is 0.22288s
+ INFO: Total execution time for kernels is 3.44172s
+ INFO: Computing semblance for m0 = 9825
+ INFO: Total execution time for kernels is 3.44366s
+ INFO: Computing semblance for m0 = 9850
+ INFO: Execution time for copying traces is 0.222729s
+ INFO: Execution time for copying traces is 0.205918s
+ INFO: Total execution time for kernels is 3.503s
+ INFO: Computing semblance for m0 = 9875
+ INFO: Total execution time for kernels is 3.35734s
+ INFO: Computing semblance for m0 = 9900
+ INFO: Execution time for copying traces is 0.18733s
+ INFO: Total execution time for kernels is 3.5474s
+ INFO: Computing semblance for m0 = 9925
+ INFO: Execution time for copying traces is 0.169739s
+ INFO: Execution time for copying traces is 0.154176s
+ INFO: Total execution time for kernels is 3.35989s
+ INFO: Computing semblance for m0 = 9950
+ INFO: Total execution time for kernels is 3.47552s
+ INFO: Computing semblance for m0 = 9975
+ INFO: Execution time for copying traces is 0.136823s
+ INFO: Execution time for copying traces is 0.120917s
+ INFO: Total execution time for kernels is 3.48744s
+ INFO: Set up time is 0.0845645 s.
+ INFO: Blocked time is 0.000797759 s.
+ INFO: Total execution time for kernels is 3.15129s
+ INFO: Set up time is 0.0791899 s.
+ INFO: Blocked time is 0.000834507 s.
+ INFO: Total execution time for kernels is 3.40027s
+ INFO: Set up time is 0.0840792 s.
+ INFO: Blocked time is 0.000828204 s.
+ INFO: Total execution time for kernels is 1.8303s
+ INFO: Set up time is 0.0861853 s.
+ INFO: Blocked time is 0.000801992 s.
+ INFO: Total execution time for kernels is 2.34627s
+ INFO: Set up time is 0.0837935 s.
+ INFO: Blocked time is 0.000819468 s.
+ INFO: Total execution time for kernels is 2.4957s
+ INFO: Set up time is 0.0801824 s.
+ INFO: Blocked time is 0.000848149 s.
+ INFO: Total execution time for kernels is 1.9967s
+ INFO: Set up time is 0.0825623 s.
+ INFO: Blocked time is 0.00113048 s.
+ INFO: Total execution time for kernels is 2.88434s
+ INFO: Set up time is 0.0141131 s.
+ INFO: Blocked time is 0.000802213 s.
+ INFO: Average of efficiency is 1
+ INFO: Average of interpolations_per_sec is 2.04763e+10
+ INFO: Average of selected_traces is 9812.66
+ INFO: Average of total_selection_kernel_exec_time is 0.221931
+ INFO: Average of total_kernel_exec_time is 3.32581
+ INFO: Driver init. duration is 0.292944 s
+ INFO: Read gather duration is 1.73804 s
+ INFO: Parse args. duration is 0.000223969 s
+ INFO: Worker threads duration is 179.659 s
+ INFO: Dump results duration is 0.370686 s
+ INFO: Thread/block is 64
+ INFO: Results written to /home/ubuntu/nfs/out/7587a524_master_p2.8xlarge/zocrs/de/opencl/fold2000_64_1/fold2000_de_zocrs_20210517_2124/
+ INFO: It took 182.068 s to compute.
