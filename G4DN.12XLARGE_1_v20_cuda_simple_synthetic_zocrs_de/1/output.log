@@ -1,0 +1,1233 @@
+ INFO: [buildZeroOffsetCommonReflectionSurface:66] Upper bound for A is 0.000866025
+ INFO: [buildZeroOffsetCommonReflectionSurface:67] Upper bound for B is 1.97531e-06
+ INFO: [readGatherFromFile:119] Number of CDPs = 400
+ INFO: [readGatherFromFile:120] Number of traces in the gather = 304038
+ INFO: [readGatherFromFile:121] Number of samples per trace = 751
+ INFO: [parseComputeAlgorithm:26] Received 3 granularities.
+ INFO: [activate:15] Activating GPU#0
+ INFO: [setupArrays:165] Allocating data for deviceParameterArray [3072 elements]
+ INFO: [parseComputeAlgorithm:26] Received 3 granularities.
+ INFO: [activate:15] Activating GPU#1
+ INFO: [setupArrays:165] Allocating data for deviceParameterArray [3072 elements]
+ INFO: [parseComputeAlgorithm:26] Received 3 granularities.
+ INFO: [activate:15] Activating GPU#2
+ INFO: [setupArrays:165] Allocating data for deviceParameterArray [3072 elements]
+ INFO: [parseComputeAlgorithm:26] Received 3 granularities.
+ INFO: [activate:15] Activating GPU#3
+ INFO: [setupArrays:165] Allocating data for deviceParameterArray [3072 elements]
+ INFO: [parseComputeAlgorithm:26] Received 3 granularities.
+ INFO: [activate:15] Activating GPU#4
+ INFO: [setupArrays:165] Allocating data for deviceParameterArray [3072 elements]
+ INFO: [parseComputeAlgorithm:26] Received 3 granularities.
+ INFO: [activate:15] Activating GPU#5
+ INFO: [setupArrays:165] Allocating data for deviceParameterArray [3072 elements]
+ INFO: [parseComputeAlgorithm:26] Received 3 granularities.
+ INFO: [activate:15] Activating GPU#6
+ INFO: [setupArrays:165] Allocating data for deviceParameterArray [3072 elements]
+ INFO: [parseComputeAlgorithm:26] Received 3 granularities.
+ INFO: [activate:15] Activating GPU#7
+ INFO: [setupArrays:165] Allocating data for deviceParameterArray [3072 elements]
+ INFO: [setupArrays:169] Allocating data for deviceNotUsedCountArray [769024 elements]
+ INFO: [setupArrays:173] Allocating data for deviceResultArray [3755 elements]
+ INFO: [setupArrays:169] Allocating data for deviceNotUsedCountArray [769024 elements]
+ INFO: [setupArrays:169] Allocating data for deviceNotUsedCountArray [769024 elements]
+ INFO: [setupArrays:169] Allocating data for deviceNotUsedCountArray [769024 elements]
+ INFO: [setupArrays:173] Allocating data for deviceResultArray [3755 elements]
+ INFO: [setupArrays:173] Allocating data for deviceResultArray [3755 elements]
+ INFO: [setupArrays:173] Allocating data for deviceResultArray [3755 elements]
+ INFO: [setupArrays:169] Allocating data for deviceNotUsedCountArray [769024 elements]
+ INFO: [setupArrays:169] Allocating data for deviceNotUsedCountArray [769024 elements]
+ INFO: [activate:15] Activating GPU#0
+ INFO: [selectTracesToBeUsedForMidpoint:95] Using 296 blocks for traces filtering (threadCount = 1024)
+ INFO: [selectTracesToBeUsedForMidpoint:140] Execution time for filtering kernel is 1.2108e-05s
+ INFO: [setupArrays:173] Allocating data for deviceResultArray [3755 elements]
+ INFO: [setupArrays:169] Allocating data for deviceNotUsedCountArray [769024 elements]
+ INFO: [setupArrays:173] Allocating data for deviceResultArray [3755 elements]
+ INFO: [copyOnlySelectedTracesToDevice:127] Selected 4572 traces
+ INFO: [setupArrays:173] Allocating data for deviceResultArray [3755 elements]
+ INFO: [setupArrays:169] Allocating data for deviceNotUsedCountArray [769024 elements]
+ INFO: [setupArrays:173] Allocating data for deviceResultArray [3755 elements]
+ INFO: [activate:15] Activating GPU#1
+ INFO: [activate:15] Activating GPU#4
+ INFO: [activate:15] Activating GPU#5
+ INFO: [selectTracesToBeUsedForMidpoint:95] Using 296 blocks for traces filtering (threadCount = 1024)
+ INFO: [selectTracesToBeUsedForMidpoint:140] Execution time for filtering kernel is 1.2678e-05s
+ INFO: [selectTracesToBeUsedForMidpoint:95] Using 296 blocks for traces filtering (threadCount = 1024)
+ INFO: [selectTracesToBeUsedForMidpoint:95] Using 296 blocks for traces filtering (threadCount = 1024)
+ INFO: [selectTracesToBeUsedForMidpoint:140] Execution time for filtering kernel is 9.758e-06s
+ INFO: [selectTracesToBeUsedForMidpoint:140] Execution time for filtering kernel is 1.2841e-05s
+ INFO: [copyOnlySelectedTracesToDevice:127] Selected 5334 traces
+ INFO: [copyOnlySelectedTracesToDevice:127] Selected 6096 traces
+ INFO: [copyOnlySelectedTracesToDevice:127] Selected 6858 traces
+ INFO: [activate:15] Activating GPU#2
+ INFO: [selectTracesToBeUsedForMidpoint:95] Using 296 blocks for traces filtering (threadCount = 1024)
+ INFO: [selectTracesToBeUsedForMidpoint:140] Execution time for filtering kernel is 1.1899e-05s
+ INFO: [copyOnlySelectedTracesToDevice:127] Selected 7620 traces
+ INFO: [activate:15] Activating GPU#6 INFO: 
+[activate:15] Activating GPU#7
+ INFO: [activate:15] Activating GPU#3
+ INFO: [selectTracesToBeUsedForMidpoint:95] Using 296 blocks for traces filtering (threadCount = 1024)
+ INFO: [selectTracesToBeUsedForMidpoint:95] Using 296 blocks for traces filtering (threadCount = 1024)
+ INFO: [selectTracesToBeUsedForMidpoint:140] Execution time for filtering kernel is 1.0085e-05s
+ INFO: [selectTracesToBeUsedForMidpoint:95] Using 296 blocks for traces filtering (threadCount = 1024)
+ INFO: [selectTracesToBeUsedForMidpoint:140] Execution time for filtering kernel is 9.148e-06s
+ INFO: [selectTracesToBeUsedForMidpoint:140] Execution time for filtering kernel is 1.0028e-05s
+ INFO: [copyOnlySelectedTracesToDevice:127] Selected 9906 traces
+ INFO: [copyOnlySelectedTracesToDevice:127] Selected 9144 traces
+ INFO: [copyOnlySelectedTracesToDevice:127] Selected 8382 traces
+ INFO: [copyOnlySelectedTracesToDevice:156] Copy time is 0.050593
+ INFO: [selectTracesToBeUsedForMidpoint:152] Execution time for copying traces is 0.0572492s
+ INFO: [computeSemblanceAndParametersForMidpoint:68] parameterArrayStep = 1024
+ INFO: [computeSemblanceAndParametersForMidpoint:69] totalNumberOfParameters = 10000
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 0
+ INFO: [copyOnlySelectedTracesToDevice:156] Copy time is 0.0576491
+ INFO: [selectTracesToBeUsedForMidpoint:152] Execution time for copying traces is 0.0626789s
+ INFO: [computeSemblanceAndParametersForMidpoint:68] parameterArrayStep = 1024
+ INFO: [computeSemblanceAndParametersForMidpoint:69] totalNumberOfParameters = 10000
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 25
+ INFO: [copyOnlySelectedTracesToDevice:156] Copy time is 0.0649343
+ INFO: [selectTracesToBeUsedForMidpoint:152] Execution time for copying traces is 0.070864s
+ INFO: [computeSemblanceAndParametersForMidpoint:68] parameterArrayStep = 1024
+ INFO: [computeSemblanceAndParametersForMidpoint:69] totalNumberOfParameters = 10000
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 50
+ INFO: [copyOnlySelectedTracesToDevice:156] Copy time is 0.073307
+ INFO: [selectTracesToBeUsedForMidpoint:152] Execution time for copying traces is 0.0798876s
+ INFO: [computeSemblanceAndParametersForMidpoint:68] parameterArrayStep = 1024
+ INFO: [computeSemblanceAndParametersForMidpoint:69] totalNumberOfParameters = 10000
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 75
+ INFO: [copyOnlySelectedTracesToDevice:156] Copy time is 0.0798132
+ INFO: [selectTracesToBeUsedForMidpoint:152] Execution time for copying traces is 0.0859272s
+ INFO: [computeSemblanceAndParametersForMidpoint:68] parameterArrayStep = 1024
+ INFO: [computeSemblanceAndParametersForMidpoint:69] totalNumberOfParameters = 10000
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 100
+ INFO: [copyOnlySelectedTracesToDevice:156] Copy time is 0.0856313
+ INFO: [selectTracesToBeUsedForMidpoint:152] Execution time for copying traces is 0.0938323s
+ INFO: [computeSemblanceAndParametersForMidpoint:68] parameterArrayStep = 1024
+ INFO: [computeSemblanceAndParametersForMidpoint:69] totalNumberOfParameters = 10000
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 125
+ INFO: [copyOnlySelectedTracesToDevice:156] Copy time is 0.095581
+ INFO: [selectTracesToBeUsedForMidpoint:152] Execution time for copying traces is 0.10338s
+ INFO: [computeSemblanceAndParametersForMidpoint:68] parameterArrayStep = 1024
+ INFO: [computeSemblanceAndParametersForMidpoint:69] totalNumberOfParameters = 10000
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 150
+ INFO: [copyOnlySelectedTracesToDevice:156] Copy time is 0.103874
+ INFO: [selectTracesToBeUsedForMidpoint:152] Execution time for copying traces is 0.112076s
+ INFO: [computeSemblanceAndParametersForMidpoint:68] parameterArrayStep = 1024
+ INFO: [computeSemblanceAndParametersForMidpoint:69] totalNumberOfParameters = 10000
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 175
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 0
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 25
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 50
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 75
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 100
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 125
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 0
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 150
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 175
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 25
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 50
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 0
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 75
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 100
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 25
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 125
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 50
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 0
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 150
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 175
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 25
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 75
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 0
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 100
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 50
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 125
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 25
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 0
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 75
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 150
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 50
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 100
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 175
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 25
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 0
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 125
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 50
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 75
+ INFO: [computeSemblanceAndParametersForMidpoint:85] Changing parameterArrayStep to 784
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 0
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 25
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 100
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 150
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 125
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 50
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 0
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 175
+ INFO: [computeSemblanceAndParametersForMidpoint:85] Changing parameterArrayStep to 784
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 25
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 75
+ INFO: [saveStatisticalResults:111] Total execution time for selecting traces is 0.0725132s
+ INFO: [saveStatisticalResults:113] Total execution time for kernels is 54.1626s
+ INFO: [activate:15] Activating GPU#0
+ INFO: [selectTracesToBeUsedForMidpoint:95] Using 296 blocks for traces filtering (threadCount = 1024)
+ INFO: [selectTracesToBeUsedForMidpoint:140] Execution time for filtering kernel is 1.0045e-05s
+ INFO: [copyOnlySelectedTracesToDevice:127] Selected 9906 traces
+ INFO: [copyOnlySelectedTracesToDevice:156] Copy time is 0.0934805
+ INFO: [selectTracesToBeUsedForMidpoint:152] Execution time for copying traces is 0.103064s
+ INFO: [computeSemblanceAndParametersForMidpoint:68] parameterArrayStep = 1024
+ INFO: [computeSemblanceAndParametersForMidpoint:69] totalNumberOfParameters = 10000
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 200
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 100
+ INFO: [computeSemblanceAndParametersForMidpoint:85] Changing parameterArrayStep to 784
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 50
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 25
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 150
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 125
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 75
+ INFO: [saveStatisticalResults:111] Total execution time for selecting traces is 0.0630749s
+ INFO: [saveStatisticalResults:113] Total execution time for kernels is 62.9167s
+ INFO: [activate:15] Activating GPU#1
+ INFO: [selectTracesToBeUsedForMidpoint:95] Using 296 blocks for traces filtering (threadCount = 1024)
+ INFO: [selectTracesToBeUsedForMidpoint:140] Execution time for filtering kernel is 1.0032e-05s
+ INFO: [copyOnlySelectedTracesToDevice:127] Selected 9906 traces
+ INFO: [copyOnlySelectedTracesToDevice:156] Copy time is 0.0934908
+ INFO: [selectTracesToBeUsedForMidpoint:152] Execution time for copying traces is 0.10301s
+ INFO: [computeSemblanceAndParametersForMidpoint:68] parameterArrayStep = 1024
+ INFO: [computeSemblanceAndParametersForMidpoint:69] totalNumberOfParameters = 10000
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 225
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 175
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 50
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 100
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 200
+ INFO: [saveStatisticalResults:111] Total execution time for selecting traces is 0.071286s
+ INFO: [saveStatisticalResults:113] Total execution time for kernels is 69.2638s
+ INFO: [activate:15] Activating GPU#5
+ INFO: [selectTracesToBeUsedForMidpoint:95] Using 296 blocks for traces filtering (threadCount = 1024)
+ INFO: [selectTracesToBeUsedForMidpoint:140] Execution time for filtering kernel is 1.0052e-05s
+ INFO: [copyOnlySelectedTracesToDevice:127] Selected 9906 traces
+ INFO: [copyOnlySelectedTracesToDevice:156] Copy time is 0.094156
+ INFO: [selectTracesToBeUsedForMidpoint:152] Execution time for copying traces is 0.103456s
+ INFO: [computeSemblanceAndParametersForMidpoint:68] parameterArrayStep = 1024
+ INFO: [computeSemblanceAndParametersForMidpoint:69] totalNumberOfParameters = 10000
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 250
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 125
+ INFO: [computeSemblanceAndParametersForMidpoint:85] Changing parameterArrayStep to 784
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 75
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 150
+ INFO: [computeSemblanceAndParametersForMidpoint:85] Changing parameterArrayStep to 784
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 100
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 225
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 175
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 200
+ INFO: [computeSemblanceAndParametersForMidpoint:85] Changing parameterArrayStep to 784
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 125
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 75
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 250
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 150
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 100
+ INFO: [saveStatisticalResults:111] Total execution time for selecting traces is 0.0803431s
+ INFO: [saveStatisticalResults:113] Total execution time for kernels is 85.391s
+ INFO: [activate:15] Activating GPU#4
+ INFO: [selectTracesToBeUsedForMidpoint:95] Using 296 blocks for traces filtering (threadCount = 1024)
+ INFO: [selectTracesToBeUsedForMidpoint:140] Execution time for filtering kernel is 1.0082e-05s
+ INFO: [copyOnlySelectedTracesToDevice:127] Selected 9906 traces
+ INFO: [copyOnlySelectedTracesToDevice:156] Copy time is 0.0937288
+ INFO: [selectTracesToBeUsedForMidpoint:152] Execution time for copying traces is 0.103493s
+ INFO: [computeSemblanceAndParametersForMidpoint:68] parameterArrayStep = 1024
+ INFO: [computeSemblanceAndParametersForMidpoint:69] totalNumberOfParameters = 10000
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 275
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 225
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 125
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 175
+ INFO: [saveStatisticalResults:111] Total execution time for selecting traces is 0.086214s
+ INFO: [saveStatisticalResults:113] Total execution time for kernels is 90.9662s
+ INFO: [activate:15] Activating GPU#2
+ INFO: [selectTracesToBeUsedForMidpoint:95] Using 296 blocks for traces filtering (threadCount = 1024)
+ INFO: [selectTracesToBeUsedForMidpoint:140] Execution time for filtering kernel is 1.004e-05s
+ INFO: [copyOnlySelectedTracesToDevice:127] Selected 9906 traces
+ INFO: [copyOnlySelectedTracesToDevice:156] Copy time is 0.093466
+ INFO: [selectTracesToBeUsedForMidpoint:152] Execution time for copying traces is 0.103497s
+ INFO: [computeSemblanceAndParametersForMidpoint:68] parameterArrayStep = 1024
+ INFO: [computeSemblanceAndParametersForMidpoint:69] totalNumberOfParameters = 10000
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 300
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 200
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 250
+ INFO: [computeSemblanceAndParametersForMidpoint:85] Changing parameterArrayStep to 784
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 150
+ INFO: [saveStatisticalResults:111] Total execution time for selecting traces is 0.0943289s
+ INFO: [saveStatisticalResults:113] Total execution time for kernels is 95.9653s
+ INFO: [activate:15] Activating GPU#6
+ INFO: [selectTracesToBeUsedForMidpoint:95] Using 296 blocks for traces filtering (threadCount = 1024)
+ INFO: [selectTracesToBeUsedForMidpoint:140] Execution time for filtering kernel is 1.0503e-05s
+ INFO: [copyOnlySelectedTracesToDevice:127] Selected 9906 traces
+ INFO: [copyOnlySelectedTracesToDevice:156] Copy time is 0.0920341
+ INFO: [selectTracesToBeUsedForMidpoint:152] Execution time for copying traces is 0.102134s
+ INFO: [computeSemblanceAndParametersForMidpoint:68] parameterArrayStep = 1024
+ INFO: [computeSemblanceAndParametersForMidpoint:69] totalNumberOfParameters = 10000
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 325
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 275
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 225
+ INFO: [computeSemblanceAndParametersForMidpoint:85] Changing parameterArrayStep to 784
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 175
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 200
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 300
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 250
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 150
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 325
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 275
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 225
+ INFO: [saveStatisticalResults:111] Total execution time for selecting traces is 0.103909s
+ INFO: [saveStatisticalResults:113] Total execution time for kernels is 114.292s
+ INFO: [activate:15] Activating GPU#7
+ INFO: [selectTracesToBeUsedForMidpoint:95] Using 296 blocks for traces filtering (threadCount = 1024)
+ INFO: [selectTracesToBeUsedForMidpoint:140] Execution time for filtering kernel is 1.028e-05s
+ INFO: [copyOnlySelectedTracesToDevice:127] Selected 9906 traces
+ INFO: [copyOnlySelectedTracesToDevice:156] Copy time is 0.0934145
+ INFO: [selectTracesToBeUsedForMidpoint:152] Execution time for copying traces is 0.102602s
+ INFO: [computeSemblanceAndParametersForMidpoint:68] parameterArrayStep = 1024
+ INFO: [computeSemblanceAndParametersForMidpoint:69] totalNumberOfParameters = 10000
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 350
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 175
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 200
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 300
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 250
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 325
+ INFO: [saveStatisticalResults:111] Total execution time for selecting traces is 0.112564s
+ INFO: [saveStatisticalResults:113] Total execution time for kernels is 123.708s
+ INFO: [activate:15] Activating GPU#3
+ INFO: [selectTracesToBeUsedForMidpoint:95] Using 296 blocks for traces filtering (threadCount = 1024)
+ INFO: [selectTracesToBeUsedForMidpoint:140] Execution time for filtering kernel is 1.0034e-05s
+ INFO: [copyOnlySelectedTracesToDevice:127] Selected 9906 traces
+ INFO: [copyOnlySelectedTracesToDevice:156] Copy time is 0.0928325
+ INFO: [selectTracesToBeUsedForMidpoint:152] Execution time for copying traces is 0.103015s
+ INFO: [computeSemblanceAndParametersForMidpoint:68] parameterArrayStep = 1024
+ INFO: [computeSemblanceAndParametersForMidpoint:69] totalNumberOfParameters = 10000
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 375
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 275
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 225
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 350
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 200
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 300
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 250
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 325
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 225
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 275
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 375
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 250
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 300
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 200
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 350
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 325
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 225
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 375
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 275
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 250
+ INFO: [computeSemblanceAndParametersForMidpoint:85] Changing parameterArrayStep to 784
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 200
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 300
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 350
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 325
+ INFO: [computeSemblanceAndParametersForMidpoint:85] Changing parameterArrayStep to 784
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 225
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 375
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 275
+ INFO: [computeSemblanceAndParametersForMidpoint:85] Changing parameterArrayStep to 784
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 250
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 200
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 300
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 350
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 325
+ INFO: [saveStatisticalResults:111] Total execution time for selecting traces is 0.103324s
+ INFO: [saveStatisticalResults:113] Total execution time for kernels is 118.524s
+ INFO: [activate:15] Activating GPU#0
+ INFO: [selectTracesToBeUsedForMidpoint:95] Using 296 blocks for traces filtering (threadCount = 1024)
+ INFO: [selectTracesToBeUsedForMidpoint:140] Execution time for filtering kernel is 1.0072e-05s
+ INFO: [copyOnlySelectedTracesToDevice:127] Selected 9906 traces
+ INFO: [copyOnlySelectedTracesToDevice:156] Copy time is 0.0936148
+ INFO: [selectTracesToBeUsedForMidpoint:152] Execution time for copying traces is 0.104345s
+ INFO: [computeSemblanceAndParametersForMidpoint:68] parameterArrayStep = 1024
+ INFO: [computeSemblanceAndParametersForMidpoint:69] totalNumberOfParameters = 10000
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 400
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 225
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 375
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 275
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 250
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 300
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 325
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 350
+ INFO: [saveStatisticalResults:111] Total execution time for selecting traces is 0.103255s
+ INFO: [saveStatisticalResults:113] Total execution time for kernels is 117.999s
+ INFO: [activate:15] Activating GPU#1
+ INFO: [selectTracesToBeUsedForMidpoint:95] Using 296 blocks for traces filtering (threadCount = 1024)
+ INFO: [selectTracesToBeUsedForMidpoint:140] Execution time for filtering kernel is 1.1032e-05s
+ INFO: [copyOnlySelectedTracesToDevice:127] Selected 9906 traces
+ INFO: [copyOnlySelectedTracesToDevice:156] Copy time is 0.0933001
+ INFO: [selectTracesToBeUsedForMidpoint:152] Execution time for copying traces is 0.103999s
+ INFO: [computeSemblanceAndParametersForMidpoint:68] parameterArrayStep = 1024
+ INFO: [computeSemblanceAndParametersForMidpoint:69] totalNumberOfParameters = 10000
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 425
+ INFO: [saveStatisticalResults:111] Total execution time for selecting traces is 0.103714s
+ INFO: [saveStatisticalResults:113] Total execution time for kernels is 113.851s
+ INFO: [activate:15] Activating GPU#5
+ INFO: [selectTracesToBeUsedForMidpoint:95] Using 296 blocks for traces filtering (threadCount = 1024)
+ INFO: [selectTracesToBeUsedForMidpoint:140] Execution time for filtering kernel is 1.0112e-05s
+ INFO: [copyOnlySelectedTracesToDevice:127] Selected 9906 traces
+ INFO: [copyOnlySelectedTracesToDevice:156] Copy time is 0.0945387
+ INFO: [selectTracesToBeUsedForMidpoint:152] Execution time for copying traces is 0.105099s
+ INFO: [computeSemblanceAndParametersForMidpoint:68] parameterArrayStep = 1024
+ INFO: [computeSemblanceAndParametersForMidpoint:69] totalNumberOfParameters = 10000
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 450
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 400
+ INFO: [computeSemblanceAndParametersForMidpoint:85] Changing parameterArrayStep to 784
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 275
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 375
+ INFO: [computeSemblanceAndParametersForMidpoint:85] Changing parameterArrayStep to 784
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 300
+ INFO: [computeSemblanceAndParametersForMidpoint:85] Changing parameterArrayStep to 784
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 325
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 350
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 425
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 450
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 400
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 275
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 375
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 300
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 325
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 350
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 425
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 450
+ INFO: [saveStatisticalResults:111] Total execution time for selecting traces is 0.103756s
+ INFO: [saveStatisticalResults:113] Total execution time for kernels is 123.613s
+ INFO: [activate:15] Activating GPU#4
+ INFO: [selectTracesToBeUsedForMidpoint:95] Using 296 blocks for traces filtering (threadCount = 1024)
+ INFO: [selectTracesToBeUsedForMidpoint:140] Execution time for filtering kernel is 9.979e-06s
+ INFO: [copyOnlySelectedTracesToDevice:127] Selected 9906 traces
+ INFO: [copyOnlySelectedTracesToDevice:156] Copy time is 0.093551
+ INFO: [selectTracesToBeUsedForMidpoint:152] Execution time for copying traces is 0.105014s
+ INFO: [computeSemblanceAndParametersForMidpoint:68] parameterArrayStep = 1024
+ INFO: [computeSemblanceAndParametersForMidpoint:69] totalNumberOfParameters = 10000
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 475
+ INFO: [saveStatisticalResults:111] Total execution time for selecting traces is 0.102395s
+ INFO: [saveStatisticalResults:113] Total execution time for kernels is 113.623s
+ INFO: [activate:15] Activating GPU#6
+ INFO: [selectTracesToBeUsedForMidpoint:95] Using 296 blocks for traces filtering (threadCount = 1024)
+ INFO: [selectTracesToBeUsedForMidpoint:140] Execution time for filtering kernel is 8.702e-06s
+ INFO: [copyOnlySelectedTracesToDevice:127] Selected 9906 traces
+ INFO: [saveStatisticalResults:111] Total execution time for selecting traces is 0.103755s
+ INFO: [saveStatisticalResults:113] Total execution time for kernels is 118.693s
+ INFO: [activate:15] Activating GPU#2
+ INFO: [selectTracesToBeUsedForMidpoint:95] Using 296 blocks for traces filtering (threadCount = 1024)
+ INFO: [selectTracesToBeUsedForMidpoint:140] Execution time for filtering kernel is 9.582e-06s
+ INFO: [copyOnlySelectedTracesToDevice:127] Selected 9906 traces
+ INFO: [copyOnlySelectedTracesToDevice:156] Copy time is 0.0910573
+ INFO: [selectTracesToBeUsedForMidpoint:152] Execution time for copying traces is 0.101513s
+ INFO: [computeSemblanceAndParametersForMidpoint:68] parameterArrayStep = 1024
+ INFO: [computeSemblanceAndParametersForMidpoint:69] totalNumberOfParameters = 10000
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 500
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 400
+ INFO: [copyOnlySelectedTracesToDevice:156] Copy time is 0.0934655
+ INFO: [selectTracesToBeUsedForMidpoint:152] Execution time for copying traces is 0.103586s
+ INFO: [computeSemblanceAndParametersForMidpoint:68] parameterArrayStep = 1024
+ INFO: [computeSemblanceAndParametersForMidpoint:69] totalNumberOfParameters = 10000
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 525
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 375
+ INFO: [computeSemblanceAndParametersForMidpoint:85] Changing parameterArrayStep to 784
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 350
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 425
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 450
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 500
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 400
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 475
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 525
+ INFO: [computeSemblanceAndParametersForMidpoint:85] Changing parameterArrayStep to 784
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 375
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 425
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 350
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 450
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 500
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 400
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 525
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 475
+ INFO: [saveStatisticalResults:111] Total execution time for selecting traces is 0.10289s
+ INFO: [saveStatisticalResults:113] Total execution time for kernels is 123.871s
+ INFO: [activate:15] Activating GPU#7
+ INFO: [selectTracesToBeUsedForMidpoint:95] Using 296 blocks for traces filtering (threadCount = 1024)
+ INFO: [selectTracesToBeUsedForMidpoint:140] Execution time for filtering kernel is 9.129e-06s
+ INFO: [copyOnlySelectedTracesToDevice:127] Selected 9906 traces
+ INFO: [copyOnlySelectedTracesToDevice:156] Copy time is 0.0932518
+ INFO: [selectTracesToBeUsedForMidpoint:152] Execution time for copying traces is 0.102479s
+ INFO: [computeSemblanceAndParametersForMidpoint:68] parameterArrayStep = 1024
+ INFO: [computeSemblanceAndParametersForMidpoint:69] totalNumberOfParameters = 10000
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 550
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 375
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 450
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 425
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 500
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 400
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 525
+ INFO: [saveStatisticalResults:111] Total execution time for selecting traces is 0.103271s
+ INFO: [saveStatisticalResults:113] Total execution time for kernels is 123.651s
+ INFO: [activate:15] Activating GPU#3
+ INFO: [selectTracesToBeUsedForMidpoint:95] Using 296 blocks for traces filtering (threadCount = 1024)
+ INFO: [selectTracesToBeUsedForMidpoint:140] Execution time for filtering kernel is 1.0155e-05s
+ INFO: [copyOnlySelectedTracesToDevice:127] Selected 9906 traces
+ INFO: [copyOnlySelectedTracesToDevice:156] Copy time is 0.092854
+ INFO: [selectTracesToBeUsedForMidpoint:152] Execution time for copying traces is 0.103212s
+ INFO: [computeSemblanceAndParametersForMidpoint:68] parameterArrayStep = 1024
+ INFO: [computeSemblanceAndParametersForMidpoint:69] totalNumberOfParameters = 10000
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 575
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 475
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 550
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 450
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 425
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 500
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 400
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 525
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 475
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 575
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 550
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 450
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 425
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 500
+ INFO: [computeSemblanceAndParametersForMidpoint:85] Changing parameterArrayStep to 784
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 400
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 525
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 575
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 475
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 550
+ INFO: [computeSemblanceAndParametersForMidpoint:85] Changing parameterArrayStep to 784
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 450
+ INFO: [computeSemblanceAndParametersForMidpoint:85] Changing parameterArrayStep to 784
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 425
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 500
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 400
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 525
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 575
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 475
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 450
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 550
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 425
+ INFO: [saveStatisticalResults:111] Total execution time for selecting traces is 0.104607s
+ INFO: [saveStatisticalResults:113] Total execution time for kernels is 118.482s
+ INFO: [activate:15] Activating GPU#0
+ INFO: [selectTracesToBeUsedForMidpoint:95] Using 296 blocks for traces filtering (threadCount = 1024)
+ INFO: [selectTracesToBeUsedForMidpoint:140] Execution time for filtering kernel is 9e-06s
+ INFO: [copyOnlySelectedTracesToDevice:127] Selected 9906 traces
+ INFO: [copyOnlySelectedTracesToDevice:156] Copy time is 0.0936393
+ INFO: [selectTracesToBeUsedForMidpoint:152] Execution time for copying traces is 0.104488s
+ INFO: [computeSemblanceAndParametersForMidpoint:68] parameterArrayStep = 1024
+ INFO: [computeSemblanceAndParametersForMidpoint:69] totalNumberOfParameters = 10000
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 600
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 500
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 525
+ INFO: [saveStatisticalResults:111] Total execution time for selecting traces is 0.105379s
+ INFO: [saveStatisticalResults:113] Total execution time for kernels is 113.679s
+ INFO: [activate:15] Activating GPU#5
+ INFO: [selectTracesToBeUsedForMidpoint:95] Using 296 blocks for traces filtering (threadCount = 1024)
+ INFO: [selectTracesToBeUsedForMidpoint:140] Execution time for filtering kernel is 1.0022e-05s
+ INFO: [copyOnlySelectedTracesToDevice:127] Selected 9906 traces
+ INFO: [copyOnlySelectedTracesToDevice:156] Copy time is 0.0940101
+ INFO: [selectTracesToBeUsedForMidpoint:152] Execution time for copying traces is 0.104439s
+ INFO: [computeSemblanceAndParametersForMidpoint:68] parameterArrayStep = 1024
+ INFO: [computeSemblanceAndParametersForMidpoint:69] totalNumberOfParameters = 10000
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 625
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 575
+ INFO: [saveStatisticalResults:111] Total execution time for selecting traces is 0.104269s
+ INFO: [saveStatisticalResults:113] Total execution time for kernels is 117.889s
+ INFO: [activate:15] Activating GPU#1
+ INFO: [selectTracesToBeUsedForMidpoint:95] Using 296 blocks for traces filtering (threadCount = 1024)
+ INFO: [selectTracesToBeUsedForMidpoint:140] Execution time for filtering kernel is 1.0019e-05s
+ INFO: [copyOnlySelectedTracesToDevice:127] Selected 9906 traces
+ INFO: [copyOnlySelectedTracesToDevice:156] Copy time is 0.0934018
+ INFO: [selectTracesToBeUsedForMidpoint:152] Execution time for copying traces is 0.104039s
+ INFO: [computeSemblanceAndParametersForMidpoint:68] parameterArrayStep = 1024
+ INFO: [computeSemblanceAndParametersForMidpoint:69] totalNumberOfParameters = 10000
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 650
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 475
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 550
+ INFO: [computeSemblanceAndParametersForMidpoint:85] Changing parameterArrayStep to 784
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 500
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 600
+ INFO: [computeSemblanceAndParametersForMidpoint:85] Changing parameterArrayStep to 784
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 525
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 625
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 650
+ INFO: [computeSemblanceAndParametersForMidpoint:85] Changing parameterArrayStep to 784
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 475
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 575
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 550
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 500
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 600
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 525
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 625
+ INFO: [saveStatisticalResults:111] Total execution time for selecting traces is 0.101761s
+ INFO: [saveStatisticalResults:113] Total execution time for kernels is 113.493s
+ INFO: [activate:15] Activating GPU#6
+ INFO: [selectTracesToBeUsedForMidpoint:95] Using 296 blocks for traces filtering (threadCount = 1024)
+ INFO: [selectTracesToBeUsedForMidpoint:140] Execution time for filtering kernel is 9.873e-06s
+ INFO: [copyOnlySelectedTracesToDevice:127] Selected 9906 traces
+ INFO: [copyOnlySelectedTracesToDevice:156] Copy time is 0.0929416
+ INFO: [selectTracesToBeUsedForMidpoint:152] Execution time for copying traces is 0.103423s
+ INFO: [computeSemblanceAndParametersForMidpoint:68] parameterArrayStep = 1024
+ INFO: [computeSemblanceAndParametersForMidpoint:69] totalNumberOfParameters = 10000
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 675
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 650
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 475
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 575
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 550
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 600
+ INFO: [saveStatisticalResults:111] Total execution time for selecting traces is 0.103831s
+ INFO: [saveStatisticalResults:113] Total execution time for kernels is 118.68s
+ INFO: [activate:15] Activating GPU#2
+ INFO: [selectTracesToBeUsedForMidpoint:95] Using 296 blocks for traces filtering (threadCount = 1024)
+ INFO: [selectTracesToBeUsedForMidpoint:140] Execution time for filtering kernel is 1.0047e-05s
+ INFO: [copyOnlySelectedTracesToDevice:127] Selected 9906 traces
+ INFO: [copyOnlySelectedTracesToDevice:156] Copy time is 0.0935898
+ INFO: [selectTracesToBeUsedForMidpoint:152] Execution time for copying traces is 0.10518s
+ INFO: [computeSemblanceAndParametersForMidpoint:68] parameterArrayStep = 1024
+ INFO: [computeSemblanceAndParametersForMidpoint:69] totalNumberOfParameters = 10000
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 700
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 625
+ INFO: [saveStatisticalResults:111] Total execution time for selecting traces is 0.105289s
+ INFO: [saveStatisticalResults:113] Total execution time for kernels is 123.775s
+ INFO: [activate:15] Activating GPU#4
+ INFO: [selectTracesToBeUsedForMidpoint:95] Using 296 blocks for traces filtering (threadCount = 1024)
+ INFO: [selectTracesToBeUsedForMidpoint:140] Execution time for filtering kernel is 1.0001e-05s
+ INFO: [copyOnlySelectedTracesToDevice:127] Selected 9906 traces
+ INFO: [copyOnlySelectedTracesToDevice:156] Copy time is 0.0926295
+ INFO: [selectTracesToBeUsedForMidpoint:152] Execution time for copying traces is 0.103345s
+ INFO: [computeSemblanceAndParametersForMidpoint:68] parameterArrayStep = 1024
+ INFO: [computeSemblanceAndParametersForMidpoint:69] totalNumberOfParameters = 10000
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 725
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 675
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 650
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 575
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 600
+ INFO: [computeSemblanceAndParametersForMidpoint:85] Changing parameterArrayStep to 784
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 550
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 700
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 625
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 725
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 675
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 650
+ INFO: [computeSemblanceAndParametersForMidpoint:85] Changing parameterArrayStep to 784
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 575
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 600
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 700
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 550
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 625
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 675
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 725
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 650
+ INFO: [saveStatisticalResults:111] Total execution time for selecting traces is 0.102734s
+ INFO: [saveStatisticalResults:113] Total execution time for kernels is 123.6s
+ INFO: [activate:15] Activating GPU#7
+ INFO: [selectTracesToBeUsedForMidpoint:95] Using 296 blocks for traces filtering (threadCount = 1024)
+ INFO: [selectTracesToBeUsedForMidpoint:140] Execution time for filtering kernel is 9.179e-06s
+ INFO: [copyOnlySelectedTracesToDevice:127] Selected 9906 traces
+ INFO: [copyOnlySelectedTracesToDevice:156] Copy time is 0.0947729
+ INFO: [selectTracesToBeUsedForMidpoint:152] Execution time for copying traces is 0.103293s
+ INFO: [computeSemblanceAndParametersForMidpoint:68] parameterArrayStep = 1024
+ INFO: [computeSemblanceAndParametersForMidpoint:69] totalNumberOfParameters = 10000
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 750
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 575
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 600
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 700
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 625
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 675
+ INFO: [saveStatisticalResults:111] Total execution time for selecting traces is 0.103468s
+ INFO: [saveStatisticalResults:113] Total execution time for kernels is 123.702s
+ INFO: [activate:15] Activating GPU#3
+ INFO: [selectTracesToBeUsedForMidpoint:95] Using 296 blocks for traces filtering (threadCount = 1024)
+ INFO: [selectTracesToBeUsedForMidpoint:140] Execution time for filtering kernel is 1.024e-05s
+ INFO: [copyOnlySelectedTracesToDevice:127] Selected 9906 traces
+ INFO: [copyOnlySelectedTracesToDevice:156] Copy time is 0.0961399
+ INFO: [selectTracesToBeUsedForMidpoint:152] Execution time for copying traces is 0.104024s
+ INFO: [computeSemblanceAndParametersForMidpoint:68] parameterArrayStep = 1024
+ INFO: [computeSemblanceAndParametersForMidpoint:69] totalNumberOfParameters = 10000
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 775
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 725
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 650
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 750
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 600
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 700
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 625
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 675
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 725
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 775
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 650
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 750
+ INFO: [computeSemblanceAndParametersForMidpoint:85] Changing parameterArrayStep to 784
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 600
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 700
+ INFO: [computeSemblanceAndParametersForMidpoint:85] Changing parameterArrayStep to 784
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 625
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 675
+ INFO: [computeSemblanceAndParametersForMidpoint:85] Changing parameterArrayStep to 784
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 650
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 775
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 725
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 750
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 600
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 700
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 625
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 675
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 650
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 775
+ INFO: [saveStatisticalResults:111] Total execution time for selecting traces is 0.10475s
+ INFO: [saveStatisticalResults:113] Total execution time for kernels is 118.608s
+ INFO: [activate:15] Activating GPU#0
+ INFO: [selectTracesToBeUsedForMidpoint:95] Using 296 blocks for traces filtering (threadCount = 1024)
+ INFO: [selectTracesToBeUsedForMidpoint:140] Execution time for filtering kernel is 9.015e-06s
+ INFO: [copyOnlySelectedTracesToDevice:127] Selected 9906 traces
+ INFO: [copyOnlySelectedTracesToDevice:156] Copy time is 0.0933259
+ INFO: [selectTracesToBeUsedForMidpoint:152] Execution time for copying traces is 0.104027s
+ INFO: [computeSemblanceAndParametersForMidpoint:68] parameterArrayStep = 1024
+ INFO: [computeSemblanceAndParametersForMidpoint:69] totalNumberOfParameters = 10000
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 800
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 725
+ INFO: [saveStatisticalResults:111] Total execution time for selecting traces is 0.104654s
+ INFO: [saveStatisticalResults:113] Total execution time for kernels is 113.669s
+ INFO: [activate:15] Activating GPU#5
+ INFO: [selectTracesToBeUsedForMidpoint:95] Using 296 blocks for traces filtering (threadCount = 1024)
+ INFO: [selectTracesToBeUsedForMidpoint:140] Execution time for filtering kernel is 9.325e-06s
+ INFO: [copyOnlySelectedTracesToDevice:127] Selected 9906 traces
+ INFO: [copyOnlySelectedTracesToDevice:156] Copy time is 0.0939161
+ INFO: [selectTracesToBeUsedForMidpoint:152] Execution time for copying traces is 0.104647s
+ INFO: [computeSemblanceAndParametersForMidpoint:68] parameterArrayStep = 1024
+ INFO: [computeSemblanceAndParametersForMidpoint:69] totalNumberOfParameters = 10000
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 825
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 750
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 700
+ INFO: [saveStatisticalResults:111] Total execution time for selecting traces is 0.104243s
+ INFO: [saveStatisticalResults:113] Total execution time for kernels is 118.101s
+ INFO: [activate:15] Activating GPU#1
+ INFO: [selectTracesToBeUsedForMidpoint:95] Using 296 blocks for traces filtering (threadCount = 1024)
+ INFO: [selectTracesToBeUsedForMidpoint:140] Execution time for filtering kernel is 1.1117e-05s
+ INFO: [copyOnlySelectedTracesToDevice:127] Selected 9906 traces
+ INFO: [copyOnlySelectedTracesToDevice:156] Copy time is 0.0937134
+ INFO: [selectTracesToBeUsedForMidpoint:152] Execution time for copying traces is 0.104346s
+ INFO: [computeSemblanceAndParametersForMidpoint:68] parameterArrayStep = 1024
+ INFO: [computeSemblanceAndParametersForMidpoint:69] totalNumberOfParameters = 10000
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 850
+ INFO: [computeSemblanceAndParametersForMidpoint:85] Changing parameterArrayStep to 784
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 675
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 800
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 775
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 825
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 725
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 750
+ INFO: [computeSemblanceAndParametersForMidpoint:85] Changing parameterArrayStep to 784
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 700
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 675
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 850
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 825
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 800
+ INFO: [computeSemblanceAndParametersForMidpoint:85] Changing parameterArrayStep to 784
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 725
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 775
+ INFO: [saveStatisticalResults:111] Total execution time for selecting traces is 0.103637s
+ INFO: [saveStatisticalResults:113] Total execution time for kernels is 113.596s
+ INFO: [activate:15] Activating GPU#6
+ INFO: [selectTracesToBeUsedForMidpoint:95] Using 296 blocks for traces filtering (threadCount = 1024)
+ INFO: [selectTracesToBeUsedForMidpoint:140] Execution time for filtering kernel is 9.2e-06s
+ INFO: [copyOnlySelectedTracesToDevice:127] Selected 9906 traces
+ INFO: [copyOnlySelectedTracesToDevice:156] Copy time is 0.0918458
+ INFO: [selectTracesToBeUsedForMidpoint:152] Execution time for copying traces is 0.10237s
+ INFO: [computeSemblanceAndParametersForMidpoint:68] parameterArrayStep = 1024
+ INFO: [computeSemblanceAndParametersForMidpoint:69] totalNumberOfParameters = 10000
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 875
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 700
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 750
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 850
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 825
+ INFO: [saveStatisticalResults:111] Total execution time for selecting traces is 0.105395s
+ INFO: [saveStatisticalResults:113] Total execution time for kernels is 118.405s
+ INFO: [activate:15] Activating GPU#2
+ INFO: [selectTracesToBeUsedForMidpoint:95] Using 296 blocks for traces filtering (threadCount = 1024)
+ INFO: [selectTracesToBeUsedForMidpoint:140] Execution time for filtering kernel is 9.053e-06s
+ INFO: [copyOnlySelectedTracesToDevice:127] Selected 9906 traces
+ INFO: [copyOnlySelectedTracesToDevice:156] Copy time is 0.0928951
+ INFO: [selectTracesToBeUsedForMidpoint:152] Execution time for copying traces is 0.103747s
+ INFO: [computeSemblanceAndParametersForMidpoint:68] parameterArrayStep = 1024
+ INFO: [computeSemblanceAndParametersForMidpoint:69] totalNumberOfParameters = 10000
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 900
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 800
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 775
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 725
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 875
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 750
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 850
+ INFO: [saveStatisticalResults:111] Total execution time for selecting traces is 0.103557s
+ INFO: [saveStatisticalResults:113] Total execution time for kernels is 123.709s
+ INFO: [activate:15] Activating GPU#4
+ INFO: [selectTracesToBeUsedForMidpoint:95] Using 296 blocks for traces filtering (threadCount = 1024)
+ INFO: [selectTracesToBeUsedForMidpoint:140] Execution time for filtering kernel is 1.2107e-05s
+ INFO: [copyOnlySelectedTracesToDevice:127] Selected 9906 traces
+ INFO: [copyOnlySelectedTracesToDevice:156] Copy time is 0.0924451
+ INFO: [selectTracesToBeUsedForMidpoint:152] Execution time for copying traces is 0.103365s
+ INFO: [computeSemblanceAndParametersForMidpoint:68] parameterArrayStep = 1024
+ INFO: [computeSemblanceAndParametersForMidpoint:69] totalNumberOfParameters = 10000
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 925
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 825
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 800
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 900
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 875
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 775
+ INFO: [computeSemblanceAndParametersForMidpoint:85] Changing parameterArrayStep to 784
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 750
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 850
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 825
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 925
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 800
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 900
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 875
+ INFO: [computeSemblanceAndParametersForMidpoint:85] Changing parameterArrayStep to 784
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 775
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 750
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 850
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 825
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 925
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 875
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 900
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 800
+ INFO: [saveStatisticalResults:111] Total execution time for selecting traces is 0.103507s
+ INFO: [saveStatisticalResults:113] Total execution time for kernels is 123.904s
+ INFO: [activate:15] Activating GPU#7
+ INFO: [selectTracesToBeUsedForMidpoint:95] Using 296 blocks for traces filtering (threadCount = 1024)
+ INFO: [selectTracesToBeUsedForMidpoint:140] Execution time for filtering kernel is 9.013e-06s
+ INFO: [copyOnlySelectedTracesToDevice:127] Selected 9906 traces
+ INFO: [copyOnlySelectedTracesToDevice:156] Copy time is 0.0929785
+ INFO: [selectTracesToBeUsedForMidpoint:152] Execution time for copying traces is 0.102335s
+ INFO: [computeSemblanceAndParametersForMidpoint:68] parameterArrayStep = 1024
+ INFO: [computeSemblanceAndParametersForMidpoint:69] totalNumberOfParameters = 10000
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 950
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 775
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 850
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 825
+ INFO: [saveStatisticalResults:111] Total execution time for selecting traces is 0.10424s
+ INFO: [saveStatisticalResults:113] Total execution time for kernels is 123.816s
+ INFO: [activate:15] Activating GPU#3
+ INFO: [selectTracesToBeUsedForMidpoint:95] Using 296 blocks for traces filtering (threadCount = 1024)
+ INFO: [selectTracesToBeUsedForMidpoint:140] Execution time for filtering kernel is 1.0134e-05s
+ INFO: [copyOnlySelectedTracesToDevice:127] Selected 9906 traces
+ INFO: [copyOnlySelectedTracesToDevice:156] Copy time is 0.092257
+ INFO: [selectTracesToBeUsedForMidpoint:152] Execution time for copying traces is 0.10288s
+ INFO: [computeSemblanceAndParametersForMidpoint:68] parameterArrayStep = 1024
+ INFO: [computeSemblanceAndParametersForMidpoint:69] totalNumberOfParameters = 10000
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 975
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 925
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 875
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 900
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 800
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 950
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 850
+ INFO: [computeSemblanceAndParametersForMidpoint:85] Changing parameterArrayStep to 784
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 825
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 875
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 925
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 975
+ INFO: [computeSemblanceAndParametersForMidpoint:85] Changing parameterArrayStep to 784
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 800
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 900
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 950
+ INFO: [computeSemblanceAndParametersForMidpoint:85] Changing parameterArrayStep to 784
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 850
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 825
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 875
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 800
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 900
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 925
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 975
+ INFO: [saveStatisticalResults:111] Total execution time for selecting traces is 0.104862s
+ INFO: [saveStatisticalResults:113] Total execution time for kernels is 113.576s
+ INFO: [activate:15] Activating GPU#5
+ INFO: [selectTracesToBeUsedForMidpoint:95] Using 296 blocks for traces filtering (threadCount = 1024)
+ INFO: [selectTracesToBeUsedForMidpoint:140] Execution time for filtering kernel is 1.1331e-05s
+ INFO: [copyOnlySelectedTracesToDevice:127] Selected 9906 traces
+ INFO: [copyOnlySelectedTracesToDevice:156] Copy time is 0.0967045
+ INFO: [selectTracesToBeUsedForMidpoint:152] Execution time for copying traces is 0.10921s
+ INFO: [computeSemblanceAndParametersForMidpoint:68] parameterArrayStep = 1024
+ INFO: [computeSemblanceAndParametersForMidpoint:69] totalNumberOfParameters = 10000
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 1000
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 950
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 850
+ INFO: [saveStatisticalResults:111] Total execution time for selecting traces is 0.104288s
+ INFO: [saveStatisticalResults:113] Total execution time for kernels is 118.681s
+ INFO: [activate:15] Activating GPU#0
+ INFO: [selectTracesToBeUsedForMidpoint:95] Using 296 blocks for traces filtering (threadCount = 1024)
+ INFO: [selectTracesToBeUsedForMidpoint:140] Execution time for filtering kernel is 9.72e-06s
+ INFO: [copyOnlySelectedTracesToDevice:127] Selected 9906 traces
+ INFO: [copyOnlySelectedTracesToDevice:156] Copy time is 0.0965485
+ INFO: [selectTracesToBeUsedForMidpoint:152] Execution time for copying traces is 0.104426s
+ INFO: [computeSemblanceAndParametersForMidpoint:68] parameterArrayStep = 1024
+ INFO: [computeSemblanceAndParametersForMidpoint:69] totalNumberOfParameters = 10000
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 1025
+ INFO: [computeSemblanceAndParametersForMidpoint:85] Changing parameterArrayStep to 784
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 875
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 900
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 975
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 925
+ INFO: [saveStatisticalResults:111] Total execution time for selecting traces is 0.104556s
+ INFO: [saveStatisticalResults:113] Total execution time for kernels is 118.171s
+ INFO: [activate:15] Activating GPU#1
+ INFO: [selectTracesToBeUsedForMidpoint:95] Using 296 blocks for traces filtering (threadCount = 1024)
+ INFO: [selectTracesToBeUsedForMidpoint:140] Execution time for filtering kernel is 1.0086e-05s
+ INFO: [copyOnlySelectedTracesToDevice:127] Selected 9906 traces
+ INFO: [copyOnlySelectedTracesToDevice:156] Copy time is 0.0944128
+ INFO: [selectTracesToBeUsedForMidpoint:152] Execution time for copying traces is 0.104683s
+ INFO: [computeSemblanceAndParametersForMidpoint:68] parameterArrayStep = 1024
+ INFO: [computeSemblanceAndParametersForMidpoint:69] totalNumberOfParameters = 10000
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 1050
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 1000
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 950
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 1025
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 875
+ INFO: [computeSemblanceAndParametersForMidpoint:85] Changing parameterArrayStep to 784
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 900
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 925
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 975
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 1050
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 1000
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 950
+ INFO: [saveStatisticalResults:111] Total execution time for selecting traces is 0.102579s
+ INFO: [saveStatisticalResults:113] Total execution time for kernels is 113.387s
+ INFO: [activate:15] Activating GPU#6
+ INFO: [selectTracesToBeUsedForMidpoint:95] Using 296 blocks for traces filtering (threadCount = 1024)
+ INFO: [selectTracesToBeUsedForMidpoint:140] Execution time for filtering kernel is 9.401e-06s
+ INFO: [copyOnlySelectedTracesToDevice:127] Selected 9906 traces
+ INFO: [copyOnlySelectedTracesToDevice:156] Copy time is 0.0916428
+ INFO: [selectTracesToBeUsedForMidpoint:152] Execution time for copying traces is 0.102112s
+ INFO: [computeSemblanceAndParametersForMidpoint:68] parameterArrayStep = 1024
+ INFO: [computeSemblanceAndParametersForMidpoint:69] totalNumberOfParameters = 10000
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 1075
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 1025
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 900
+ INFO: [computeSemblanceAndParametersForMidpoint:85] Changing parameterArrayStep to 784
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 925
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 975
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 1000
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 1050
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 1075
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 950
+ INFO: [saveStatisticalResults:111] Total execution time for selecting traces is 0.10396s
+ INFO: [saveStatisticalResults:113] Total execution time for kernels is 118.583s
+ INFO: [activate:15] Activating GPU#2
+ INFO: [selectTracesToBeUsedForMidpoint:95] Using 296 blocks for traces filtering (threadCount = 1024)
+ INFO: [selectTracesToBeUsedForMidpoint:140] Execution time for filtering kernel is 1.0721e-05s
+ INFO: [copyOnlySelectedTracesToDevice:127] Selected 9906 traces
+ INFO: [copyOnlySelectedTracesToDevice:156] Copy time is 0.0963205
+ INFO: [selectTracesToBeUsedForMidpoint:152] Execution time for copying traces is 0.104619s
+ INFO: [computeSemblanceAndParametersForMidpoint:68] parameterArrayStep = 1024
+ INFO: [computeSemblanceAndParametersForMidpoint:69] totalNumberOfParameters = 10000
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 1100
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 1025
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 1000
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 1050
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 925
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 975
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 1075
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 950
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 1025
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 1100
+ INFO: [saveStatisticalResults:111] Total execution time for selecting traces is 0.103581s
+ INFO: [saveStatisticalResults:113] Total execution time for kernels is 123.658s
+ INFO: [activate:15] Activating GPU#4
+ INFO: [selectTracesToBeUsedForMidpoint:95] Using 296 blocks for traces filtering (threadCount = 1024)
+ INFO: [selectTracesToBeUsedForMidpoint:140] Execution time for filtering kernel is 1.1305e-05s
+ INFO: [copyOnlySelectedTracesToDevice:127] Selected 9906 traces
+ INFO: [copyOnlySelectedTracesToDevice:156] Copy time is 0.0969465
+ INFO: [selectTracesToBeUsedForMidpoint:152] Execution time for copying traces is 0.104332s
+ INFO: [computeSemblanceAndParametersForMidpoint:68] parameterArrayStep = 1024
+ INFO: [computeSemblanceAndParametersForMidpoint:69] totalNumberOfParameters = 10000
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 1125
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 1000
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 1050
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 975
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 1075
+ INFO: [computeSemblanceAndParametersForMidpoint:85] Changing parameterArrayStep to 784
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 950
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 1025
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 1100
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 1125
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 1000
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 1050
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 1075
+ INFO: [computeSemblanceAndParametersForMidpoint:85] Changing parameterArrayStep to 784
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 975
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 950
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 1100
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 1025
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 1125
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 1000
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 1050
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 1075
+ INFO: [saveStatisticalResults:111] Total execution time for selecting traces is 0.10255s
+ INFO: [saveStatisticalResults:113] Total execution time for kernels is 123.673s
+ INFO: [activate:15] Activating GPU#7
+ INFO: [selectTracesToBeUsedForMidpoint:95] Using 296 blocks for traces filtering (threadCount = 1024)
+ INFO: [selectTracesToBeUsedForMidpoint:140] Execution time for filtering kernel is 9.288e-06s
+ INFO: [copyOnlySelectedTracesToDevice:127] Selected 9906 traces
+ INFO: [copyOnlySelectedTracesToDevice:156] Copy time is 0.095422
+ INFO: [selectTracesToBeUsedForMidpoint:152] Execution time for copying traces is 0.103494s
+ INFO: [computeSemblanceAndParametersForMidpoint:68] parameterArrayStep = 1024
+ INFO: [computeSemblanceAndParametersForMidpoint:69] totalNumberOfParameters = 10000
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 1150
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 975
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 1100
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 1025
+ INFO: [computeSemblanceAndParametersForMidpoint:85] Changing parameterArrayStep to 784
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 1000
+ INFO: [saveStatisticalResults:111] Total execution time for selecting traces is 0.103086s
+ INFO: [saveStatisticalResults:113] Total execution time for kernels is 123.882s
+ INFO: [activate:15] Activating GPU#3
+ INFO: [selectTracesToBeUsedForMidpoint:95] Using 296 blocks for traces filtering (threadCount = 1024)
+ INFO: [selectTracesToBeUsedForMidpoint:140] Execution time for filtering kernel is 9.809e-06s
+ INFO: [copyOnlySelectedTracesToDevice:127] Selected 9906 traces
+ INFO: [copyOnlySelectedTracesToDevice:156] Copy time is 0.0966447
+ INFO: [selectTracesToBeUsedForMidpoint:152] Execution time for copying traces is 0.104068s
+ INFO: [computeSemblanceAndParametersForMidpoint:68] parameterArrayStep = 1024
+ INFO: [computeSemblanceAndParametersForMidpoint:69] totalNumberOfParameters = 10000
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 1175
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 1125
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 1075
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 1050
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 1150
+ INFO: [computeSemblanceAndParametersForMidpoint:85] Changing parameterArrayStep to 784
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 1025
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 1100
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 1000
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 1125
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 1175
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 1075
+ INFO: [computeSemblanceAndParametersForMidpoint:85] Changing parameterArrayStep to 784
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 1050
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 1150
+ INFO: [saveStatisticalResults:111] Total execution time for selecting traces is 0.109432s
+ INFO: [saveStatisticalResults:113] Total execution time for kernels is 113.904s
+ INFO: [activate:15] Activating GPU#5
+ INFO: [selectTracesToBeUsedForMidpoint:95] Using 296 blocks for traces filtering (threadCount = 1024)
+ INFO: [selectTracesToBeUsedForMidpoint:140] Execution time for filtering kernel is 1.2346e-05s
+ INFO: [copyOnlySelectedTracesToDevice:127] Selected 9906 traces
+ INFO: [copyOnlySelectedTracesToDevice:156] Copy time is 0.0969531
+ INFO: [selectTracesToBeUsedForMidpoint:152] Execution time for copying traces is 0.104386s
+ INFO: [computeSemblanceAndParametersForMidpoint:68] parameterArrayStep = 1024
+ INFO: [computeSemblanceAndParametersForMidpoint:69] totalNumberOfParameters = 10000
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 1200
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 1100
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 1025
+ INFO: [computeSemblanceAndParametersForMidpoint:85] Changing parameterArrayStep to 784
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 1075
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 1125
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 1175
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 1050
+ INFO: [saveStatisticalResults:111] Total execution time for selecting traces is 0.10468s
+ INFO: [saveStatisticalResults:113] Total execution time for kernels is 118.59s
+ INFO: [activate:15] Activating GPU#0
+ INFO: [selectTracesToBeUsedForMidpoint:95] Using 296 blocks for traces filtering (threadCount = 1024)
+ INFO: [selectTracesToBeUsedForMidpoint:140] Execution time for filtering kernel is 1.3772e-05s
+ INFO: [copyOnlySelectedTracesToDevice:127] Selected 9906 traces
+ INFO: [copyOnlySelectedTracesToDevice:156] Copy time is 0.0969332
+ INFO: [selectTracesToBeUsedForMidpoint:152] Execution time for copying traces is 0.104802s
+ INFO: [computeSemblanceAndParametersForMidpoint:68] parameterArrayStep = 1024
+ INFO: [computeSemblanceAndParametersForMidpoint:69] totalNumberOfParameters = 10000
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 1225
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 1150
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 1200
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 1100
+ INFO: [saveStatisticalResults:111] Total execution time for selecting traces is 0.10489s
+ INFO: [saveStatisticalResults:113] Total execution time for kernels is 118.23s
+ INFO: [activate:15] Activating GPU#1
+ INFO: [selectTracesToBeUsedForMidpoint:95] Using 296 blocks for traces filtering (threadCount = 1024)
+ INFO: [selectTracesToBeUsedForMidpoint:140] Execution time for filtering kernel is 1.0917e-05s
+ INFO: [copyOnlySelectedTracesToDevice:127] Selected 9906 traces
+ INFO: [copyOnlySelectedTracesToDevice:156] Copy time is 0.0943458
+ INFO: [selectTracesToBeUsedForMidpoint:152] Execution time for copying traces is 0.104722s
+ INFO: [computeSemblanceAndParametersForMidpoint:68] parameterArrayStep = 1024
+ INFO: [computeSemblanceAndParametersForMidpoint:69] totalNumberOfParameters = 10000
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 1250
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 1075
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 1125
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 1175
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 1225
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 1150
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 1200
+ INFO: [computeSemblanceAndParametersForMidpoint:85] Changing parameterArrayStep to 784
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 1100
+ INFO: [saveStatisticalResults:111] Total execution time for selecting traces is 0.102326s
+ INFO: [saveStatisticalResults:113] Total execution time for kernels is 113.507s
+ INFO: [activate:15] Activating GPU#6
+ INFO: [selectTracesToBeUsedForMidpoint:95] Using 296 blocks for traces filtering (threadCount = 1024)
+ INFO: [selectTracesToBeUsedForMidpoint:140] Execution time for filtering kernel is 9.032e-06s
+ INFO: [copyOnlySelectedTracesToDevice:127] Selected 9906 traces
+ INFO: [copyOnlySelectedTracesToDevice:156] Copy time is 0.0917009
+ INFO: [selectTracesToBeUsedForMidpoint:152] Execution time for copying traces is 0.102119s
+ INFO: [computeSemblanceAndParametersForMidpoint:68] parameterArrayStep = 1024
+ INFO: [computeSemblanceAndParametersForMidpoint:69] totalNumberOfParameters = 10000
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 1275
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 1250
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 1125
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 1175
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 1225
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 1200
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 1150
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 1275
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 1100
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 1250
+ INFO: [computeSemblanceAndParametersForMidpoint:85] Changing parameterArrayStep to 784
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 1125
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 1175
+ INFO: [saveStatisticalResults:111] Total execution time for selecting traces is 0.104832s
+ INFO: [saveStatisticalResults:113] Total execution time for kernels is 118.38s
+ INFO: [activate:15] Activating GPU#2
+ INFO: [selectTracesToBeUsedForMidpoint:95] Using 296 blocks for traces filtering (threadCount = 1024)
+ INFO: [selectTracesToBeUsedForMidpoint:140] Execution time for filtering kernel is 9.236e-06s
+ INFO: [copyOnlySelectedTracesToDevice:127] Selected 9906 traces
+ INFO: [copyOnlySelectedTracesToDevice:156] Copy time is 0.093875
+ INFO: [selectTracesToBeUsedForMidpoint:152] Execution time for copying traces is 0.103965s
+ INFO: [computeSemblanceAndParametersForMidpoint:68] parameterArrayStep = 1024
+ INFO: [computeSemblanceAndParametersForMidpoint:69] totalNumberOfParameters = 10000
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 1300
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 1225
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 1200
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 1150
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 1275
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 1250
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 1125
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 1175
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 1300
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 1225
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 1200
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 1275
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 1150
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 1250
+ INFO: [saveStatisticalResults:111] Total execution time for selecting traces is 0.104549s
+ INFO: [saveStatisticalResults:113] Total execution time for kernels is 123.777s
+ INFO: [activate:15] Activating GPU#4
+ INFO: [selectTracesToBeUsedForMidpoint:95] Using 296 blocks for traces filtering (threadCount = 1024)
+ INFO: [selectTracesToBeUsedForMidpoint:140] Execution time for filtering kernel is 1.1107e-05s
+ INFO: [copyOnlySelectedTracesToDevice:127] Selected 9906 traces
+ INFO: [copyOnlySelectedTracesToDevice:156] Copy time is 0.0929727
+ INFO: [selectTracesToBeUsedForMidpoint:152] Execution time for copying traces is 0.10323s
+ INFO: [computeSemblanceAndParametersForMidpoint:68] parameterArrayStep = 1024
+ INFO: [computeSemblanceAndParametersForMidpoint:69] totalNumberOfParameters = 10000
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 1325
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 1300
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 1175
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 1200
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 1225
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 1275
+ INFO: [computeSemblanceAndParametersForMidpoint:85] Changing parameterArrayStep to 784
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 1150
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 1250
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 1325
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 1200
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 1300
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 1225
+ INFO: [computeSemblanceAndParametersForMidpoint:85] Changing parameterArrayStep to 784
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 1175
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 1275
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 1150
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 1250
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 1325
+ INFO: [computeSemblanceAndParametersForMidpoint:85] Changing parameterArrayStep to 784
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 1200
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 1300
+ INFO: [saveStatisticalResults:111] Total execution time for selecting traces is 0.103707s
+ INFO: [saveStatisticalResults:113] Total execution time for kernels is 123.916s
+ INFO: [activate:15] Activating GPU#7
+ INFO: [selectTracesToBeUsedForMidpoint:95] Using 296 blocks for traces filtering (threadCount = 1024)
+ INFO: [selectTracesToBeUsedForMidpoint:140] Execution time for filtering kernel is 1.028e-05s
+ INFO: [copyOnlySelectedTracesToDevice:127] Selected 9906 traces
+ INFO: [copyOnlySelectedTracesToDevice:156] Copy time is 0.0948073
+ INFO: [selectTracesToBeUsedForMidpoint:152] Execution time for copying traces is 0.103461s
+ INFO: [computeSemblanceAndParametersForMidpoint:68] parameterArrayStep = 1024
+ INFO: [computeSemblanceAndParametersForMidpoint:69] totalNumberOfParameters = 10000
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 1350
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 1225
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 1275
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 1175
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 1250
+ INFO: [saveStatisticalResults:111] Total execution time for selecting traces is 0.104279s
+ INFO: [saveStatisticalResults:113] Total execution time for kernels is 123.716s
+ INFO: [activate:15] Activating GPU#3
+ INFO: [selectTracesToBeUsedForMidpoint:95] Using 296 blocks for traces filtering (threadCount = 1024)
+ INFO: [selectTracesToBeUsedForMidpoint:140] Execution time for filtering kernel is 9.815e-06s
+ INFO: [copyOnlySelectedTracesToDevice:127] Selected 9906 traces
+ INFO: [copyOnlySelectedTracesToDevice:156] Copy time is 0.0963025
+ INFO: [selectTracesToBeUsedForMidpoint:152] Execution time for copying traces is 0.104212s
+ INFO: [computeSemblanceAndParametersForMidpoint:68] parameterArrayStep = 1024
+ INFO: [computeSemblanceAndParametersForMidpoint:69] totalNumberOfParameters = 10000
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 1375
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 1325
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 1200
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 1300
+ INFO: [computeSemblanceAndParametersForMidpoint:85] Changing parameterArrayStep to 784
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 1225
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 1275
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 1350
+ INFO: [computeSemblanceAndParametersForMidpoint:85] Changing parameterArrayStep to 784
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 1250
+ INFO: [saveStatisticalResults:111] Total execution time for selecting traces is 0.104608s
+ INFO: [saveStatisticalResults:113] Total execution time for kernels is 113.642s
+ INFO: [activate:15] Activating GPU#5
+ INFO: [selectTracesToBeUsedForMidpoint:95] Using 296 blocks for traces filtering (threadCount = 1024)
+ INFO: [selectTracesToBeUsedForMidpoint:140] Execution time for filtering kernel is 1.1202e-05s
+ INFO: [copyOnlySelectedTracesToDevice:127] Selected 9906 traces
+ INFO: [copyOnlySelectedTracesToDevice:156] Copy time is 0.0969623
+ INFO: [selectTracesToBeUsedForMidpoint:152] Execution time for copying traces is 0.104832s
+ INFO: [computeSemblanceAndParametersForMidpoint:68] parameterArrayStep = 1024
+ INFO: [computeSemblanceAndParametersForMidpoint:69] totalNumberOfParameters = 10000
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 1400
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 1325
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 1375
+ INFO: [computeSemblanceAndParametersForMidpoint:85] Changing parameterArrayStep to 784
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 1275
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 1300
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 1225
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 1350
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 1250
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 1400
+ INFO: [saveStatisticalResults:111] Total execution time for selecting traces is 0.105071s
+ INFO: [saveStatisticalResults:113] Total execution time for kernels is 118.829s
+ INFO: [activate:15] Activating GPU#0
+ INFO: [selectTracesToBeUsedForMidpoint:95] Using 296 blocks for traces filtering (threadCount = 1024)
+ INFO: [selectTracesToBeUsedForMidpoint:140] Execution time for filtering kernel is 9.143e-06s
+ INFO: [copyOnlySelectedTracesToDevice:127] Selected 9906 traces
+ INFO: [copyOnlySelectedTracesToDevice:156] Copy time is 0.0949712
+ INFO: [selectTracesToBeUsedForMidpoint:152] Execution time for copying traces is 0.105126s
+ INFO: [computeSemblanceAndParametersForMidpoint:68] parameterArrayStep = 1024
+ INFO: [computeSemblanceAndParametersForMidpoint:69] totalNumberOfParameters = 10000
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 1425
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 1325
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 1375
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 1275
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 1300
+ INFO: [saveStatisticalResults:111] Total execution time for selecting traces is 0.104933s
+ INFO: [saveStatisticalResults:113] Total execution time for kernels is 118.269s
+ INFO: [activate:15] Activating GPU#1
+ INFO: [selectTracesToBeUsedForMidpoint:95] Using 296 blocks for traces filtering (threadCount = 1024)
+ INFO: [selectTracesToBeUsedForMidpoint:140] Execution time for filtering kernel is 1.0037e-05s
+ INFO: [copyOnlySelectedTracesToDevice:127] Selected 9906 traces
+ INFO: [copyOnlySelectedTracesToDevice:156] Copy time is 0.0937186
+ INFO: [selectTracesToBeUsedForMidpoint:152] Execution time for copying traces is 0.105912s
+ INFO: [computeSemblanceAndParametersForMidpoint:68] parameterArrayStep = 1024
+ INFO: [computeSemblanceAndParametersForMidpoint:69] totalNumberOfParameters = 10000
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 1450
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 1350
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 1400
+ INFO: [saveStatisticalResults:111] Total execution time for selecting traces is 0.102331s
+ INFO: [saveStatisticalResults:113] Total execution time for kernels is 113.133s
+ INFO: [activate:15] Activating GPU#6
+ INFO: [selectTracesToBeUsedForMidpoint:95] Using 296 blocks for traces filtering (threadCount = 1024)
+ INFO: [selectTracesToBeUsedForMidpoint:140] Execution time for filtering kernel is 8.954e-06s
+ INFO: [copyOnlySelectedTracesToDevice:127] Selected 9906 traces
+ INFO: [copyOnlySelectedTracesToDevice:156] Copy time is 0.0916573
+ INFO: [selectTracesToBeUsedForMidpoint:152] Execution time for copying traces is 0.102178s
+ INFO: [computeSemblanceAndParametersForMidpoint:68] parameterArrayStep = 1024
+ INFO: [computeSemblanceAndParametersForMidpoint:69] totalNumberOfParameters = 10000
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 1475
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 1425
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 1375
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 1325
+ INFO: [computeSemblanceAndParametersForMidpoint:85] Changing parameterArrayStep to 784
+ INFO: [computeSemblanceAtGpuForMidpoint:29] Computing semblance for m0 = 1300
