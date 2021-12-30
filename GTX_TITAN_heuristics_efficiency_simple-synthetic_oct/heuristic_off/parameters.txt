@@ -1,0 +1,24 @@
+** spits (differential evolution algorithm) **
+
+** Method ga **
+** Common Parameters **
+input data = /home/gustavociotto/repo/CMP/data/simple-synthetic.su
+aph = 600
+tau = 0.02
+azimuth = 0 rad
+
+** CRP parameters **
+
+apm = 150
+aph0 = 0
+vmin = 450
+vmax = 6000
+amin = -0.001
+amax = 0.001
+h = 100
+
+** GA parameters **
+
+gen = 30
+pop_size = 32
+duration = 513.191 seconds
