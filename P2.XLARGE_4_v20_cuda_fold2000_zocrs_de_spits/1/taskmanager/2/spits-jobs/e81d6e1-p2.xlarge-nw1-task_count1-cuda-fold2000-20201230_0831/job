@@ -1,0 +1,1 @@
+bin/spitz_de --aph 1000 --apm 150 --azimuth 90 --tau 0.02 --input /home/ubuntu/nfs/data/fold2000.su --output /home/ubuntu/nfs/out/p2.xlarge/e81d6e1/cuda_1_1/zocrs/de/cuda/fold2000 --lower-bounds 450 --upper-bounds 6000 --generations 32 --population-size 32 --traveltime zocrs --ain 60 --v0 2000 --bpctg 0.1 --verbose 1

@@ -1,0 +1,1 @@
+bin/spitz_de --aph 1000 --apm 150 --azimuth 90 --tau 0.02 --input /home/ubuntu/nfs/data/fold2000.su --output /home/ubuntu/spits-jobs/9027a04-p2.xlarge-1-4-cuda-fold2000-zocrs-de-20210804_1044 --lower-bounds 450 --upper-bounds 6000 --generations 32 --population-size 32 --traveltime zocrs --ain 60 --v0 2000 --bpctg 0.1 --thread-count 64 --verbose 1
